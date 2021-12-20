@@ -1,0 +1,3825 @@
+UID,tag,familiar,how_often,first,second,third
+3,romance,5,5,love,relationship ,happiness
+3,religion,5,5,worship,god,pilgrim
+3,disturbing,5,5,fights ,gore,blood
+3,witty,3,3,clever,smart,funny
+3,space,5,5,stars,galaxy,nebula
+7,religion,3,4,temple,pray,belive
+7,humorous,4,4,happy,laugh,words
+7,pirates,4,3,money ,illegal,criminal
+7,musical,5,4,dance,instrumental,musician
+7,superhero,2,3,protect,honest,power
+7,holocaust,3,4,damage,mercy,fire
+7,predictable,2,4,rain,climate,health
+7,overrated,4,3,words,attitude,ego
+7,thriller,2,3,panic,adventure,risk
+7,steampunk,2,2,machine,steam,new
+31,funny,5,4,smile,joke,comedy
+31,space,2,5,place,huge,long
+31,animation,4,5,cartoon,graphics ,child
+31,steampunk,3,3,steam,punk,style
+31,stylized,2,4,ceremonial,elegant ,exaggerated 
+31,pirates,3,3,rover,raider,freebooter
+31,surreal,4,5,weird ,unreal,fake
+31,stupid,4,3,nonsense,foolish,funny
+31,christmas,4,4,cultural ,religion,vacation 
+31,romance,5,4,love,couple,family
+40,unique,4,3,singly,unique,incomparable
+40,western,3,3,freedom, grateful,full
+40,documentary,3,4,Writing the Script,Finesse Your Project.,.Compel Your Viewer
+40,animation,4,3,energy, enthusiasm,ardor
+40,boring,4,3,blahs,doldrums,ennui
+40,twist ending,3,3,Once in a blue moon,Reading a book,To be free
+40,pirates,3,2,ahoy - hello,Sink me,Shiver me timbers
+40,surreal,4,3,aberrant,abnormal,absurd
+40,martial arts,4,3,Jujutsu: Japan,Ninjutsu: Japan,Taekwondo: Korea
+44,existentialism,4,4,HUMAN ,EXISTENCE,INQUIRY
+44,comedy,4,4,JOKE,LAUGH ,SMILE
+44,mafia,4,4,GANG,FILM,MURDER
+44,comic book,5,5,STORY,STUDY,INTEREST
+44,horror,5,5,THRILL,FILM,FEEL
+44,animation,4,4,CARTOON,DRAWING,MOVEMENT
+44,prison,4,4,JAIL,ARREST,PUNISH
+44,art house,4,4,HUT,HOME,DRAWING
+44,western,4,4,DANCE,SONG,STYLE
+44,serial killer,4,4,KILLING,MURDER,REPEAT
+46,horror,3,2,awe,terror,dread
+46,serial killer,3,2,ted bundy,albert fish,john wayne gacy
+46,india,4,3,dreamy,philosophic,bengal
+46,environmental,3,2,deforestation,climate,carbon dioxide
+46,pirates,4,3,parrot,pirate ship,peg leg
+46,steampunk,2,3,Plot and Characters,Behavior and Society Rules,Point of Diversion
+46,martial arts,3,2,Kung Fu: Chinese,Brazilian Jiu Jitsu: Brazil,Karate: Japan
+46,stylized,4,3,Taking my dog for a walk is fun,Walking in the rain can be difficult,Getting a promotion is exciting.
+50,stylized,5,4,participial,gerund,infinitive
+50,martial arts,5,4,Karate,Taekwondo,Ninjutsu
+50,art house,4,5,painting, sculpture, architecture
+50,holocaust,5,4,Allies,Anschluss,Appell
+50,steampunk,4,5,Point of Diversion,Technology ,Inventions
+50,culture clash,4,5," cultivation,",accomplishment,couth
+50,violence,4,5,assault,clash, brutality
+50,satire,4,5,Horatian,Juvenalian,Menippean
+50,dystopia,5,4,Survival, Technological control, Environmental destruction
+50,fantasy,5,5,knights,kings,references 
+53,superhero,5,4,save the day,defeat enemies,fantasy
+53,animation,5,5,funny,beautiful landscape,good dub
+53,existentialism,3,4,question,plot twist,good ending
+53,musical,3,2,fun,good characters,interesting story telling
+53,romance,5,4,love,good endings,family movie
+53,comedy,5,4,silly moments,funny,more or less characters
+53,film noir,2,1,black,questions,doubts
+53,martial arts,4,2,good special effect,resilience,good morals
+61,war,5,3,death,horror,guns
+61,hilarious,5,3,funny,good mood,amusing
+61,futuristic,4,2,curiosity,antecipation,hope
+61,holocaust,3,1,war,segregation,horror
+61,surreal,3,2,unpredicatable,other future,interesting
+61,predictable,5,2,boring,unsurpring,obvious
+61,boring,5,2,already seen,predictable,not funny
+61,hallucinatory,1,1,nerve wrecking,bad trip,amusing
+61,funny,5,4,comic,amusing,entertaining
+61,quirky,1,1,eccentric,weird,never seen
+59,surreal,4,3,Bizzarre,Irrational,Strange
+59,serial killer,5,4,Murder,Killing,Psycho
+59,suspense,5,4,Anxiety,Anticipation,holding breath
+59,unique,5,2,one of its kind,unlike anything else,remarkable
+59,satire,5,3,Irony,Sarcasm,Parody
+59,historical,5,2,Documented,Real,Set in the past
+59,twist ending,5,3,Surprise,Plot twist,Controversial
+59,disturbing,5,2,Upsetting,Horrifying,Explicit
+59,drugs,5,2,Addicting,Heroin,High
+59,philosophical,5,2,Abstract,Rational,Thinking
+64,fantasy,4,5,Imagine,Horror,Adventure
+64,war,3,4,Battle,fighting,Strike
+64,robots,2,4,Device,Computer,Machine
+64,animation,4,5,Cartoon ,Comic,Dreamwork
+64,pirates,4,5,Parrot ,Map,Hook hand
+64,comedy,5,5,Comdies,Fun,Laugh
+64,romance,5,4,Love bird,Blind,Puppy Love
+63,cyberpunk,3,4,culture ,science,technology
+63,psychological,3,4,mental,emotional,irrational
+63,india,3,3,flat ,mountainous,",bengal"
+63,funny,3,3,no,no,no
+63,religion,3,4,holy,devout,orthodox
+63,world war ii,3,4,industrial,military,crucial 
+63,satire,3,4,no,no,ni
+63,documentary,3,4,no,no,no
+63,art house,3,4,no,no,no
+66,serial killer,4,3,serial killer very rick ,serial killer hate pepole,serial killer need waepon
+66,hallucinatory,5,4,good name hallucinatory,brand naame hallucinatory,think new hallucinatory
+66,steampunk,5,5,i brand name,a name of  steampunk, need for us  steampunk
+66,adventure,5,4,adventure i like it ,adventure my mom like it ,adventure need for new think 
+66,atmospheric,4,4,atmospheric need for us ,atmospheric need for world ,atmospheric good for body 
+66,animation,4,3,i like animation,what comes animation,real life need animation
+66,inspirational,4,4,she is my inspirational,he is my inspirational,need a inspirational
+66,suspense,4,5,why you  suspense,really hart  suspense,need a new  suspense
+66,superhero,3,5,need for worldsuperhero, i want a superhero,i meet to superhero
+66,funny,3,5,funny  good for helth ,funny need  a pepole,funny one kind of jocker 
+75,satire,5,4,horatian,juvenalian,menippean
+75,animation,5,4,image,transparent ,traditional
+75,time travel,5,4,journey,tour,trip
+75,musical,4,5,alto,andante,bar
+75,overrated,5,4,top gear,reality tv,foie gras
+75,documentary,5,4,consequence,emphasis ,sentence
+75,film noir,5,5,cynical,lighting,flashbacks
+75,visually appealing,5,5,noun ,gerund,verb
+75,hallucinatory,5,5,psychosis ,hearing loss,brain lesions
+75,unique,5,4,singly,matchless,singular
+92,adventure,4,5, idiomatic expressions,adventuresome,run a risk
+92,violence,4,5,assault,brutality,confusion
+92,predictable,4,5,monotony,invariability,recurrence
+92,environmental,4,5,biodiversity,carbon monoxide.,climate
+92,musical,4,5,Andante,Arpeggio,Cadence
+92,stylized,4,5,verbal phrases,participial phrases, gerund phrases
+92,drama,4,5,Aristotle's Six Elements of Drama:,Plot – The Story of the play.,Idea – The central meaning of the play. ...
+92,fantasy,5,4,A magic system. This is the element that sets fantasy fiction apart from other genres,A cast of complex characters. ...,A central conflict. ...
+92,horror,4,5,apprehension,awe,consternation
+92,romance,4,5,A couple (noun) A couple is two of something. ,A blind date,Puppy love 
+100,animation,5,4,tones ,of films,none
+100,film noir,5,5,film ,noir,none
+100,romance,4,5,love,caring,hug
+100,comedy,5,4,fun,laugh,happy
+100,holocaust,1,2,none,none,none
+100,comic book,3,4,articles,books,guide
+100,mafia,5,4,gun,fight,smugling
+100,western,4,5,none,none,none
+102,sci-fi,5,5,science,aliens,spirits
+102,stylized,2,3,modern,niche,categorized
+102,animation,5,5,children,family,cartoons
+102,holocaust,5,5,germany,jewish,nazis
+102,historical,5,5,history,old,early
+102,funny,5,5,comical,hillarious,jokes
+102,india,5,5,cast,Asia,foreign
+102,time travel,5,5,magic,altering time,machine
+102,pirates,5,5,back then,ships,water
+102,romance,5,5,love,romantic,passion
+105,serial killer,5,2,murder,sociopathy,loner
+105,christmas,5,2,festive,parties,gifts
+105,mafia,5,3,criminals,vice,organized
+105,environmental,5,2,climate change,global warming,melting glaciers
+105,film noir,5,4,chiaroscuro,cinematography,femme fatale
+105,hallucinatory,5,4,surrealism,psychic states,consciousness
+105,steampunk,2,1,mechanism,industrial,anachronism
+105,religion,5,2,sacred,doubt,faith
+105,prison,5,2,confinement,punitive,rehabilitation
+106,superhero,4,5,good,heroic,strength
+106,plot twist,2,3,unpredictable,aweful,boring
+106,stupid,2,3,mad,fool,inhuman
+106,western,2,4,culture,new,good
+106,adventure,3,2,nice,positive,interesting
+106,futuristic,4,3,prediction,future,positive
+106,pirates,3,2,robbers,bad,sea
+106,martial arts,3,4,talent,artistic,spritual
+108,plot twist,5,4,surprise,thought-provoking,interesting
+108,action,5,4,fast-paced,quick,exciting
+108,superhero,5,5,super-human,unnatural,scifi
+108,funny,5,3,amusing,laughter,not serious
+108,thought-provoking,5,3,interesting,makes me reflect,stimulatory
+108,robots,5,4,autonomous,apathetic,rule followers
+108,war,5,4,death,cruelty,abuse
+108,predictable,5,5,boring,easy to guess,unsurprising
+76,witty,4,4,comic,funny,humors 
+76,atmospheric,5,5,air problem,environment ,nature changes
+76,futuristic,4,4,groundbreaking,revolutionary,visionary
+76,tense,5,5,unable to relax,situation of depression ,anxiety 
+76,romance,5,5,feeling love,arouse position,mood of sex
+76,christmas,5,5,Religious function,traditional event,religious get together 
+76,prison,5,5,criminal person,punishment,place of detention 
+76,drama,5,5,stage show,fun,commedy
+76,environmental,5,5,our surrounding areas ,nature ,a group in charge of making a city more beautiful
+103,musical,3,2,alto,andante,bar
+103,action,4,4,stunt ,fighters,properties
+103,superhero,4,3,justice,mythology,radiation
+103,fantasy,4,5,dream,wonder,surprise
+103,india,3,4,culture,food ,temples
+103,pirates,3,4,robbery,bones,boats
+103,environmental,5,4,green,fresh air,water
+103,steampunk,4,3,angels,death,tragedy
+103,animation,4,5,frame,persistence of vision,thumpnails
+109,twist ending,5,5,suspense,thril,good graphics
+109,christmas,5,4,dynamic story,technology,amazing graphics
+109,stylized,5,5,good entertainment,amazing story,happy ending
+109,drama,5,4,good script,fun and enjoyable,nice actions
+109,environmental,5,5,good information,save nature,happy ending
+109,war,5,3,great action,amazing technology,good graphics
+109,atmospheric,5,5,scientific,awarness,good message
+109,predictable,4,5,good thingking,good story,information to people
+109,mafia,4,3,crime story,awarness,action block
+109,martial arts,5,5,amazing arts,learn knowledge,scientific adventure
+72,horror,5,4,devil,fear,temp
+72,thriller,4,5,anxiety, apprehension,chiller
+72,disturbing,4,4,disarrange ,muddle ,rearrange
+72,animation,5,4,cartoon,GFX,Fake
+72,documentary,4,5,information,subject,details
+72,art house,4,3,art,creation,base
+72,fantasy,5,4,dream,impossible,heors
+72,mystery,4,3,Think,IQ,puzzle
+72,tense,4,3,taut,tight,stiff
+72,time travel,5,4,future,time,machine
+111,horror,-1,5,THIRLLER ,BGM,GHOST
+111,quirky,5,-1,SIMILAR,UNCONVENTIONAL ,UNUSUSAL
+111,steampunk,5,-1,SCIENCE ,FRICTION ,TECHNOLOGY
+111,serial killer,5,3,SUSPENSE ,BGM,THRILLER 
+111,holocaust,5,-1,SHOAH,GENOSIDE,EUROPE JUICE 
+111,india,4,5,PEACE,PROPERSITY ,SOVERGINITY 
+111,witty,4,5,HUMOROUS,AMUSING,DROLL
+111,martial arts,5,4,TRADITIONAL ,FITNESS ,TECHNIQEUS
+111,drugs,-1,5,RECOVERY ,DOPOMINE ,SEDUCTIVE
+111,insanity,5,5,MADNESS ,IDIOTIC,STUPID
+110,mystery,5,4,conundrum,enigma,problem
+110,artistic,5,4,creative,aesthetically-pleasing, pictorial
+110,comedy,4,5,farce, humor, slapstick
+110,horror,5,4,apprehension,consternation,disgust
+110,animation,5,4,briskness, exuberance,jazziness
+110,india,5,4,British Council,Indian Origin,CSMVS
+110,documentary,5,5,absorbing,acclaimed,adult
+110,martial arts,5,4,Bunkai,Bushido,Dan
+110,self discovery,5,5,self-actualization, self-esteem,self-exploration
+114,war,5,3,conflict,death,heroism
+114,suspense,4,4,thriller,surprise,twists
+114,serial killer,4,3,murder,death,sadism
+114,religion,5,4,angels,god,devil
+114,western,4,3,cowboys,guns,horses
+114,world war ii,4,3,nazis,allies,death
+114,nonlinear,4,3,twists,unpredictable,erratic
+114,steampunk,3,2,science fiction,steam-powered machines,victorian times
+114,tense,4,4,anxiety,restlessness,thrilling
+157,horror,5,4,thriller,classic,suspicious
+157,film noir,5,4,classical,sexually,dramas
+157,steampunk,4,5,fiction ,science,thriller
+157,drama,5,4,art,classic,crime
+157,romance,-1,5,love ,sex,affectionation
+157,satire,5,-1,visual,literary,performing arts
+157,mafia,4,5,crime,thriller`,death
+157,funny,4,3,god,smile,happiness
+157,art house,4,5,happiness,art,god
+161,predictable,4,3,expected,foreseeable,unsurprising
+161,culture clash,3,2,heritage,habits,society
+161,stupid,3,2,foolish,ignorant,dense
+161,documentary,1,3,recorded,registered,written
+161,philosophical,5,3,cool,calm logical,logical
+161,holocaust,4,5,devastation,destruction,disaster
+161,plot twist,3,1,odd,unexpected,surprising
+161,religion,-1,1,faith,belief,worship
+161,suspense,4,3,avid,eagerly,agog
+161,mafia,1,-1,gangster,criminal,gang
+209,horror,3,3,dread,fear,fright
+209,violence,4,4,blood,fight,bodies
+209,unique,5,5,single,only,original
+209,western,3,3,bang,shooting,confusion
+209,india,1,1,mytsterious, dreamy,philosophic
+209,self discovery,4,4,knowing yourself,identity,identity
+209,satire,5,5,humor, comedy,sarcasm
+209,stupid,5,5,idiot ,jackass ,panaca
+209,social commentary,3,3,sick society,child exploitation,drugs
+209,robots,5,5,future,strength,skill
+212,film noir,3,3,Noir,Noise,Good
+211,stupid,5,4,Idiotic,Makes no sense ,Ridiculous
+211,environmental,5,3,Carbon footprint ,Natural disasters,Greenhouse gas 
+211,mockumentary,4,2,Satire,Makes fun of ,Silly
+211,witty,4,4,Smart ,Funny ,Banter 
+211,martial arts,2,1,Karate ,Taekwondo,Jujitsu
+211,surreal,3,3,Too good to be true ,Dreamlike ,Unreal
+211,existentialism,3,2,Life flash before eyes,Philosophical ,Questioning 
+211,hallucinatory,5,3,Figment of imagination,Not real ,Scary
+211,pirates,4,2,Robbers,No good ,No morales
+211,plot twist,4,4,U-turn,Unexpected ,What just happened?
+215,psychological,5,3,cerebral,thinking,twist
+215,western,5,4,old,action,cowboys
+215,satire,4,5,sarcastic,topical,timless
+215,time travel,5,3,sci-fi,old,interesting
+215,futuristic,5,5,sci-fi,technology,dystopia
+215,religion,5,2,god,prayer,heaven
+215,cyberpunk,5,4,dystopia,sci-fi,realistic
+214,musical,5,2,Broadway,theater,dancing
+214,film noir,2,2,Suspenseful,dark,atmospheric
+214,horror,5,3,Scary,bloody,eerie
+214,india,4,2,Eastern,curry,cows
+214,christmas,5,2,Snow,Jesus,Gifts
+214,documentary,5,2,Preachy,stilted,biased
+214,mafia,2,1,Crime,prison,murder
+214,serial killer,4,3,Twisted ,mental,creepy
+214,hilarious,5,3,Funny,goofy,smart
+214,witty,5,4,Clever,dry,sophisticated
+210,sci-fi,5,5,future,alien,dystopic
+210,holocaust,5,5,nazi,Auschwitz,hitler
+210,thriller,5,5,Heartrate,fast,scary
+210,religion,5,3,God ,Jesus,Church
+210,psychological,5,4,crazy,insane,hospital
+210,hilarious,5,5,funny,comedy,laugh
+210,stylized,5,4,graphic,poppy,fun
+210,environmental,5,5,nature,ocean,global warming
+210,horror,5,4,scary,terror,fear
+217,christmas,5,2,gifts,santa,Jesus
+217,animation,5,5,beautiful,crisp,clean
+217,surreal,5,5,bizarre,dream,unbelievable
+217,philosophical,5,5,reality,existence,knowledge
+217,comedy,5,5,funny,humor,entertaining
+217,social commentary,5,5,rhetorical,justice, change
+217,romance,5,5,love,heartbreak,intimacy
+217,holocaust,5,5,death,destruction,despair
+217,martial arts,5,5,fight,karate,action
+216,historical,5,4,authentic,true,archival
+216,romance,5,5,excitement,glamour,mystery
+216,pirates,4,3,freebooter,raider,buccaneer
+216,mafia,4,4,gang,mafioso,family
+216,steampunk,-1,-1,thug,hoodlum,vandal
+216,india,5,5,hindi,new dehli,bharat
+216,adventure,5,4,exploit,deed,trial
+216,violence,5,4,brutality,force,roughness
+216,martial arts,5,5,karate,aikido,judo
+213,superhero,5,4,great strength,flying ,impossilbe feats
+213,stupid,5,1,awful ,distastful,icky
+213,predictable,5,5,to easy ,know what will happen,boring
+213,comedy,3,3,funny,slapstick,make you laught
+213,funny,5,5,laughable,giggle ,funny
+213,musical,5,5,sound of music ,fiddler on roof,great tunes
+213,historical,5,5,the past ,teaching history,documentary
+213,martial arts,1,1,fighting,hurting ,defense
+213,prison,2,2,action,dark,horror
+218,predictable,5,5,Calculated ,Expected ,Likely
+218,futuristic,5,5,strangeness,eccentric,extravagant
+218,original,5,5,model,realistic,origin
+218,disturbing,5,5,impressive,impactful,disconcerting
+218,holocaust,5,2,death,sacrifice ,massacre
+218,superhero,5,5,courage,win,fight
+218,stylized,3,3,decorated,style,different
+218,romance,5,5,Love,Happy ending,happy forever
+218,overrated,5,5,overvalued,overestimated.,expensive
+218,christmas,5,5,Reunited family ,Dream Achievements,A lot of gifts 
+222,art house,2,3,color,beautiful,nature
+222,thriller,4,4,fear,panic,scare
+222,social commentary,1,1,social criticism,reality,reflection
+222,suspense,4,4,panic,scare,fear
+222,fantasy,5,4,colorful clothes,skills,adventures
+222,comedy,5,5,jokes,pranks,romance
+222,romance,5,5,girlfriend,teenagers,love at first sight
+222,hilarious,4,3,laughs,jokes,pranks
+222,space,1,1,stars,planets,planets
+222,western,1,2,culture,food,technology
+219,futuristic,4,3,Modern technology,Science fiction ,Quantum physics
+219,plot twist,3,3,Unexpected,Mental confusion,Amazed
+219,steampunk,2,3,Old future,Retro technology,Fantasy
+219,martial arts,5,4,Kung Fu,Mortal kombat,Bruce Lee
+219,stupid,4,3,Joke,funny,laugh
+219,time travel,4,3,Science fiction ,Impossible physics,Futuristic
+219,environmental,5,4,Nature,Life,Earth
+219,pirates,3,2,Thieves,Cheaters,Navigators
+219,romance,4,2,Love,Tenderness,Happiness
+219,horror,5,4,Macabre,Fear,Dark
+231,animation,4,5,IMAGNIATION,ADVENTURE,THIRLLIING
+231,stupid,5,4,FOOL,NON-SENSE,UNRELATED
+231,witty,5,4,FUNNY,COMIC,HUMOROUS
+231,predictable,5,4,EXPECTED,FORSEEBLE,ANTICIPATED
+231,suspense,3,4,NOT JUDGEABLE ,HARD TO FIND,AVID
+231,romance,3,5,LOVE,AFFECTION,DEVOTION
+231,art house,5,3,PALACE,WONDERS,EXHIBIT
+231,mafia,3,5,ROBERY,GANGSTER,KILLER
+231,adventure,4,5,THRILL,EXCITMENT,STIMULATION
+231,western,5,4,MORDEN,LATEST,STYLE
+228,mafia,4,4,great movie,great action,good team cooperation
+228,animation,4,5,then animation movies are interesting,i like the animation movie alita battile angel,and the avatar movie great animations sence are making
+228,environmental,4,5,current environmental is some what not good,the earth heat is increased,the earth heat leads to sec level increase
+228,justice,4,3,the justice must have center thought ,most of the justice is not good in this time,the justice must have same entair world.
+228,art house,4,3,the art house leads to real hous,the art house develop people art capacity,the art house make the beautiful world
+228,romance,5,5,the romance like love,the love like romance,if the pair is great understand in romance they make every think
+228,pirates,4,3,the pirates are dangerous,the pirates like money,the pirates are not good in sea side.
+228,plot twist,3,2,plot twist is must have for each human,if they in plot twist the feeling nice,the plot twist make great world
+228,insanity,4,3,some peoples insanity in some think,the insanity is make some fulfilmnet,the insanity is affect they self
+228,steampunk,4,3,the steampunk show clasical view,the steampunk constructed some confuction structure,the steampunk is like golden color
+232,philosophical,5,1,Soal,Longing,Religion
+232,sci-fi,5,1,Science,Technology,Outer Space
+232,satire,1,1,Unbelievable,Outlandish,Funny
+232,insanity,5,1,Crazed,Lunacy,Unpredictable
+232,suspense,5,3,Unpredictable,Scary,Thrilling
+232,unique,5,2,Peculiar,Odd,Strange
+232,musical,5,4,Singing,Songs,Orchestra
+232,animation,5,5,Cartoons,Fiction,Kids
+227,superhero,5,5,gorgeous,powerful ,ubiquitous
+227,adventure,5,5,experience,escapade,precipitate
+227,romance,4,5,affection,lovingness,passion
+227,christmas,3,4,stockings,lights,gingerbread 
+227,tense,5,4,tight,rigid,stretched
+227,historical,5,5,past,bygone,ancient
+227,pirates,5,5,Nautical,Crime,Commerce
+227,witty,5,5,humorous,amusing,comic
+227,animation,5,5,liveliness,spirit,energy
+227,comic book,2,3,adventures ,superhero,sequential 
+235,end of the world,5,4,apocalypse,great war ,aliens
+235,cyberpunk,4,4,technology,new world,different
+235,war,5,4,gun,death,brave
+235,film noir,3,1,horror,blood,something
+235,drugs,4,1,drugs,weakness,crimes
+235,horror,5,4,unusual,horror,mystic
+235,martial arts,5,4,karate,arts,duels
+235,christmas,5,2,santa claus,christmas tree,gifts
+235,philosophical,5,5,long replics,thoughts,relations
+235,romance,5,2,love,love,love
+236,mystery,4,4,kotha,kuma,punda
+236,funny,4,4,mavana,devidya,punda
+236,historical,2,3,past,traditional,culture
+236,stylized,4,4,new,trend,fever
+236,romance,4,5,love,releation,couple
+236,film noir,4,4,flim,flim,noir
+236,thriller,4,4,afraid,fear,sad
+236,pirates,4,5,robbers,ship,treasure
+236,mafia,2,3,ganster,gun,smuggling
+236,comedy,4,4,laugh,joker,smile
+246,horror,5,3,creepy,thriller,scary
+246,sci-fi,4,2,futuristic,science,aliens
+246,animation,5,2,disney,children movie,sentimental
+246,western,5,1,old times,desert,cowboy
+246,time travel,5,2,future,past,changes
+246,drugs,5,2,dangerous,unhealthy,scary
+246,surreal,5,2,different,interesting,captivating
+246,thriller,5,4,heart pounding,exciting,mystery
+246,musical,5,3,singing,cheesy,dancing
+245,art house,4,4,flim,cinima,artistic
+245,time travel,4,5,journey, peregrinate,pilgrimage
+245,mafia,5,5,mob,black hand,crime
+245,martial arts,5,5,kata ,selfdefence,fitness
+245,predictable,5,5,sure,certain,excepted
+245,pirates,4,5,Aye,Avaysat ye,All hand boy
+245,action,5,5,bullets,big bang,fight 
+245,steampunk,5,5,science fiction,scott westerfield,cyber punk
+245,environmental,5,5,climate ,nature ,mediun
+247,comedy,5,4,funny,laugh,feel-good
+247,musical,5,2,songs,singing,dancing
+247,fantasy,4,2,out of this world,creatures,different worlds
+247,animation,5,4,characters,good story,3D
+247,religion,5,2,inspiration,family-friendly,wholesome
+247,war,5,2,fighting,weapons,soldiers
+247,india,4,2,country,people,different way of life
+247,time travel,3,2,different timelines,different places,mysterious
+247,historical,4,3,old times,back in the day,fashion
+247,original,3,2,new,different,unexpected
+248,satire,5,3,comedy,edgy,parody
+248,atmospheric,5,5,immersion,thematic,horror
+248,original,3,3,difficult,innovation,creative
+248,thriller,5,4,mystery,action,interesting
+248,western,4,2,boring,saturated,uncreative
+248,christmas,3,3,funny,wholesome,party
+248,time travel,5,5,hard to pull off,predictable,convoluted
+248,predictable,4,4,boring,unonoriginal,overrated
+248,surreal,2,2,bizarre,unreal,strange
+253,end of the world,4,1,doom,gloom,sad
+253,tense,4,2,drama,nail-biting,anxious
+253,artistic,5,3,flair,creative,different
+253,surreal,4,3,strange,juxtaposition,sublime
+253,original,4,4,different,creative,unique
+253,social commentary,4,4,satire,opinion,viewpoint
+253,world war ii,4,2,war,battle,sad
+253,funny,5,2,entertaining,light-hearted,amusing
+253,culture clash,4,3,different,strange,unique
+254,steampunk,3,3,Dead,Love,This Dark and Twisty Road
+254,romance,5,4,love,couple,companionship
+254,culture clash,4,4,City,Civilization,People
+254,time travel,5,4,Technology,Intelligence,Futurism
+254,insanity,4,4,Disease,People,Disturb
+254,religion,5,4,Faith,Culture,God
+254,adventure,5,5,Action,Nature,Adrenaline
+254,fantasy,5,5,Emotion,Imaginary,Fiction
+254,musical,4,2,Song,Singers,Presentation
+254,martial arts,4,3,Fights,Combat,Action
+249,pirates,4,4,All hands hoay=Everyone get on the deck.,Black spot,To cheat
+249,romance,5,5,affection,lovingness,fancy
+249,plot twist,5,5,They were never really dead,Death out of the blue,None of it was Rea
+249,animation,5,5,enthusiasm,ardor,sprightliness
+249,martial arts,5,5,combat , physical skill, coordination without weapons
+249,stylized,5,5,design ,stylistic pattern, according to nature or tradition
+249,mystery,5,5,riddle,subtlety,mystification
+249,steampunk,5,5,incorporates technology,aesthetic design,fictional machines 
+249,funny,5,5,entertaining,humorous,laughable
+249,war,5,5,battle,combat,fighting
+252,western,4,3,Ace-high,High class,Adam's Ale
+252,nonlinear,5,4,irregular,chaotic,disorderly
+252,historical,5,4,chronicled,confirmed,recorded
+252,religion,5,4,holy,spiritual,orthodox
+252,predictable,5,4,predictably ,unpredictable,expect
+252,philosophical,4,3,ethics,epistemology,theology
+252,stylized,4,3,Stylized Bees, stylized look,stylized flowers
+252,self discovery,5,4,self-contemplation,self-examination,self-observation
+252,pirates,4,4,Aaaarrrrgggghhhh!\t,"Ahoy, Me Hearties!\t",All Hand Hoy!\t
+252,mystery,4,3,problem,enigma,conundrum
+255,animation,3,3,2 Dimensional,Motion graphics,3 Dimensional
+255,pirates,2,3,peg leg,hook hand,treasure map
+255,great soundtrack,3,2,rap,rock,melodies
+255,prison,2,3,jail,police,handcuff
+255,funny,3,4,joy,laugh,comedy
+255,drama,3,4,scene,screen,play
+255,superhero,3,4,hero,superman,extraordinary person
+255,robots,2,3,machine,codings,serving
+255,time travel,3,2,hours,distance,covers
+256,cyberpunk,5,5,cyber,cyberism,hack
+256,thought-provoking,4,4,useless,prank,waste
+256,war,4,5,fight,leaderism,king
+256,historical,5,4,ancient,treasure,things
+256,pirates,5,5,thief,bad guy,roamers
+256,animation,4,5,superpower,imagination,cartoons
+256,superhero,5,4,unrealistic,power,fight
+256,romance,5,5,love,kiss,sex
+256,drama,5,4,roamers,fight,dance
+262,romance,5,4,Love,feeling,attraction
+262,stylized,4,3,depiction,non-realistic,decorative
+262,martial arts,5,5,Kung-Fu,Karate,Judo
+262,musical,5,2,Melody,Relaxation,Pleasant
+262,culture clash,4,3,Conflict,Belief,Difference
+262,humorous,5,4,Laugh,Happiness,Entertainment
+262,predictable,5,4,Expect,Foresee,Analysing
+262,stupid,5,3,Foolishness,Brainless,Crazy
+262,time travel,5,5,Moving to future or past,Disappearance,Loop
+262,pirates,5,4,Criminals,Thieves,Sea
+265,prison,5,4,jail,crime,inmate
+265,art house,3,2,art,built,creative
+265,mockumentary,5,4,fake,satire,humor
+265,psychological,5,5,brain,mental,strength
+265,satire,5,5,comical,fake,exaggerated
+265,holocaust,5,3,genocide,killing,death
+265,fantasy,5,4,adventure,creative,built
+265,drama,5,4,action,film,emotions
+265,western,3,2,country,cowboy,horse
+265,religion,4,3,jesus,God,cross
+266,pirates,5,2,skulls,gold,men
+266,boring,5,5,park,couch,reading
+266,world war ii,2,5,germany,guns,nazi
+266,environmental,2,5,earth,clean,sun
+266,tense,2,-1,uneasy,tighr,paranoid
+266,funny,5,5,laugh,comedy,jokea
+266,self discovery,5,-1,self,meditation ,yoga
+266,superhero,5,5,strong,cool,piwers
+266,thriller,5,5,scary,interesting ,fast
+266,horror,5,5,scart,ghost,supernatural
+264,western,5,1,guns,dirt,outlaws
+264,india,5,1,spicy,crowded,poverty
+264,martial arts,3,1,sport,self-defence,attack
+264,funny,5,3,laugh,comedy,hilarious
+264,satire,3,1,bitter,not politically correct,mean
+264,drugs,5,3,junkie,druggie,addict
+264,holocaust,5,1,human tragedy,racism,drama
+264,self discovery,4,4,acceptance,diversity,tolerance
+264,mafia,5,3,Italy,mobsters,criminals
+263,unique,5,3, original,extravagant,author
+263,holocaust,5,3,genocide,Nazi,Jew
+263,film noir,5,3,crime,police,detective
+263,serial killer,5,2,death,police,psychopath
+263,cyberpunk,4,2,future,dystopia,robot
+263,christmas,5,3,holidays,gifts,family
+263,suspense,5,4,murder,Alfred Hitchcock,plot
+263,martial arts,5,2,fight,Bruce Lee,Oriental
+263,self discovery,3,2,initiative,odyssey,self-made man
+263,satire,5,3,humor,Charles Chaplin,fun
+275,animation,5,5,children,cartoon,interesting
+275,original,5,5,old,super,classic
+275,art house,1,1,painting house,artwork,gallery
+275,pirates,5,5,somalia,pirate,sea
+275,romance,5,5,love,true ❤ ,beauty
+275,film noir,1,1,black,movie,france
+275,drugs,5,5,sickness,cocaine,heroine
+275,musical,5,5,songs,concert,musical
+275,superhero,5,5,spiderman,wolverine,captain america
+279,documentary,4,2,Realistic incident,Controversial,History
+279,pirates,2,2,Theft,Sea,Intelligence
+279,psychological,4,3,past,angry,uncertain
+279,romance,5,5,love,unconditonal,smile
+279,comedy,4,4,Smile,nonsense,timing
+279,stupid,3,3,nonsense,decision,concentration
+279,superhero,5,5,unnatural,Fantasy,God
+279,martial arts,3,3,Protection,Courage,discipline
+279,predictable,3,3,old,bored,project
+278,romance,5,4,love ,boy friend,girl friend
+278,superhero,5,5,powerful ,super human,fight
+278,stylized,3,3,fashion,desighn ,arts
+278,self discovery,3,3,identity,motivated,ambition
+278,serial killer,4,3,knife,mask,gun
+278,musical,3,3,singer,dancing,artist
+278,war,4,4,gun,bomb,death
+278,martial arts,5,5,Kung Fu,Jackie Chan,Bruce lee
+276,stupid,3,5,Comical,Random,Slapstick
+276,culture clash,-1,2,Opposites,Out of place,Different
+276,martial arts,4,3,Action,High energy,Fight
+276,comedy,5,5,Funny,Hijinx,Adventure
+276,pirates,4,2,Fantasy,Adventure,Ocean
+276,mockumentary,3,3,Comedy,Unreal,Found footage
+276,romance,5,5,Love,Weddings,Sacrifice
+276,surreal,3,3,Fantasy,Amazing,Exciting
+276,atmospheric,-1,2,In-depth,Engaging,SciFi
+276,overrated,5,3,Boring,Overwatched,Not as good
+273,funny,3,4,HUMOR,LAUGH,JOKEY
+273,hilarious,3,3,MAD,ANTIC,DELIGHTFUL
+273,drugs,5,5,PHARMACY,CHEMIST,DRUGGIST
+273,adventure,4,4,THRILLER,ROMANCE,PICARO
+273,animation,4,5,SPIRIT,GLASSY,ANIMATO
+273,overrated,5,5,TO CREATE,TO CARRY OUT,TO CAUSE
+273,visually appealing,4,4,COSMETIC,ATTRACTIVE,FRAME
+273,suspense,5,4,SUSPENSIVE,DEPEND,TENSE
+273,musical,4,4,PLAYER,INSTRUMENT,MELODY
+273,india,5,5,HINDI,PUNJAB,HINDUSTAN
+282,horror,5,3,Suspense ,Gore,Slasher 
+282,space,5,5,Scifi,Stars,Ship
+282,pirates,5,3,Booty,Plunder,Treasure 
+282,steampunk,5,2,Annoying,Manufactured ,Welding goggles
+282,satire,5,5,Joke,Mimic ,Hilarious 
+282,mockumentary,5,5,Christopher guest,Spinaltap,Goes to 11
+282,suspense,5,5,Tense,Fear,Timing
+282,funny,5,5,Joke,Hummor,Light hearted
+282,mafia,5,4,Jersey,Wack,Affordable prices
+268,psychological,5,5,psych,theraphy,attitude
+268,environmental,5,3,climate,bio diversity,habitat
+268,mystery,5,4,puzzle,problem,riddle
+268,justice,4,4,honest,fairness,impartiality
+268,predictable,5,5,sure,certain,expect
+268,unique,4,3,rare,individual,particular
+268,witty,4,4,humour,comedy,funny
+268,satire,4,3,sarcasm,irony,parody
+268,pirates,4,3,raider,crime,rover
+268,self discovery,4,3,Identify,self examination,self searching
+292,culture clash,5,4,out of place,differences,alienation
+292,space,5,4,travel,future,danger
+292,romance,5,4,love,couples,hard to find
+292,fantasy,5,4,hopeful,imagination,mind
+292,religion,5,3,dogma,faith,belief
+292,suspense,5,4,concerns,edge of your seat,dangers
+292,christmas,5,3,holiday,cheerful,family
+292,environmental,5,3,climate,green,concern
+292,predictable,5,3,boring,easy to figure out,no challenge
+283,art house,2,3,photography,artistic,different
+283,religion,5,3,belief,higher being,God
+283,historical,5,4,past events,history,important facts
+283,musical,5,3,songs,singing,dancing
+283,environmental,5,3,surroundings,natural world,nature 
+283,holocaust,5,2,Jewish People,World War II,Hitler 
+283,romance,5,3,love,caring,excitement
+283,hilarious,5,2,very funny,outrageous,laughable
+283,cyberpunk,2,2,science fiction,computers,domination
+283,christmas,5,3,Santa Clause,kids,presents
+297,hilarious,5,5,funny,entertaining,witty
+297,comic book,5,5,animated,fiction,not real
+297,stylized,5,5,stylish,fancy,attractive
+297,predictable,5,5,guessed,supposed,common sense
+297,existentialism,5,5,availablity,visible,real
+297,martial arts,5,5,fight,art of fight,speed
+297,time travel,5,5,future travel,time machine,adventure
+297,adventure,5,5,fun,excitement,thriller
+297,mafia,5,5,don,big man,money
+288,mafia,5,2,Thugs,Villains,Robbers
+288,holocaust,5,5,Murder,Mass murder,Killings
+288,space,4,5,Sky,Astronomy,NASA
+288,india,5,-1,Modi,Amit shah,Darjeeling
+288,martial arts,4,5,Bruce lee,Van damm,Ip man
+288,stupid,4,2,Idiot,Illiterate,Sick
+288,self discovery,4,5,Know yourself,Inner self,Discover yourself
+288,plot twist,-1,-1,Twist in scenes,Twist in situation,Table turn
+277,horror,3,5,dread,Fright,Terror
+277,surreal,5,5,dreamlike,phantasmagoric,phantasmagorical
+277,aliens,5,5,Immigrant,Outcast,Foreign
+277,documentary,5,5,Framing,Creating,Film making
+277,action,5,5,Activity,Movement,Work
+277,artistic,5,5,Inventive,Original ,Creative
+277,art house,5,5,Megaplex,Multiplex,Plex
+277,satire,5,5,Ridicule,Scorn,Irony
+277,holocaust,5,5,Disaster,Distruction,Demolition 
+277,comedy,5,5,Light entertainment ,Comic play/film,Farce
+299,martial arts,4,5,action,dynamic,athletic
+299,original,5,5,new,particular,different
+299,christmas,4,5,family,presents,atmosphere
+299,horror,4,4,frightening ,emotion,chills
+299,witty,4,5,funny ,light,carefree
+299,sci-fi,4,5,crazy ,different,exciting
+299,atmospheric,5,5,relationship ,emotion,close
+299,comedy,4,4,light,smiles,carefree
+299,overrated,4,4,disappointment ,ridiculous,ugly
+299,futuristic,4,4,crazy ,magical,illusion
+300,sci-fi,4,3,technology,nightcities,distopic universe
+300,self discovery,2,2,introspection,path,personal growth
+300,space,4,4,spaceships,time paradox,aliens
+300,war,4,4,guns,bombs,trench
+300,drugs,4,4,heroine,syringe,philosophy
+300,suspense,3,3,anxiety,uncertainty,climax
+300,romance,4,2,kiss,date,atmosphere
+300,christmas,5,2,snow,christmas tree,gifts
+300,horror,4,3,murder,mysteries,tension atmosphere
+300,bittersweet,2,2,romance,girl,cheating
+295,christmas,4,2,Love,Joy,Celebrate
+295,suspense,4,5,Fear,Adrenaline,Focus
+295,inspirational,3,4,Self motivation,Life,Love
+295,unique,2,2,Drama,Upset,Sad
+295,martial arts,3,3,Knofe,Jump,Kill
+295,horror,5,5,Death,Heart beat,Scare
+295,prison,3,3,Escape,Fight,Inmate
+295,atmospheric,1,1,Wind,Water,Tornado
+295,art house,2,2,Design,Family,Kid
+295,documentary,4,4,Science,History,Culture
+308,animation,5,5,3D,cartoon,beautiful
+308,comedy,5,5,funny ,laugh,jokes
+308,historical,5,5,sensible,intellectual,learning
+308,humorous,4,4,comic,laugh ,funny
+308,mafia,5,5,suspense ,thriller ,action
+308,environmental,5,5,intellectual,sensible,ecofriendly
+308,surreal,5,5,unreal,fake,dramatical
+308,india,5,5,nice ,beautiful,good
+308,pirates,4,4,action,attack ,violence
+308,romance,5,5,carm ,peace ,happiness
+307,pirates,5,4,Jack Sparrow,Barbossa,Perla nera
+307,predictable,3,3,discounted,trivial,boring
+307,martial arts,3,4,Kung fu,Jackie Chan,Asia
+307,cyberpunk,4,4,Future,Industry,Fashion
+307,action,4,5,Guns,Fight,Bank
+307,humorous,4,5,Funny,Laugh,Jim Carrey
+307,documentary,4,5,Reality,Nature,Facts
+307,environmental,4,5,Nature,Landscape,Journey
+307,musical,5,5,Broadway,Dance,Sing
+307,christmas,4,5,Happy,Lights,Family
+305,unique,5,5,one of a kind,different,remarkable
+305,fantasy,5,3,unreal,creative,animation
+305,existentialism,4,4,real,life related,experiental
+305,india,4,4,cultural,related to a culture,folklore
+305,boring,5,2,annoying,loss of time,unemotional
+305,surreal,5,4,unreal,creative,out of this world
+305,twists & turns,5,5,unexpected,surprising,astonishing
+305,satire,4,4,joke,irony,moking
+305,comic book,4,4,fantasy,book related,unreal
+320,india,5,5,COUNTRY,NATION,PEOPLE
+320,horror,5,5,THRILL,FEAR,GHOST
+320,insanity,5,5,INSANITY,INSANITY,INSANITY
+320,mafia,5,5,CRIME,FICTION,INVESTIGATION
+320,plot twist,5,5,TWIST,PLOT ,TURN
+320,romance,5,5,LOVE,CHEMISTRY,KISS
+320,stupid,5,5,IDIOT,FOOL,CLEVER
+320,predictable,5,5,CHOICE,CUSTOM,CHOICE
+320,animation,5,5,CARTOON,GRAPHICS,MOVIE
+319,culture clash,4,3,BLM,Punk Rock,Pussy Riot
+319,existentialism,3,3,Dali,Kant,Self doubt
+319,prison,5,3,Jail,Sentence,Court
+319,christmas,5,2,Snow,Gifts,Money
+319,art house,4,3,Warhol,Westwood,Tarrantino
+319,animation,5,3,Disney,Pixar,Toy Story
+319,drugs,5,2,Heroin,Shooting up,Deals
+319,religion,5,2,God,Priest,Church
+319,time travel,5,5,Wormhole,Parallel Universe,The future
+312,dystopia,4,4,dehumanized,violence,revulsion
+312,christmas,5,3,happiness,family,snow
+312,holocaust,5,2,death,germany,pain
+312,unique,5,3,memorable,beautiful,special
+312,nonlinear,5,5,not sequential ,not arranged,strange
+312,animation,5,5,children,lightheartedness,funny
+312,adventure,5,5,suspance,adrenaline,dynamicity
+312,violence,5,5,fight,pain,suffering
+312,overrated,5,5,valued too high,award-winning,boring
+321,self discovery,5,4,spiritualism,interiority,growing up
+321,robots,5,3,droids,technology ,machines
+321,drugs,5,3,heroine,marijuana ,drug addiction
+321,fantasy,5,4,medieval,epic ,elves
+321,horror,5,2,fear,suspense,scary 
+321,sci-fi,5,4,aliens,space ,galaxy 
+321,plot twist,5,4,thrilling ,suprise ,adventure
+321,historical,5,5,medieval ,world war,epic
+321,space,5,4,spacecraft,sky ,science fiction 
+309,plot twist,5,4,Actors,theme,plot
+309,comic book,5,5,cartoon,fiction,comics
+309,disturbing,5,5,confusing,horor,moving
+309,hallucinatory,4,4,imaginative,fiction,drugs
+309,mockumentary,5,5,funny,mocking,social
+309,tense,5,5,aye cathyng,concetnation,fear
+309,stylized,3,4,oldies,classics,acting
+309,world war ii,5,5,nazi,war,farmy
+309,drugs,5,5,youth,criminals,social
+309,steampunk,2,2,individual,acting,attention
+317,musical,5,5,singing,dancing,entertaining
+317,culture clash,3,3,differences,divisions,conflict
+317,social commentary,5,4,society,people,beliefs
+317,predictable,5,5,ordinary,unoriginal,knowing what will happen
+317,superhero,4,2,strong,fighter,defender
+317,christmas,5,5,holiday,happiness,happy endings
+317,animation,5,2,cartoons,kids,not real
+317,prison,4,5,jail,incarceration,judge
+317,stylized,3,3,artificial,unreal,made up
+317,hallucinatory,2,2,seeing things,hearing things,smelling things
+303,atmospheric,4,5,poetic,idyllic,historical
+303,fantasy,5,5,mystical,magic,fable
+303,sci-fi,5,5,futuristic,fantasy,fiction
+303,pirates,2,2,raider,thief on sea,corsair
+303,cyberpunk,1,1,underworld of illegal trade,corruption,"hight tech, low life"
+303,western,3,3,old west,cowboys,indian
+303,prison,2,3,prison escape,war prisoner,boxing
+303,great soundtrack,4,5,epic,dream,earworm
+303,environmental,3,2,climate change,anti-nuclear,nature
+303,end of the world,3,4,apocalypse,catastrophe,sci-fi
+322,funny,5,5,"Humour,",fun,joy
+322,world war ii,5,5,blood,history,trauma
+322,romance,5,5,"love, ",clean,insparational
+322,predictable,5,5,boring,long,dumb
+322,surreal,5,5,fantasy,alternative,cosmos
+322,mystery,5,5,drama,suspense ,tension
+322,sci-fi,5,5,technology,future,aliens
+322,christmas,5,5,holiday,warmth,joy
+318,india,5,4,Gandhi,Narendra Modi,Bharat
+318,adventure,3,3,Dare,travel,Brave
+318,great soundtrack,3,3,Background,Music,Audio
+318,holocaust,5,3,Hitler,Jew,Mass Murder
+318,dystopia,3,2,Group,Fear,imaginary
+318,insanity,5,5,Freak,Psyco,Mad
+318,hilarious,5,5,Funny,Comedy,Laugh
+318,sci-fi,5,5,Science Fiction,Technology,Time Machine
+318,martial arts,5,5,Karate,Kungfu,Bruce -Lee
+328,existentialism,4,4,mysterious,imagination,meaning
+328,superhero,5,5,courage,loyal,disguise
+328,christmas,5,5,holiday,celebration,family
+328,environmental,5,5,sustainability,Earth,ecology
+328,time travel,5,5,clock,calendar,"past, present, and future"
+328,drama,5,5,suspense,story,emotional
+328,western,5,4,cowboys,The West,ranches
+328,humorous,5,5,comedy,funny,laughter
+328,witty,5,5,clever,imaginative,creative
+328,surreal,5,4,imaginative,mysterious,creative
+323,superhero,5,5,batman,superman,hulk
+323,robots,4,4,machine,demolition,action
+323,stupid,4,1,bad,not intelligent,weird
+323,funny,5,5,comedy,entertainment,jokes
+323,drama,2,2,not sure,na ,na
+323,hilarious,3,3,amusimg,noisy,boisterous
+323,thought-provoking,3,2,intelligent,smart,warm
+323,comic book,2,2,cartoons,characters,text
+323,environmental,4,4,atmosphere,geography,earth
+323,predictable,4,4,declare,thought,expectation
+326,western,5,5,Cowboy,Drugs,Mafia
+326,superhero,5,5,Superpowers,Superman,Wonder woman
+326,robots,5,5,Artificial intelligence,I robot,Automata
+326,fantasy,5,5,Animation,Out of world,Fiction
+326,nonlinear,4,4,Not usual way,Out of box thinking,Fiction
+326,holocaust,5,5,Mass killing,Hitler,World war 2
+326,romance,5,5,Fiction,I love you,Sacrifice
+326,comic book,5,5,Fiction,Animation,Comedy
+326,space,5,5,Spaceship,Outer world,Galaxy
+327,film noir,1,3,new,stylized,strange
+327,environmental,5,2,dusaster,weather,environment
+327,unique,4,3,different,one of a kind, thought provoking
+327,martial arts,4,3,karate,judo,fighting
+327,predictable,5,3,foreseen,obvious,no surprise
+327,animation,5,2,cartoon,Disney,children
+327,stylized,2,3,colorful,artistic,flashy
+327,thought-provoking,5,4,experiental,imaginative,science fiction
+327,funny,5,2,comedy,slapstick,humorous
+327,world war ii,5,5,military,historical,greatest generation
+304,humorous,5,5,awkward,dumb,lilting
+304,horror,4,1,noir,vampire,zombie
+304,mafia,4,3,godfather,Sicilia,vendetta
+304,serial killer,4,1,blood,terror,panic
+304,atmospheric,4,3,impressive,elaborate,fabulous
+304,inspirational,4,4,skillfully made,spirit-lifting,great work
+304,sci-fi,3,3,future projection,hi-tech development,hypothetic model
+304,mockumentary,3,2,parody,humour,joke
+304,hilarious,4,4,funny,original,catching
+304,stupid,5,5,dumb,plain,simple
+325,twists & turns,4,4,surprising changes,curves and frequent changes of direction,sudden development
+325,art house,4,4,absorbing.,abstract.,acclaimed.
+325,martial arts,5,5,fight,stunt,action
+325,stylized,4,4,non-realistic,depicted,treated in a mannered
+325,suspense,5,5,thrill,mystery,uncertainty
+325,india,5,5,cultured country,good people,God's chosen country
+325,romance,5,5,love,affair,flirt
+325,humorous,5,5,comedy,laughing,funny
+332,unique,5,3,different,unusual,special
+332,bittersweet,3,4,sentimental,emotional,touching
+332,martial arts,4,3,fighting,action,skill
+332,superhero,3,3,strong,action,saves the day
+332,holocaust,4,2,pain,suffering,death
+332,satire,3,3,making fun,sarcastic,clever
+332,war,5,3,destruction,fighting,blood
+332,boring,5,2,dull,yawn,puts me to sleep
+332,western,3,2,cowboy,wild west,guns
+332,mystery,5,5,suspense,whodunnit ,surprise
+339,romance,5,4,lovers,courtship,attraction
+339,prison,5,5,incarcerate,legal ,attorney
+339,robots,5,2,artificial intelligence,automaton,mechanical
+339,environmental,5,4,earth,conservation,green
+339,musical,5,5,song,dance,orchestra
+339,religion,5,5,nuns,priests,confession
+339,funny,5,5,sarcasm,comedy,slapstick
+339,india,5,2,taj mahal,poverty,corona virus
+339,surreal,4,3,apocalypse,smokey,disaster
+339,hilarious,5,5,laugh,comedy,situation
+335,holocaust,4,3,War,Europe,Religion
+335,fantasy,5,5,Daydream,unreal,magic
+335,animation,5,5,images,drawing,computer
+335,hilarious,5,5,Fun,LOL,Joy
+335,predictable,5,5,You know the end,No surprises,Love movies
+335,prison,5,5,No freedom,Danger,Prisioners
+335,stupid,5,5,Dumb,Fool ,Idiot
+335,war,5,5,Guns,Army,Someone good or bad
+335,artistic,5,5,Art,Museum,Creative
+335,superhero,5,5,Good person,Powers,Protagonist
+338,superhero,4,4,Dress,Mask,Makeup
+338,stylized,4,4,Cloth,Work,Acting
+338,pirates,4,4,Thief,Ocean,Ship
+338,environmental,5,4,Nature,Water,Forest
+338,romance,5,5,Love,Care,Life
+338,india,5,5,Country,Unity,Faith
+338,time travel,4,3,Future,Time,Newtime
+338,historical,3,3,History,King,Army
+338,predictable,2,2,Time,Future,Donot know
+338,war,4,-1,Fight,King,Army
+342,world war ii,5,2,depressing,discrimination,war
+342,surreal,5,3,strange,odd,overly
+342,quirky,5,2,odd,funny,comical
+342,religion,5,2,adherence,lord,following
+342,holocaust,5,2,depressing,sad,overwhelming
+342,boring,5,1,dull,uninterested,detached
+342,pirates,5,2,sea,boat,flag
+342,animation,5,3,colorful,animated,cartoon
+342,culture clash,4,2,off,odd,strange
+342,mystery,5,4,mysterious,unknown,investigate
+354,horror,5,2,Gore,Monster,paranormal
+354,thriller,5,4,action,plot twist,supernatural
+354,drama,4,1,slow,serious,boring
+354,surreal,5,4,imaginative,otherworld,creative
+354,humorous,5,5,comedy,laughter,pleasure
+354,holocaust,5,3,tragedy,death,nazi
+354,plot twist,5,4,great acting,edge of seat,awe
+354,martial arts,5,3,karate,action packed,kung fu
+354,romance,5,2,tear jerker,unrealistic,sad
+358,musical,5,2,singing,dancing,smiles
+358,horror,5,5,screaming,terror,death
+358,funny,5,5,laughing,comedy,happy
+358,comedy,4,4,jokes,laughing,witty
+358,superhero,5,5,magic powers,saving people,envy
+358,drama,4,4,captivaing,serious,scary
+358,existentialism,1,1,N/A not sure what this means,,
+358,surreal,5,5,not normal,fantasy,wishing life could be like this
+358,witty,4,4,smart,one liners,short
+334,martial arts,4,-1,kungfu,karate,boxing
+334,musical,5,5,drummer,xesophone,guitarist
+334,romance,5,5,outings,chasing,love
+334,stupid,5,-1,useless,nor worthy,waste of time
+334,environmental,4,5,deforestation,water pollution,harmful gasses
+334,art house,3,1,picaso,opera,club
+334,suspense,5,5,thriller,mystery,catastrophic
+334,war,5,5,independent,freedom,casualty
+334,quirky,1,1,strange,weird,odd
+334,overrated,3,2,rate too high,unnecessary showing ,think too much of
+359,steampunk,3,2,watch a lot,enjoy,good
+359,surreal,4,-1,dream,differ,fun
+359,world war ii,5,4,hurt,hate,people
+359,unique,5,5,differ,new,real
+359,religion,1,1,believe in,follow,hope
+359,comedy,3,3,laugh,funny,smile
+359,stylized,4,5,time,follow up,when
+359,historical,5,5,time,pass,when
+359,pirates,3,3,history,time,them
+359,animation,5,5,art,dream,other world
+357,india,5,2,Chai tea,Slum,Curry
+357,existentialism,2,2,Philosophy,Self consciousness,Life
+357,horror,5,4,Fear,Thrill,Suspence
+357,quirky,2,5,Weird,Curious,Intriguing
+357,martial arts,5,2,Karate,Combact,Kung Fu
+357,mockumentary,3,4,Reality,Fiction,Storytelling
+357,unique,3,5,Exclusive,Original,Unusual
+357,dystopia,4,4,Fiction,Reality,Seamless
+357,drugs,5,5,Narcos,Toxic,Addiction
+357,religion,5,3,Church,Faith,Prayers
+340,witty,3,3,Novel,Raconteur ,Clever
+340,serial killer,5,4,Murder,Mass Murder,Spree killer
+340,violence,4,5,Violence ,Mass Violence ,extradinary violence 
+340,boring,3,3,Boring ,Very Boring ,Hard time Boring
+340,documentary,4,5,Film ,Terms of the Film,Ultimate Guide
+340,world war ii,4,5,Battle of Britain ,Axis powers,Battle of the coral sea
+340,war,5,4,Combat ,Fighting,Strike
+340,funny,4,3,Laughable ,witty,Comical
+340,fantasy,4,5,Fancy,Wild,Illusion
+311,musical,2,1,song,melodic,lyrical
+311,romance,5,5,love,enchantment,passion
+311,self discovery,2,2,heart-searching,self-contemplation,pensiveness
+311,holocaust,5,4,fascism,Second World War,shoah
+311,drugs,4,3,addiction,narcotics,syringe
+311,animation,5,5,cartoon,Disney,Pixar
+311,sci-fi,4,3,futurism,space,scientifiction
+311,funny,5,5,amusing,comical,hilarious
+311,adventure,3,2,experience,danger,exploration
+311,war,4,2,death,weapons,danger
+366,war,1,1,power,life,death
+366,great soundtrack,1,1,music,singing,voice
+366,violence,1,1,killings,gangs,crazy
+366,martial arts,1,1,fun,health,life
+366,psychological,1,1,none,none,none
+366,prison,1,1,crimial,justice,violence 
+366,western,1,1,country,music,culture
+366,pirates,1,1,thiefs,movie,sea
+366,india,3,3,country,none,none
+366,mafia,1,1,violence,crime,killings
+370,time travel,5,2,back to future,terminator,waynes world
+370,holocaust,5,5,WWII,Nazi Germany,Jews
+370,art house,3,4,dark,music,unshaved legs
+370,hilarious,4,4,funny,crazy,interesting
+370,stupid,2,4,dumb,not intelligent,this task
+370,western,3,3,west,america,horse
+370,martial arts,3,3,asia,bruce lee,karate
+370,boring,4,5,tv,media,work
+371,robots,5,5,intelligent,support,technology
+371,self discovery,5,5,adventure,nature,pleasent
+371,predictable,3,3,survive,protect,saving
+371,superhero,5,5,power,mass,epic
+371,stylized,5,5,fashion,admire,goal
+371,drama,5,5,sentiment,love,feel
+371,original,5,5,nature,true,reality
+371,romance,5,5,love,affection,care
+371,pirates,5,5,talent,adventure,strategy
+378,tense,5,4,Stressed,Anxious,Tight
+378,original,5,3,New,Unique,Genuine
+378,western,5,3,Cowboys,Guns,Horses
+378,environmental,5,2,Climate,Oxygen,Nature
+378,martial arts,5,4,Karate,Kung-Fu,Fighting
+378,philosophical,5,4,Thinking,Musing,Deep
+378,steampunk,4,2,Technology,Combustion,Metal
+378,boring,5,5,Sleepy,Uninterested,Dull
+372,pirates,5,4,attack,eyepatch,johnydeep 
+372,disturbing,5,5,thriller,worry,gore
+372,environmental,5,3,nature,global warming,animals
+372,martial arts,5,5,jackie chan,bruce lee,karate 
+372,nonlinear,2,3,psycho,unclear,mystry
+372,stupid,5,5,funny,comedy,foolish
+372,superhero,5,5,batman,superman ,super power
+372,mystery,5,5,suspense,thriller ,dark
+372,christmas,5,5,colorful,joy,happy
+372,predictable,5,5,expected ,unintresting ,boredom 
+361,mockumentary,3,2,funny,original,reality
+361,fantasy,5,5,elfs,dragrons,magic
+361,funny,5,4,punch line,giggle,spoof
+361,twists & turns,3,2,rollercoaster,unexpected,surprise
+361,atmospheric,3,2,feel,drama,nervous
+361,prison,3,2,drugs,rape,escape
+361,steampunk,4,2,victorian,art nouveau,automaton
+361,pirates,5,2,ship,eye patch,drunk
+361,cyberpunk,4,2,future,implants,neon
+386,funny,5,5,HUMOROUS,COMIC,HILARIOUS
+386,art house,4,4,BACKDROP,SCENERY,BACKSTAGE
+386,romance,5,4,AFFAIR,LOVE,RELATIONSHIP
+376,holocaust,5,2,Germany,gas chambers,museum
+376,witty,5,5,smart ,unique,interesting
+376,violence,5,3,bad ,hurt,depressing
+376,comedy,5,5,funny,happy,feel good
+376,martial arts,5,4,fight ,judo,orential
+376,prison,5,3,bars,bad,rejects
+376,thought-provoking,5,5,wondering,thinking,interesting
+376,stupid,5,5,not right,dumb,not smart
+376,psychological,5,5,makes sense,makes no sense,thought provoking
+376,predictable,5,5,common,famlliar,know it will happen
+391,serial killer,5,5,murder,torture,violence
+391,satire,4,4,irony,laughter,wit
+391,mystery,4,4,investigation,disappear,lies
+391,war,4,4,soldiers,politicians,bombs
+391,martial arts,3,2,karate,kung fu,mma
+391,mafia,5,5,family,italy,money
+391,holocaust,5,1,jews,Hitler,war
+391,thought-provoking,1,2,profound,emotional,life
+391,animation,5,2,kids,family,fun
+395,horror,5,3,scary,terror,brutal
+395,environmental,2,2,weather,disaster,end days
+395,suspense,3,3,interesting,thrilling,mystery
+395,funny,4,4,laughter,joy,excitement
+395,mafia,4,4,antihero,interesting,strange
+395,comic book,3,3,fantasy,power,exciting
+395,unique,2,2,novel,one of a kind,individual
+395,serial killer,2,2,terror,odd,disgusting
+395,christmas,4,4,joy,happy,presents
+395,robots,3,3,future,AI,smart
+392,pirates,5,3,Ocean,Theft,Pillage
+392,musical,5,2,Song,dance,Show
+392,environmental,5,1,Climate Change,Global Warming ,Carbon
+392,world war ii,5,5,Epic,Saga,Intense
+392,nonlinear,5,-1,Different,Not a straight line,Out of sequence
+392,predictable,5,5,Logical,Straight forward,Easy to follow
+392,war,5,3,Conflict,Massive,Destruction
+392,culture clash,-1,3,Collide,dissagree,fight
+392,unique,5,3,Different,stands out,one of a kind
+392,original,5,2,one of a kind,not standard,the first of a kind
+393,sci-fi,5,3,Fantasy,Exciting,Future
+393,self discovery,4,2,Introspection,Thoughts,Values
+393,pirates,5,1,Ship,Eye patch,Skull and crossbone flag
+393,predictable,5,3,Usual,Simple,Straightforward
+393,stupid,5,4,Funny,Entertaining,Laugh
+393,india,5,3,Good food,People,Love
+393,superhero,5,3,Helpful,Heroic,Strong
+393,romance,5,5,Love,Care,Memories
+393,funny,5,5,Entertaining,Laughable,Happy
+382,pirates,5,3,Raider,Sea villain,Carribean
+382,india,5,4,Country,Democracy,Hindustan
+382,romance,5,5,Love,Lust,Couple
+382,nonlinear,3,4,disordered,flashback,statistics
+382,animation,5,4,Anime,graphics,non-real
+382,suspense,5,5,Climax,thriller,exciting
+382,art house,3,4,creative,colourful,aesthetic
+382,comic book,5,4,super hero,magazine,child hero
+382,hilarious,4,4,happy,laugh,task
+382,disturbing,4,4,psycho,violence,assault
+390,time travel,5,5,beautiful,intriguing,adventurous
+390,predictable,4,4,boring,mechanic,not practical
+390,philosophical,2,2,boring,annoying,nothingness
+390,horror,1,1,ugly,horrible,moron
+390,violence,1,1,ugly, horrible,moron
+390,plot twist,4,4,beautiful,expectation,suspance
+390,western,3,3,old,always the same,far away
+390,romance,5,5,attractive,tears,cry
+390,musical,2,2,boring,monotonous,sleepy
+390,environmental,5,5,current,reflective,for everyone
+387,funny,5,5,hilarious,humorous,comical
+387,animation,4,5,2D Animation,3D Animation,Motion Graphics
+387,musical,4,5,Concept Musicals.,Jukebox Musicals.,Pop/Rock Musicals.
+387,witty,5,5,sharp,quick,lively pain
+387,romance,4,5,love,careing,advice
+387,inspirational,4,5,efficacious,emphatic,motivating
+387,predictable,4,5,expected,foreseeable,foreseeable
+387,mystery,4,5,conundrum,secrecy,subtlety
+387,film noir,5,5,Touch of Evil," Sweet Smell of Success,", Double Indemnity
+387,superhero,5,5,Spider-Man.,Wonder Woman.,Captain America
+301,twists & turns,-1,-1,twist means sudden change,sudden turn ,story different
+301,christmas,5,5,good,celebration,season
+301,adventure,5,5,new,interesting,nice
+301,pirates,5,5,past,culture,Old movies
+301,superhero,3,4,nice,heroin,top
+301,disturbing,4,4,silence,DISGUSTING,smooth
+301,overrated,4,5,high,tall,review
+301,violence,4,4,vulgar,raise,high
+301,art house,4,4,library,good,design
+301,environmental,4,4,friendly,good,nice
+375,existentialism,3,3,thinking,feeling,existence
+375,superhero,5,3,powers,abilities,fighting
+375,robots,5,2,artificial,sentient,machine
+375,martial arts,5,3,self-defense,combat,tradition
+375,mystery,5,4,crime,thriller,suspense
+375,holocaust,5,2,genocide,nazis,murder
+375,social commentary,4,3,issues,change,justice
+375,religion,5,2,faith,beliefs,worship
+375,musical,5,1,dance,songs,theatre
+380,bittersweet,5,5,Orange,fellen,felonwood
+380,drugs,5,4,Pharmacy,dope,chemist
+380,steampunk,4,3,Good ,Romantic,style
+380,animation,5,5,spirit,life,sparkle
+380,sci-fi,3,3,science fiction,blast,dick
+380,romance,5,5,story,romantic,novel
+380,pirates,4,3,cutlass,black,jolly
+380,stylized,5,4,formalism,modern,hieratic
+380,musical,5,5,tune,sing,note
+380,comic book,3,3,superman,cartoon,novel
+369,predictable,5,5,expected,sure,certain
+369,romance,5,5,love,passion,affection
+369,philosophical,4,4,ideology,testament,spirituality
+369,martial arts,5,5,Karate,Kung Fu ,Muay Thai
+369,holocaust,5,5,disaster,destruction,mass murder
+369,drama,5,5,theatre play ,show,screen play
+369,historical,5,5,ancient,belonging to the past,past events
+369,india,5,5,country,culture,Hindustan
+406,martial arts,5,5,kungfu ,karata,judo
+406,nonlinear,2,3,mathematical expressions,straight line,equations
+406,comic book,4,5,noviels,animation movies,mickey mouse
+406,animation,4,5,pogo,cartoon network,pluto
+406,pirates,5,5,somaliya,thief,steal things
+406,environmental,5,5,earth,green,climatic change
+406,funny,4,5,laughing,happy,smile
+406,western,5,3,classic,new,market
+406,time travel,3,4,to another world,another dimension,another place
+406,overrated,2,2,telling something big,saturn,jupiter
+381,superhero,5,4,Helping the weak,Fighting the enemies,Superpowers
+381,horror,5,5,Scary sounds,Monsters,Creepy places
+381,thriller,4,3,Suspense,Action,knotty plots
+381,holocaust,5,3,Hebrews,Nazi,Gas chambers
+381,animation,5,5,Cartoons,Disney,CGI
+381,comic book,4,2,Mickey Mouse,Comic strips,Black and white drawings
+381,violence,4,2,Fights,Blood,Guns
+381,dystopia,3,3,Aliens,Flying cars,Ultra High Technologies
+381,romance,4,2,Kissing,Love stories,Breakups
+394,martial arts,5,4,kung fu,Bruce Lee,Jackie Chan
+394,romance,5,2,relationship,love,drama
+394,quirky,3,3,unexpected,suspense,odd
+394,film noir,4,3,dark,dramatic,tense
+394,funny,5,4,laugh,comedy,humor
+394,humorous,5,3,funny,slapstick,silly
+394,mafia,5,5,crime,violence,familia
+394,thriller,4,4,suspense,unexpected,drama
+394,christmas,5,2,holiday,happy ,winter
+394,culture clash,4,2,contradictory,awkward,interesting
+401,christmas,5,5,Holiday,Family,Decorations
+401,animation,5,5,Movement,Cartoons,Fun
+401,musical,5,5,Singing,Dancing,Movement
+401,space,4,4,Galaxy,Orbit,Milky Way
+401,aliens,4,4,Outerspace,Life Forms,UFO
+401,martial arts,5,5,Bruce Lee,Shogun,Ronin
+401,artistic,5,5,Renissance,Painters,Blue Period
+401,futuristic,5,5,25th century,Long term,Fast Forward
+401,pirates,4,4,Ships,Gold,Adventure
+401,humorous,5,5,Comedy,Funny,Stand Up
+388,mockumentary,2,2,mock,documentary,comedic
+388,disturbing,5,3,unpleasant,disconcerting,distressing
+388,martial arts,5,3,Karate,Kung Fu,Taekwondo
+388,horror,5,4,fear,terror,fright
+388,mafia,5,2,crime,organization,dangerous
+388,boring,5,2,dull,uninteresting,monotonous
+388,comic book,4,2,graphic,funny,fantasy
+388,unique,5,2,different,uncommon,particular
+388,space,5,3,universe,planets,aliens
+388,time travel,5,2,past,future,present
+407,time travel,5,5,another era,past,future
+407,prison,5,2,criminals,jail,confinement
+407,stylized,3,2,abstract,non conform,decorative
+407,space,5,3,universe,planets,extraterrestrial
+407,philosophical,3,2,underlying conduct,thought,knowledge
+407,bittersweet,4,3,happy sad,good bad,warm cold
+407,christmas,5,5,Christ's birthday,warm cozy,carols
+407,animation,5,5,computer,fun,happy
+407,disturbing,5,2,scary,inhumane,psychotic
+407,holocaust,5,5,Germany,concentration camps,evil
+400,funny,5,5,humerous ,comic,droll
+400,animation,5,5,comic,drawing,colorful
+400,war,2,2,conflict,discord,disharmony
+400,atmospheric,5,5,natural, meteorological,environmental
+400,romance,5,5,affair,love ,fling
+400,christmas,5,5,joyful,greetings,happy
+400,horror,3,3,panic,terror ,fear
+400,musical,5,5,melody,harmony,genre
+400,pirates,5,5,brigands,hijackers,robbers
+409,superhero,5,5,supernatural power,save the world ,villian
+409,quirky,4,3,weird,comedy,unconventional
+409,self discovery,5,4,inspiration,self growth,journey
+409,boring,5,2,waste of time,dull,not interesting
+409,animation,5,5,Fun,Colorful,story
+409,tense,5,3,thriller,anxious,stress
+409,cyberpunk,5,3,edgy,futuristic,action
+409,holocaust,5,3,death,sorrow,genocide
+409,plot twist,5,3,surprise ending,unexpected,bombshell
+433,drugs,4,3,getting high,pot,addiction
+433,war,4,4,weapons,deaths,warriors
+433,insanity,4,4,psychiatric,madhouse,adrenaline
+433,unique,5,5,magical,inspiring,one in a kind
+433,social commentary,4,4,people,social,studies
+433,satire,5,5,mocking,ugly truth,laugh
+433,holocaust,5,3,death,nazists,war
+433,mystery,5,5,shady,interesting,murders
+433,martial arts,5,4,eastern,karate,judo
+439,funny,5,5,"It's true that we don't know what we've got until we lose it, but it's also true that we don't know what we've been missing until it arrives.","""The only way to keep your health is to eat what you don't want, drink what you don't like, and do what you'd rather not","Always remember: you're unique, just like everyone else"
+439,adventure,5,5,experience,adventursome,enterprise
+439,martial arts,5,5,karate,akido,judo
+439,film noir,5,4,cynical,flashbacks,lightining
+439,romance,5,4,affectin,amativeness,fancy
+439,fantasy,4,5,play,pretend play,dramatic play
+439,cyberpunk,4,5,artificial intelligence, cybernetics,juxtaposed
+439,art house,5,5,Assemblage,Avant-garde,brushwork
+439,pirates,4,5,eyepatch,hook hand,peg leg
+441,existentialism,1,-1,individual,free,agent
+441,funny,5,5,humorous,cheerful,giddy
+441,historical,2,2,era,time,eons
+441,stupid,5,5,corny,dumb,clumsy
+441,horror,5,5,scary,frightening,terrifying
+441,culture clash,1,1,clash,cultural,stupid
+441,surreal,2,2,imaginery,unreal,fantasy
+441,pirates,5,5,peg leg,treasure,parrots
+441,martial arts,5,5,kungfu,karate,jujitsu
+441,humorous,5,5,funny,laughing,smiling
+436,hallucinatory,3,4,dream,feeling,day dream
+436,fantasy,3,5,magical creatures,fairies,superheroes
+436,environmental,3,4,climate,deforestation,drought
+436,culture clash,3,5,cultivation,cultural shock,production
+436,india,2,4,culture,farming,functions
+436,suspense,3,-1,secret,surprise,silence
+436,pirates,5,4,sea,knife,black
+436,serial killer,4,5,knife,blood,psycho
+436,social commentary,3,4,law,justice,truth
+436,holocaust,4,3,disaster,distruction,devastation
+447,comedy,-1,3,Rom-com,Humour,Good times
+447,robots,5,2,Ultron,R2 D2,AI
+447,funny,5,4,Comedy,Fun,Laughing
+447,surreal,5,4,Fantasy,Sci-fy,Marvel
+447,original,5,-1,New,Script,Nee concept
+447,romance,5,3,Romantic,Romantic comedy,Impossibly high standards
+446,prison,4,3,Beef,Back door parole,Bug
+446,superhero,5,5,guardian,savior,superman
+446,surreal,4,4,\tpeculiar,phantasmagoric,unreal
+446,unique,3,4,Halfpace,Supine ,Gobbledygook
+446,artistic,4,3,aesthetic,absorbing,acclaimed
+446,martial arts,5,4,Kung Fu,Karate,Krav Maga
+446,animation,5,4,Bane of my life,Lead a charmed life,Beat the living daylights
+446,horror,4,4,Be afraid,Save your tears,We all float down here
+446,india,5,5,freedom,army,independent
+448,culture clash,4,5,political, social satire., beliefs 
+448,cyberpunk,5,4,science fiction, high tech, artificial intelligence
+448,hallucinatory,3,3,dream, fancy,illusion
+448,pirates,3,3,Theif,hook hand,. buried treasure.
+448,stylized,4,4, stylized flowers,highly stylized look.,stylized version
+448,romance,4,4,love,relationship,affection
+448,comedy,3,3, humor,    funniness,comicality
+448,predictable,3,3, anticipated,unsurprising,be expected
+448,western,4,4,To be caught in a bad situation., High class; upscale, Chow
+448,mystery,4,4,riddle,secrecy,mystification
+450,romance,5,4, blind date ,Love at first sight , Puppy love 
+450,western,5,4,cowboy,wonder,fight
+450,futuristic,5,4,current,avant-garde, contemporary
+450,comic book,4,5,Splash.,Spread,Caption
+450,religion,4,5,devout,spiritual, holy
+450,comedy,5,5,fun,satire.,humor
+450,animation,5,4,Digital animator,Graphic illustrator, Multimedia 
+450,historical,4,5,traditional, chronicled,true
+450,fantasy,5,4,daydream,deception.,blunder.
+456,prison,4,4,escape,thriller,sad
+456,animation,5,5,quick,doodle,pencil
+456,holocaust,5,4,war,bleak,depression
+456,christmas,5,5,holiday,family,winter
+456,space,5,5,moon,spaceship,alien
+456,aliens,4,4,creatures,deep space,shuttle
+456,horror,5,5,graphic,spook,intense
+456,romance,5,5,sweet,heartwarming,love
+456,art house,5,5,avant garde,minimal,contemplation
+461,hilarious,5,3,comical,laughing,funny
+461,inspirational,5,4,history,blessed,memories
+461,stupid,5,2,jokes,dumb,crazy
+461,stylized,2,2,fashionable,iconic,different
+461,pirates,4,3,boats,water,plank
+461,horror,5,5,scary,victims,killer
+461,aliens,3,3,space,tiny,scary
+461,romance,5,5,love,affection,endearing
+468,original,5,4,real,good,natural
+468,animation,5,5,anime,animator,flim
+468,stylized,5,5,styzie,stylus,stymie
+468,thriller,5,4,allegory,alter ego,ballad
+468,atmospheric,5,5,air,gas,carbon dioxide
+468,holocaust,5,4,holo,holoca,holocast
+468,musical,5,5,musical, play,pop
+468,christmas,4,5,jesus,christ,xmas
+468,western,5,4,west,westerly,spoor
+468,satire,5,4,sati,satiery,sat
+495,comedy,5,5,Laughing,Sarcasm,Time kill
+495,romance,5,3,Cliche,Time kill,with girlfriend
+495,stylized,5,5,new prespective,out of box,something new
+495,inspirational,-1,-1,Cliche,Sometimes motivating,Thinking out of the box
+495,sci-fi,5,5,New prespective,Funny,Futuristically relatable
+495,mockumentary,5,5,Just a time kill,Small laughs ,Fun with friends
+495,social commentary,5,5,Boring,Only few are good,will watch when in a serious mood
+495,overrated,1,1,I haven't watched any over rated moveis,I haven't watched any over rated moveis,I haven't watched any over rated moveis
+495,stupid,5,5,Quick laugh,Fun With friends,TIme kill
+603,mockumentary,5,3,comedy,controversial,iconic
+603,futuristic,5,2,robots,space,speculative
+603,robots,5,2,metal,mechanical,autonomous
+603,disturbing,5,4,violence,injustice,war
+603,philosophical,4,3,thoughtful,questioning life,academic
+603,world war ii,5,3,violence,germany,nazi
+603,drama,5,4,fiction,romance,period
+603,plot twist,3,2,surprise ending,unexpected,annoying
+603,stupid,5,4,slapstick,silly,comedy
+636,comic book,5,5,Superhero,Funny,Easy
+636,india,4,3,Bollywood,Asia,Delhi
+636,world war ii,5,5,Nazi,Germany,Allied
+636,war,4,4,World,Iraq,Afghanistan 
+636,atmospheric,4,5,Comedic,Easy watching ,Relax
+636,plot twist,5,4,Surprised,Thought-provoking ,Mind blowing
+636,thought-provoking,4,4,Universe,Plot twist,Space
+636,artistic,4,5,Grammy,Visual,Sad
+636,insanity,4,4,Jail,Mind loosing,Help
+636,space,4,5,Space Station,Rocket ,Gravity 
+708,justice,5,4,guilty,law,injustice
+708,thriller,5,5,mystery,suspence,adults
+708,hallucinatory,5,4,drugs,illusion,unreal
+708,surreal,5,5,dream,mind,time jumps
+708,sci-fi,3,3,robots,future,fiction
+753,christmas,5,2,present ,Novelty,adornment
+753,inspirational,5,5,Resilience,courage,Grit
+753,prison,2,2,Suffering,strangeness,evil
+753,hallucinatory,3,3,Drugs,strangeness,fear
+753,twists & turns,3,3,Resiliency,differentiation,transformation
+753,humorous,3,3,Jokes,funny,laughs
+753,tense,3,3,Language,action,aspiration
+753,social commentary,3,3,Interaction,transformation,application
+753,disturbing,3,4,Fear,suspense,fiction
+678,violence,5,5,Punch line,Shoot off your mouth,Slap in the face
+678,cyberpunk,4,3,Inhuman,Hallucination,Digital immortality
+678,stylized,3,2,No details,exaggeration,disturbing
+678,christmas,5,4,Holiday,Family,Happiness
+678,environmental,4,3,Nature,Documentaries,Learning
+678,plot twist,4,3,Shift from a story to another,More characters,Elements in common
+678,musical,5,4,Sing songs,Dancing,Musical arrangement
+678,thriller,5,4,Suspance,Shootings,Mistery
+678,historical,5,4,War and Army,Discoveries,Historical events
+678,martial arts,4,2,Japanese arts,Black belt,Teaching and discipline
+778,animation,5,4,fun,kids,happiness
+778,superhero,5,5,protection,fun,current
+778,overrated,5,4,diversity,current,required
+775,social commentary,5,5,behavior, relationship,feeling
+775,funny,5,5,comedy,funny,Light
+775,aliens,5,5,universe, non-human,conflict
+775,comic book,5,5,fantasy,super power,protection
+775,nonlinear,4,4,interesting,critical,dramatic
+775,insanity,4,4,behavior,conflict,critical
+775,thriller,4,4,mistery,fear,pain
+775,mockumentary,3,2,fiction,criticial,sarcasm
+798,drama,5,5,emotion,crying,intense
+798,mockumentary,3,2,false,overkill,bad filming
+798,robots,1,2,technology,innovation,war
+798,plot twist,3,4,surprise,emotion,unexpected change
+798,action,4,5,fight,surprise,good story
+798,culture clash,2,2,interesting,preconception,emotion
+798,tense,4,4,surprise,anguish,surprising ending
+798,space,1,2,innovation,funny,interesting
+777,atmospheric,5,4,Ambiance,Mood,Aura
+777,great soundtrack,5,5,Beautiful music,Rhythm,Classical
+777,justice,5,5,Fairness,Equity,Magistrate
+777,end of the world,5,5,Culmination,Armageddon,Doomsday
+777,prison,5,5,Jail,Penitentiary,Dungeon
+777,superhero,5,5,Champion,Model,Warrior
+777,stylized,5,5,Exaggerated,Inflated,Exalted
+777,space,5,5,Spaciousness,Universe,Interval
+777,world war ii,5,5,The great Patriotic War,World War I,Second World Ward
+777,predictable,5,5,Anticipated ,Expected,Obvious
+831,superhero,5,5,saving,powers,marvel
+831,twist ending,5,5,psych,cliff hanger,teaser
+831,witty,5,5,funny,comical,fast
+831,mystery,5,5,detective,murder case,man hunt
+831,world war ii,5,5,explosives,trauma,rashion
+831,space,5,5,dark matter,galaxy,universe
+831,visually appealing,5,5,aesthetic,physical,tangible
+831,time travel,5,5,time machine,past,future
+831,overrated,5,5,seen before,done already,reused
+843,social commentary,5,2,Critical,Thoughtful,Symbolic
+843,religion,5,2,Symbolic,Serious,Risky
+843,futuristic,5,5,Mechanical,Space,Robot
+843,musical,5,1,Annoying,Bad,Lame
+843,plot twist,5,3,Surprising,Tricky,Unexpected
+843,atmospheric,5,3,Ambient,Dark,Broody
+843,nonlinear,5,2,Disjointed,Fragmented,Staggered
+843,mystery,5,2,Sleuth,Unknown,Danger
+843,historical,5,2,Past,Factual,Real
+843,quirky,4,3,Silly,Funny,Unusual
+819,superhero,5,5,rescuer,fighter,guadian
+819,philosophical,5,5,thoughtfull,ethetics,logical
+819,violence,5,5,assault,terrorism,crually
+819,nonlinear,5,5,motivative,honest,friendly
+819,visually appealing,5,5,graphic,vivid,illustraion
+819,dystopia,5,5,disaster,loss,control
+819,insanity,5,5,dementia,mania,rage
+819,musical,5,5,amusement,relaxation,beauty
+819,world war ii,5,5,cruel,sad,loss
+851,overrated,5,3,over hyped,not work the rating,not as advertised
+851,futuristic,5,2,the way ahead,most future rich,technically sound
+851,adventure,5,2,good movie to watch along,gives a different way of entertainment,which is adventurous
+851,predictable,5,4,can be predicted easily,easily described before that scene,story is known before revealing
+851,philosophical,4,1,words more than action,which explains the life leasons,teaches the meaning of life
+851,disturbing,5,4,cant be watched,cant tolerate,it is unacceptable to see how life goes
+851,musical,5,4,smooth as it goes,soothing the ears,can be watched pleasently
+853,culture clash,4,3,Exciting ,Fun,Action
+853,predictable,4,3,Change,Uncertain ,Crazy
+853,drama,4,3,Gossip ,Talk,Excited 
+853,robots,3,3,Machine,Metal ,Parts
+853,cyberpunk,3,4,Mean,Bully,Punk
+853,social commentary,3,3,Talk,Talking ,Speaking 
+853,original,4,4,Ordinary ,Normal ,Origin
+853,drugs,3,3,Pills ,Medication ,Medicine 
+853,insanity,3,2,Crazy,Silly,Obnoxious 
+853,adventure,3,3,Action,Thrilling ,Adventurous 
+863,tense,5,2,frightened,anxious,nail-biting
+863,musical,5,1,annoying,over the top,extra
+863,culture clash,1,-1,I don't know what it is,I can't really answer this,confused
+863,robots,5,4,funny,automatic,dangerous
+863,thought-provoking,5,3,intriguing,interesting,eye-opening
+879,mystery,4,4,intrigue,questions,uncertainity
+879,futuristic,5,5,sci-fi,technology,space
+879,animation,5,4,cartoon,cgi,family
+879,atmospheric,3,3,ambience,environment,cinematic
+879,war,5,5,conflict,battle,military
+879,environmental,4,3,nature,land,water
+879,culture clash,3,3,shock,out of element,different
+879,mockumentary,5,3,documentary,joke,satire
+879,justice,4,4,righteous,law,morals
+879,satire,5,4,parody,humor,wit
+881,sci-fi,1,1,Science,Fiction ,Lab
+881,aliens,5,2,UFO ,Space,Creep
+875,india,5,5,traffic,buddhist religion,Gange
+875,cyberpunk,5,3,games,neon,cybernetics
+875,great soundtrack,5,4,Ennio Morricone,Just once in my life,Whitney Houston
+875,mafia,5,4,weapons,Gomorra,crimes
+875,satire,5,4,to laugh,exhilarating,The Tonight Show
+875,environmental,5,5,documentary,nature,ecological
+875,art house,5,5,antiques,paintings,Sotheby's
+875,inspirational,5,4,art,movie,color
+875,drugs,5,4,crystal meth,money,addiction
+875,historical,5,5,black and white,dictators,The patriot
+894,satire,4,3,funny,sarcasm,joke
+894,western,3,3,west,cowboy,horse
+894,serial killer,3,3,scary,murder,danger
+894,predictable,3,3,see,known,already
+901,quirky,5,4,abnormal,uncommon,unique
+901,atmospheric,4,5,having or giving an atmosphere,produced by,relating to
+917,historical,5,4,old fashioned costume,old guns,less modern vehicles
+917,original,4,3,new,never seen before,overwhelming
+917,philosophical,5,4,teaching,a good message,behaviour
+917,unique,5,5,out of the box,crazy,newest
+917,tense,3,2,confused,war,politics
+917,aliens,5,4,non human things,unusual spaceships,unique costume
+917,atmospheric,5,2,green,environment,river
+917,plot twist,5,5,suspense,thriller,betray
+917,quirky,5,2,weird,comedy,active
+917,culture clash,2,2,different thoughts,brainstorming,powerful villain 
+927,tense,5,2,Interstellar,Inception,Dark Knight
+927,justice,5,2,Superman,Batman,Captain America
+927,historical,5,3,Greece,Italy,War
+927,serial killer,5,1,Hannibal lecter,Murder,Blood
+927,western,5,1,Shane,Clint Eastwood,Logan
+927,robots,5,4,Artificial intelligence,Machine learning,Boston Dynamics
+927,cyberpunk,5,3,Flying cars,Neon light,Apocalypse
+927,artistic,5,4,Aesthetic,Visually-pleasing,Feel good
+927,philosophical,5,4,Thoughts and ideas,Plato,Deep
+927,hallucinatory,5,1,LSD,Rock and Roll,Drugs
+929,mystery,5,2,Solve,Crime,Police
+929,space,5,2,Alien,Science ,Planet
+929,prison,5,2,Jail,Criminal ,Bad
+929,film noir,-1,-1,Unknown ,Confused,Unrefined 
+929,philosophical,5,4,Thoughtful,Deep,Meaningful 
+929,justice,5,2,Crime ,Lawyer,Judge
+931,war,5,3,Armed conflucy,Platoon of soldiers ,Casualties of war
+931,world war ii,5,4,Nazi Germany ,Pearl harbor,D-day
+931,bittersweet,5,3,Joy of victory  at a costume ,Bar of chocolate,Good and bad
+931,artistic,5,4,Surrealism ,Water colors,Portraits 
+931,mafia,5,3,The godfather,"Sicily, italy",Crime family
+931,funny,5,5,Laughter,Slapstick,Practical jokes
+931,drugs,5,3,Illegal,Addiction,Prescriptions 
+931,inspirational,5,5,Triumph over adversity,Bear the odds ,Standing tall
+931,violence,5,2,Bloodshed,Gory,Mayhem
+931,culture clash,3,3,Generation gap,Old school,Melting pot
+934,atmospheric,3,3, special feeling,mysterious, especially
+934,boring,5,1,tedious,bothersome,tiring
+934,musical,5,2,cheered up,acquainted,loud
+934,action,5,2,rough,fierce,violent
+934,adventure,4,4,audacity,bravery,valor
+934,witty,5,3,modern,realistic,practical
+934,humorous,5,5,funny,laughter,happiness
+934,art house,1,2,intelligent,cult,Really
+934,tense,5,1,fear,mystery,violence
+934,world war ii,4,3,violence,blood,weapons
+933,visually appealing,5,5,magnificent,visually attractive,best for eye
+933,culture clash,1,-1,conflicts,clashes between parties,conflict between culture
+933,bittersweet,5,5,touching ,pathetic,impressive
+933,film noir,2,5,crime drama,dark  film,flash back crime drama
+933,aliens,5,5,foreigner,imigrant,stranger
+933,atmospheric,1,1,climatic,weather,meteorological
+933,social commentary,4,5,public comment,cultural commentary,racial commentary
+933,quirky,5,4,strange,weird,unusual
+933,violence,5,5,wildness,assault,ferocity
+933,thought-provoking,4,5,challenging,inspirational,fascinating
+943,serial killer,5,5,evil,crazy,terrifying
+943,futuristic,5,5,interesting,visual,fun
+943,musical,5,5,singing,dancing,fun
+943,christmas,5,5,family,joy,Jesus
+943,war,5,5,sad,graphic,realistic
+943,atmospheric,1,-1,moody,mysterious,intriguing
+943,mockumentary,5,4,realistic,interesting,relatable
+943,philosophical,4,5,intriguing,bold,mysterious
+943,existentialism,4,4,wild,bold,interesting
+942,atmospheric,-1,2,family,drama,comprehensive
+942,historical,5,5,weather,past,real
+942,world war ii,5,4,war,deaths,destruction
+942,sci-fi,5,5,fantasy,unreal,entertaining
+942,tense,-1,-1,current,past,future
+942,dystopia,-1,-1,chaos,weird,destruction
+942,insanity,4,2,chaos,bewilderment,dementia
+942,twist ending,5,4,dementia,bewilderment,intrigue
+942,predictable,5,5,provided,known,expected
+947,musical,5,5,songs,dancing,happy
+947,adventure,5,3,swashbuckling,fighting,danger
+947,overrated,4,2,boring,dull,unpleasant
+947,romance,5,3,corny,unrealistic,sappy
+947,boring,5,1,dull,dumb,too long
+947,artistic,1,-1,painting,creative,colorful
+947,original,4,3,unique,special,surprising
+947,culture clash,1,-1,fights,insulting,unknown
+947,historical,5,4,period,costumes,ancient
+944,dystopia,5,4,future,tragedy,suffering
+944,social commentary,4,4,society,interactions,world
+944,historical,5,2,wars,history,real facts
+944,atmospheric,1,2,vibe,background,feeling
+944,insanity,3,3,violence,behaviour,mind
+944,visually appealing,3,3,color palette,setting,light
+944,hallucinatory,3,2,drugs,trip,crazy
+944,sci-fi,5,2,science,space,aliens
+944,action,5,2,heroes,guns,bombs
+944,disturbing,3,2,gore,blood,violence
+950,historical,4,2,period piece,regency,war
+950,robots,4,4,ai,android,science fiction
+950,thriller,1,1,scary,on the edge of your seat,stressed
+950,thought-provoking,3,3,long pauses,interesting,fascinating
+950,animation,5,5,medium,drawn,stories
+950,stupid,1,1,comedy,jokes,bad
+950,aliens,5,5,sci fi,science,aliens
+950,sci-fi,5,4,science,aliens,fun
+950,quirky,3,2,comedy,weird,idk
+950,funny,3,3,comedy,weird,story
+949,serial killer,4,2,horrible,scary,afraid
+949,culture clash,2,2,classic,western,English
+949,sci-fi,5,5,robot,imagination,fantasy
+949,war,3,2,fight,sword,soldier
+949,historical,2,2,history,place,culture
+949,quirky,2,1,ugly,hate,stupid
+949,western,4,4,dance,drink,sex
+949,end of the world,4,3,sea,water,dying
+949,futuristic,5,5,computer,future,time travel
+958,aliens,5,5,EXTRATERRESTRIAL,unknown,exotic 
+959,social commentary,4,3,social ,life,commentary
+959,insanity,4,4,Unbelievable,Insane,shocking
+959,western,5,5,western ,life,culture
+959,funny,5,5,fun,comedy,laughter
+959,end of the world,5,5,apocalypse,war,ending
+959,inspirational,5,5,inspiration,motivation,struggle
+959,philosophical,4,3,Philosophy ,life,idea
+959,prison,4,3,prisoner,prison,jail
+959,mystery,4,3,mystery,truth,incident
+961,boring,5,2,lame,slow,quiet
+961,suspense,5,5,exciting,intriguing ,awesome
+961,serial killer,5,4,evil,scary,bloody
+961,insanity,4,2,crazy,scary,mental
+961,aliens,5,1,real,scary,here
+961,existentialism,4,2,freedom,feeling,will
+961,self discovery,4,3,finding,soul,fate
+961,action,5,5,exciting,loud,violent 
+961,romance,5,5,love,sex,passion
+952,holocaust,5,3,Death,Violence,Nazism
+952,historical,5,2,Ancient,Archaic,Antique
+952,atmospheric,4,4,Ambient,Surrounding,Environmental
+952,stylized,5,4,Fashion,Vogue,Colorful
+952,sci-fi,5,5,Technology,Machines,Future
+952,insanity,4,4,Crazy,Lunatic,Mad
+952,humorous,5,5,Funny,Entertaining,Laugh
+952,mockumentary,3,2,Fake,Documentary,Falsification
+952,quirky,4,4,Specific,Different,Unique
+952,artistic,5,4,Theatrical,Capricious,Cultural
+960,futuristic,5,2,intergalactic,space-age,cyber
+960,art house,5,2,arty ,hippie,gothic
+960,suspense,5,4,thriller,mystery,edgy
+960,plot twist,5,4,unexpected,surprising,roller coaster ride
+960,quirky,5,2,zany,weird ,madcap
+960,western,5,1,old west,cowboy,frontier
+960,documentary,5,5,reality,truth,actuality
+960,mystery,5,4,suspense ,thriller ,shadowy
+960,twist ending,5,5,plot twist ,unexpected plot twist,180 degree turn at the end
+960,mockumentary,5,3,fake documentary ,parody ,humorous take on the truth
+956,steampunk,4,4,The time machine,Van Helsing,Sherlock Holmes: A Game of Shadows
+956,inspirational,5,5,War Room,I Still Believe ,The Grapes of Wrath
+956,bittersweet,4,3,The Man in the Moon ,Gilmore Girls,Heaven Can Wait
+956,great soundtrack,5,5,The Heiress ,Aaron Copland Beyond the Forest, Max Steiner Champion 
+956,serial killer,5,5,Hannibal ,Halloween,Jamie Dornan 
+956,futuristic,5,5,Matrix,Watchmen ,Ballads and Blues
+956,war,2,2,Star wars ,none,none
+956,visually appealing,5,5,Matrix,Star treck,whatchman
+956,nonlinear,1,1,none,none,none
+956,time travel,5,5,12 monkeys,Time machine,A Wrinkle in Time 
+972,action,5,5,fighting,racing,shooting
+972,documentary,5,5,real,true,happened
+972,war,5,2,battle,history,sad
+972,hallucinatory,5,2,visuals,imagination  ,drugs
+972,western,5,2,horses,shoot outs,guns
+972,time travel,5,4,future,past,fix
+972,disturbing,5,2,gore,frightening,violence 
+972,humorous,5,5,comedy,funny,jokes
+972,stupid,5,5,corny,dumb,bad
+972,sci-fi,5,5,alien,ghost,creatures
+973,funny,3,4,kickout,timeup,takein
+977,existentialism,5,5,ending,eternity,life
+977,thought-provoking,5,5,engaging,analytiscal,thoughtful
+977,documentary,5,5,real,reality,life
+977,twists & turns,5,5,jurassic park,training day,zelda
+977,atmospheric,5,5,earth,voyage,become
+967,end of the world,5,3,catastrophe,disaster,devastation
+967,boring,5,3,monotonous,uninteresting,tedious
+967,bittersweet,4,4,touching,sentimental,affecting
+967,justice,5,3,egalitarianism,equity,fairness
+967,stupid,5,3,foolish,silly,idiotic
+967,visually appealing,5,3,fascinating,captivating,engaging
+967,tense,5,2,restless,edgy,apprehensive
+967,nonlinear,4,2,chaotic,irregular,unsystematic
+967,culture clash,4,3,cultural difference,diverging attitudes,subcultures
+967,western,5,5,cowboy,oater,occidental
+985,twists & turns,5,4,surprise,unique,exciting
+985,dystopia,4,3,cold,future,bland
+985,disturbing,4,4,scary,bloody,nasty
+985,thought-provoking,4,4,intelligent,exciting,bold
+985,social commentary,3,3,twitter,internet,facebook
+985,robots,4,4,future,cold,metal
+985,violence,4,4,bloody,knife,gun
+985,comedy,5,5,laugh,smile,happy
+985,original,5,5,unique,different,exciting
+985,hilarious,5,5,funny,happy,smile
+981,film noir,5,4,femme fatale,Los Angeles,detective
+981,nonlinear,5,4,fragmented,flashbacks,meta
+981,culture clash,5,3,foreigner,misunderstanding,East meets West
+981,disturbing,5,4,horror,turmoil,upsetting
+981,aliens,5,3,UFO,invasion,spaceship
+981,hilarious,5,4,comedian,funny,enjoyable
+981,end of the world,5,2,apocalypse,zombies,collapse of society
+981,great soundtrack,5,3,Classic songs,Good bands,Score
+981,hallucinatory,4,3,trippy,drugs,strange
+981,cyberpunk,5,3,urban,fashion,future
+988,social commentary,5,3,society,critique,discussion
+988,quirky,5,2,unusual,strange,niche
+988,satire,5,4,comical,cartoonish,funny
+988,original,5,3,new,unique,fresh
+988,insanity,5,2,crazy,bonkers,bananas
+988,dystopia,5,4,dark,menacing,forlorn
+988,robots,5,3,mechanical,bionics,artificial
+988,philosophical,5,4,thoughtful,smart,wise
+988,sci-fi,5,5,science,physics,technology
+988,justice,5,2,courts,system,fairness
+984,self discovery,5,1,woke,finding yourself,finding your voice
+984,bittersweet,4,3,sad,sort of happy,confusing
+984,mystery,5,4,shocking,who did it,adventure
+984,serial killer,5,1,i hate it,scary,dont want to see
+984,existentialism,2,2,aliens,human existnece,free choice
+984,romance,5,5,Love ,love story,Outlander
+984,futuristic,5,5,Back to the future,Space,technology
+984,comedy,5,4,funny,laughing,out of the moment
+984,artistic,5,3,hard to follow,rough,beautiful
+987,mafia,5,5,italian,sicily,soprano
+987,superhero,5,5,flying,spiderman,batman
+987,existentialism,5,5,meaning,purpose,death
+987,futuristic,5,5,sequencing,genome,technology
+987,self discovery,5,5,inward,meditation,emotional
+987,film noir,5,5,ominous,foggy,dark
+987,drama,5,5,emotional,crying,intense
+987,twist ending,5,5,surprise,rug pull,Arlington Road
+987,disturbing,5,5,Human centipede,gross,gory
+995,mockumentary,5,3,funny,satire,enjoyable
+995,twists & turns,4,3,surprise,clever,rewatchable
+995,documentary,5,4,biased,interesting,thourghtful
+995,prison,4,2,sad,dangerous,blah
+995,comedy,5,3,funny,amusing,silly
+995,futuristic,5,4,cool,modern,scifi
+995,artistic,5,4,independent,different,awards
+995,great soundtrack,5,4,involving,emotional,awesome
+976,nonlinear,3,4,different,unstable,contradictory
+976,pirates,4,4,thief,adventurous,dangerous
+976,aliens,4,4,ET,different,ugly
+976,twists & turns,3,3,changes,news,different
+976,hallucinatory,3,4,surreal,Crazy,funny
+976,tense,4,4,language,grammar,verb
+976,disturbing,4,4,dangerous, fear ,horror
+976,witty,4,4,funny, friendly ,spiritual
+976,mockumentary,4,4,falsehood, lie, deceitful
+975,steampunk,5,4,Mechanical ,Science ,Creative 
+975,world war ii,5,5,Vietnam ,China,American 
+975,mockumentary,4,3,Documentary ,Non real ,History 
+975,nonlinear,4,3,Scientists ,Creative ,Studying 
+975,adventure,5,5,Moving,Travel,Mystery 
+975,suspense,4,4,Nervous,Anxious ,Afraid 
+975,aliens,5,5,UFO,Galaxy,Planet 
+975,twists & turns,4,3,surprising,curves,plot
+975,artistic,5,4,Talented ,Creative ,Music 
+983,humorous,5,2,Funny,Laugh,Comedy
+983,surreal,1,1,Unbelievable,Bizarre,Unusual
+983,funny,3,2,Giggle,Humor,Guffaw
+983,great soundtrack,3,3,Music,Symphony,Orchestra
+983,end of the world,3,3,Apocalyptic,Change,Omega
+983,robots,2,2,Android,Cyborg,Robotic
+983,overrated,3,5,Oversold,Hyped,Boastful
+983,social commentary,2,2,Documentary,Life,Relatable
+983,drugs,5,1,Narcotics,Addicts,Junkies
+983,bittersweet,3,2,Sad,Sorrow,Cry
+986,hallucinatory,4,2,perception,seeing,intoxication
+986,plot twist,5,5,unexpected,surprised,turning point
+986,twists & turns,5,5,changes,differences,directions
+986,world war ii,5,2,history,educational,past
+986,culture clash,4,3,different,unique,odd
+986,historical,5,2,past,nonfiction,realistic
+986,superhero,5,4,fiction,unreal,idol
+986,artistic,5,1,boring,educational,careful
+986,thriller,5,3,horror,scary,on edge
+986,original,4,3,basic,new,novel
+999,dystopia,2,2,fake,not real,fantasy
+999,adventure,5,5,fun,exciting,new
+999,disturbing,5,2,scary,dark,horror movie
+999,historical,5,3,civil war,revolutionary,american
+999,sci-fi,5,2,not real,technology,nerdy
+999,thriller,5,3,exciting,real life,murder
+999,social commentary,4,4,outside looking in,pop culture,music
+999,twist ending,5,3,unexpected,scary,nail biting
+999,drugs,5,2,poor,dirty,addiction
+999,satire,3,2,funny,not real,dorky
+989,self discovery,5,2,childhood,romance,success 
+989,justice,5,4,crime,hero,villain 
+989,martial arts,5,3,fighting ,violence  ,cool 
+989,futuristic,5,4,space,technology,robots
+989,war,5,5,death,guns,shooting
+989,existentialism,3,2,humans,life,purpose
+989,thriller,5,4,scary ,darkness,running
+989,culture clash,2,2,society,serious,life
+989,overrated,5,1,boring,dumb,bad
+1001,disturbing,5,5,Sickening,Upsetting,Gross
+1001,funny,5,2,Hilarious,Silly,Comedy
+1001,comic book,5,5,Avengers,Drawings,Superhero
+1001,quirky,5,5,weird,Crazy,Strange
+1001,romance,5,1,mushy,Cheesy,love
+1001,hallucinatory,3,2,Trippy,Weird,Confusing
+1001,witty,5,5,Smart,Sharp,Quick
+1001,sci-fi,5,4,Martians,Future,Lovecraft
+1001,thriller,5,3,Jumpy,Exciting,Fast Paced
+1001,film noir,3,2,Swanky,Slick,Classy
+953,humorous,5,4,humor,fun,comedy
+953,holocaust,3,2,sacrifice,suffering,killing
+953,funny,4,5,funny,comedy,happy
+953,insanity,4,4,Crazy,madness,craziness
+953,bittersweet,4,3,bittersweet,acidulce,sweet
+953,dystopia,3,3,extreme oppression,despair or deprivation,anti-utopia
+953,sci-fi,4,5,Sci-fi, fantasy,fable
+953,prison,4,4,confined,chained,imprisoned
+953,overrated,4,5,maximized,exaggerated,valued
+953,artistic,5,5,way,skill,talent
+993,holocaust,5,5,death,sadness,genocide
+993,comedy,5,4,funny,happy,laughter
+993,robots,5,2,machine,circuits,AI
+993,disturbing,4,2,scary,dark,horror
+993,self discovery,2,1,adventure,happiness,hope
+993,adventure,5,4,discovery,quest,monster
+993,film noir,1,3,dark,crime,detective
+993,inspirational,2,2,inspire,grow,worthy
+993,hilarious,5,4,funny,laughter,comedy
+991,violence,5,3,murder,gore,rape
+991,thought-provoking,4,4,plot twist,analytical,deep thinking
+991,film noir,1,2,different,stylish,genre
+991,adventure,5,5,action,hero,journey
+991,original,5,4,new,one of a kind,different
+991,futuristic,4,4,space,science fiction, supernatural
+991,pirates,5,4,thieves,gold,ships
+991,unique,5,4,different ,new,one of a kind
+991,artistic,4,2,awards,talent,masterpiece
+1003,existentialism,3,2,Acting freely,Independent ,Free thinking 
+1003,india,4,2,Country ,Taj mahal,Spicy
+1003,humorous,5,5,Laugh,Smiling ,Noise
+1003,predictable,5,2,Knows what’s gonna happen ,As expected ,Anticipating 
+998,comic book,5,4,campy,action,superhero
+998,witty,5,5,clever,fun,make me laugh
+998,existentialism,2,1,philosophy,complex,difficult to understand
+998,action,5,4,violence,fighting,fast cuts
+998,film noir,2,1,atmospheric,40's,black and white
+998,fantasy,5,5,other races,unrealistic,light entertainment
+998,thriller,4,2,action,danger,serial killer
+998,artistic,4,3,foreign,indie,pretentious
+998,comedy,5,5,laughter,funny,screwball
+998,serial killer,5,2,violence,danger,scary
+992,comedy,5,4,fun,entertainment,happy
+992,dystopia,4,4,heaven,eden,fantasyland
+992,film noir,4,4,film,picture,movie
+992,india,4,5,Incredible,nature,awesome
+992,world war ii,4,5,fight,wound,death
+992,comic book,3,5,humorous ,funny,absurd
+992,surreal,5,3,unreal,unusual,weird
+992,atmospheric,5,5,ambience,aura,climatem
+992,satire,5,4,mockery,ridicule,scorn
+992,psychological,3,5,mental,emotional,cerebral
+1000,action,4,4,fast,volatile,confrontative
+1000,hallucinatory,5,2,imaginary,illusionary,not real
+1000,space,5,4,universe,outer space,multi-dimensional
+1000,culture clash,4,2,opposing cultures,different backgrounds,different beliefs
+1000,musical,5,4,many songs,talented singers,many musical pieces
+1000,atmospheric,1,-1,feeling,environment,conditions
+1000,humorous,5,4,funny,lots of jokes,lighthearted
+1000,twists & turns,4,4,unexpected,shift in direction,turn in plot
+1000,world war ii,5,2,2nd world war,1938-1945,germany
+997,hallucinatory,4,4,Imaginative,creative,crazy
+997,horror,5,1,scary,terror,evil
+997,witty,3,3,intelligent,smart,interessant
+997,end of the world,5,3,end of the days,disaster,calamity
+997,sci-fi,5,3,fiction,non-real,alter reality
+997,existentialism,5,4,self-knowledge,thoughtful,makes you think
+997,serial killer,5,2,bandits,muder,assassins with mental disorder
+997,space,5,3,rockets,UFO,ET
+997,steampunk,4,2,old but technologic,copper gadgets,madmax
+997,robots,5,3,Machine,Artificial Intelligence,Human alike
+1008,atmospheric,3,2,flying,gravity,sound effects
+1008,suspense,3,2,fear,waiting,unsure
+1008,twist ending,5,3,surprise,unexpected,shock
+1008,musical,-1,5,fun,light,colorful
+1008,twists & turns,4,3,adrenaline,action,fast
+1008,humorous,5,5,fun,funny,hillarious
+1008,space,4,3,galaxy,science fiction,stars
+1008,superhero,5,5,adventure,comics,hero
+1008,end of the world,2,2,apocalypse,tragic,fear
+1008,hallucinatory,2,2,travel,sensation,psycotic
+1004,bittersweet,5,3,memories,failed romance,feelings
+1004,stupid,5,2,dull,annoying,brainless
+1004,quirky,4,3,peculiar,strange,unusual
+1004,film noir,5,5,plot,intrigue,death
+1004,robots,5,3,machines,artificial intelligence,metal
+1004,witty,4,4,innovative,ingenous,entertaining
+1004,artistic,5,4,creative,expressive,aesthetic
+1004,adventure,5,4,risk,chance,quest
+1017,suspense,5,5,SCARED,EAGER,UNEXPECTED
+1017,action,5,5,EXCITING,THRILLING,INTERESTING
+1017,bittersweet,5,5,UNEXPECTED,LOSING,SADNESS
+1017,dystopia,-1,-1,WAR,BAD,CHILDREN
+1017,psychological,5,5,MINDSET,BIPOLAR,MENTAL
+1017,space,5,5,LONG,SILENCE,BREAKS
+1017,serial killer,5,5,BLOOD ,DEATH ,MENTAL
+1017,overrated,5,5,SUBLIMINAL,REPITITIOUS,PLOT
+1017,visually appealing,5,5,CHARACTER,MODELS,WOMEN
+1017,violence,5,5,WAR,SOLDIER,DRUGS
+1016,surreal,3,3,weird  ,odd ,different 
+1016,aliens,5,3,space ,extraterrestrial,monster
+1016,serial killer,5,4,white man ,death ,murder 
+1016,thought-provoking,5,5,thinking ,interesting ,googling ending theories  
+1016,inspirational,5,5,feel good ,influential,motivating 
+1016,end of the world,5,4,aliens ,weather going crazy,Armageddon
+1016,visually appealing,5,5,beautiful ,Aesthetically pleasing,easy on the eyes 
+1016,suspense,5,5,anxiety ,stressful,dramatic 
+1016,sci-fi,5,5,space ,aliens ,space ship 
+1016,martial arts,5,5,Jackie Chan ,fighting  ,Asian 
+1018,musical,4,3,light,fun,passionate
+1018,robots,3,2,steel,stiff,cold
+1018,witty,3,4,fun,clever,smile
+1018,prison,4,3,cold,scary,small
+1018,documentary,4,3,interesting,educational,dry
+1018,aliens,3,3,creepy,scary,slimy
+1018,film noir,3,4,independent,unique,small
+1018,artistic,3,4,fancy,creative,unique
+1018,twists & turns,4,4,clever,anticipation,suspense
+994,disturbing,5,3,Muddle ,Confuse,Horror
+994,space,5,4,Galaxy,sci-fi,alien
+994,bittersweet,1,2,Diverse,Various,unrecognized
+994,twist ending,4,4,unexpected,abrupt,knockdown
+994,robots,5,5,sci-fi,Futuristic,Artificial intelligence
+994,overrated,3,2,Overstimate,exaggerated,overestimated
+994,artistic,4,3,creative,masterpiece,chef d'oeuvre
+994,atmospheric,1,2,exciting,breathtaking,climax
+994,justice,4,4,Criminal,thriller,judgment
+1025,visually appealing,4,5,pretty,awe,special
+1025,suspense,4,3,emotional,intense,on edge
+1025,time travel,4,2,futuristic,special effects,interesting
+1025,documentary,5,5,informational,educational,one subject
+1025,comic book,4,3,funny,action packed,escape
+1025,justice,4,3,protagonist,evil,applaud
+1025,end of the world,5,2,special effects,action packed,destroy
+1025,insanity,1,3,crazy,action,insane
+1025,funny,5,5,comedy,laugh,fun
+1021,violence,5,2,kill,torture,blood
+1021,superhero,5,4,superman,fantastic,fliyng
+1021,space,5,5,moon,stars,hiperspace
+1021,aliens,5,4,ufo,planets,speed
+1021,tense,4,2,attention,horror,warning
+1021,robots,5,5,mechanic,not real,automatic
+1021,humorous,4,4,iena ridens,laughter,comic
+1021,thriller,3,3,yellow,suspance,kill
+1021,nonlinear,2,2,strange,not right,out of head
+1021,disturbing,2,2,very strange,abnormal,not right
+1019,self discovery,5,4,introspection,self-contemplation,look inside
+1019,philosophical,5,5,erudite,stoical,analytical
+1019,boring,5,3,tedious,monotonous,tiresome
+1019,futuristic,5,5,modernistic,advanced,visionary
+1019,end of the world,5,5,armageddon,apocalypse,holocaust
+1019,suspense,5,3,tension,uncertainty,doubt
+1019,comedy,5,3,hilarious,humorous,comic
+1019,social commentary,5,4,social analysis,social critique,public criticism
+1027,art house,5,5,building,where,art is shown
+1027,mafia,-1,-1,closed,group,people
+1027,witty,5,5,droll,funny,comic
+1027,thought-provoking,5,5,intersting,proactive,stimulating
+1027,philosophical,5,5,calm,composed,cool
+1027,self discovery,5,5,guided,self questioning,examination
+1027,futuristic,5,5,visionary,ultaneeded,avant graded
+1027,hilarious,-1,-1,comic,funny,humorous
+1027,romance,5,5,love,together,relationship
+1020,aliens,3,2,space,super powers,travel
+1020,adventure,5,4,jungle,historical,travel
+1020,futuristic,4,3,dystopian,technology,apocolypse
+1020,comedy,5,5,slapstick,laughter,irony
+1020,art house,2,2,independent,pretenious,surreal
+1020,drugs,3,2,death,poverty,forgetfulness
+1020,nonlinear,5,3,complex,fragmented,mysterious
+1020,surreal,4,2,hard to understand,artistic,strange
+1020,existentialism,5,3,uncertainty,fear,understanding
+1020,twist ending,5,4,shock,breadcrumbs,death
+1028,historical,5,3,period peice,another era,long ago
+1028,thought-provoking,5,4,stimulating,dilemma,alternate viewpoint
+1028,philosophical,5,4,has meaning,deep,involving thoughts and values
+1028,nonlinear,4,-1,jumping around in time,forward and backward views,confusing
+1028,romance,5,2,sappy,meaningless,emotional
+1028,dystopia,5,4,alternate future,societal collapse,unforeseen challenges
+1026,existentialism,3,3,live,meaning,human
+1026,stylized,3,3,action,computer,image
+1026,action,5,5,violence,guns,man
+1026,inspirational,3,2,emotion,true,feelings
+1026,social commentary,2,2,society,family,human
+1026,justice,4,4,true,fair,law
+1026,quirky,3,4,strange,irrational,funny
+1026,original,5,5,true,real,history
+1026,futuristic,5,4,space,software,fantasy
+1026,self discovery,2,2,time,family,feelings
+1032,historical,5,2,past,lessons,knowledge
+1032,twists & turns,2,2,excitement,thrills,fun
+1032,tense,5,3,nervous,scary,afraid
+1032,aliens,3,4,terror,fear,scared
+1032,inspirational,2,2,love,joy,fun
+1032,overrated,5,-1,boring,unfunny,dumb
+1032,satire,3,4,unsure,unsure,unsure
+1032,funny,4,2,laughs,comdy,joy
+1032,suspense,4,4,thrills,surprises,adventure
+1032,boring,5,4,blah,undifferent,sleepy
+1031,thriller,4,4,Suspense,Mystery,scary
+1031,historical,5,5,war ,pioneer,old west
+1031,philosophical,5,4,thought provoking,puzzling,beliefs
+1031,visually appealing,4,4,scenery,action,special effects
+1031,violence,5,5,crime ,war,murder
+1031,thought-provoking,5,4,beliefs,puzzling,philosophical
+1031,drugs,5,2,crime,mayhem,despair
+1031,comic book,5,2,fatasy,super hero,villians
+1031,sci-fi,5,2,space,future,alternate reality
+1031,serial killer,5,2,Manson,Zodiac,murder
+1040,atmospheric,3,3,Music ,Movie scene,Picture
+1040,great soundtrack,5,4,Music,Great,Memorable
+1040,drama,5,5,Movie,Memorable ,Story
+1040,justice,4,4,Meaning of justice,Justice system,Ethic
+1040,comedy,5,5,Smile,Fun,Laugh
+1040,thriller,3,3,Movie,Book,Suspance
+1040,holocaust,1,1,Jews,Second world war,Nazis
+1040,twist ending,5,4,Movie,Story,Surprise
+1040,boring,3,3,Situation,Movie,Book
+1040,dystopia,3,3,Concept ,Future,Story
+1029,justice,4,4,Fair,Hero,Savior
+1029,thriller,3,3,Horror,Drama,Film
+1029,futuristic,5,5,Space,Starships,Flying cars
+1029,tense,4,4,Horror,Soundtrack,Impressive
+1029,twist ending,4,4,Unexpected,Good story ,Good ending
+1029,existentialism,3,3,Who am I?,Why should I do this?,Why do I exist? 
+1029,comedy,5,5,Funny,Laugh,Cool
+1029,suspense,4,4,Afraid,Fear,Impressive 
+1029,visually appealing,5,5,CGI,Special effects,Amazing visual 
+1029,great soundtrack,5,5,Rhythm,Listening,Memorable
+1039,space,4,4,moon,planets,astroids
+1039,religion,5,4,pray,god,faith
+1039,prison,5,4,criminal,jail,lockdown
+1039,social commentary,4,4,talking,engaging,whitty
+1039,thriller,5,4,surprise,scary,suspence
+1039,action,5,4,guns,fast,bloody
+1039,fantasy,5,4,make believe,far fetched,romance
+1039,justice,5,4,lawyer,trial,sentence
+1038,western,5,5,coreano,asia,japão
+1038,robots,-1,2,tecnologia,moderno,sofisticado
+1038,visually appealing,5,5,bonito,chamativo,colorido
+1038,inspirational,5,5,drama,aventura,superação
+1038,twists & turns,-1,-1,mudanças,ação,aventura
+1038,justice,5,5,correto,certo,bom
+1038,fantasy,5,5,bruxos,animação,desenhos
+1038,dystopia,5,5,ficção,irrreal,nerd
+1038,suspense,5,5,medo,morte,grito
+1038,great soundtrack,5,5,musica,classica,teatral
+1045,social commentary,5,5,Society,Critique,Opinion
+1045,space,5,5,Astronaut,Stars,Moon
+1045,art house,5,5,Different,Unique,Independent
+1045,self discovery,5,5,Coming of Age,Grow,Older
+1045,artistic,5,5,Different,Atypical,Special
+1045,twists & turns,5,5,Suprise,Different,Unexpected
+1045,adventure,5,5,Travel,Trip,Places
+1045,plot twist,5,5,Shock,Surprise,Unique
+1045,comedy,5,5,Funny,Laugh,Hilarious
+1045,drugs,5,5,Weed,Cocaine,Heroin
+1044,justice,5,4,punishment,validation,law
+1044,animation,5,4,Disney,ink and paint,Pixar
+1044,mafia,5,2,crime bass,New York,the Godfather
+1044,visually appealing,5,4,colorful,breathtaking,a feast for the eyes
+1044,original,5,3,the first one,the only one,basic
+1044,great soundtrack,5,2,symphony,orchestra,conductor
+1044,philosophical,5,3,thoughtful,thought-provoking,deep
+1044,dystopia,5,3,futuristic,ruthless,dark
+1051,psychological,5,5,Thriller,Mindbending,Thought provoking
+1051,dystopia,5,5,Apocolyptic,Adventure,Disaster
+1051,unique,5,2,Oddball,Different,Challenging
+1051,funny,5,5,Comedy,HIlarious,Laugh
+1051,war,5,4,Action,Fight,Enemy
+1051,hilarious,5,5,Comedy,Laugh,Slapstick
+1051,justice,5,3,Prevail,Satisfying,Good
+1051,insanity,5,4,Wacky,Offkilter,Odd
+1051,existentialism,5,3,Unique,Critical,Metaphorical
+1051,mafia,5,2,Gang,Violence,Action
+1052,adventure,5,3,Fighting,Quest,Saga
+1052,martial arts,3,1,Chinese,Japanesse,Fighting
+1052,surreal,1,1,Fake,False,Untrue
+1052,visually appealing,2,3,Drama,Color,Image
+1052,drama,5,5,Crying,Love,Redemption
+1052,humorous,4,4,Laughing,Smile,Funny
+1052,atmospheric,1,1,Fog,Snow,Rain
+1055,great soundtrack,5,5,Theatrical ,Thrilling,Engrossing 
+1055,insanity,5,3,Crazy ,Weird ,Unpredictable 
+1055,original,5,4,Never been done,New,Trail blazing 
+1055,twists & turns,5,4,Unpredictable ,Unforeseen ,Unbelievable 
+1055,plot twist,5,5,Crazy turn of events,Unforeseen ,Unbelievable 
+1055,tense,5,4,Scary,Strained,Foreboding 
+1055,psychological,5,4,Mental,Cerebral,Intellectual 
+1055,mockumentary,5,4,Mimic,Imitarion,Psuedo
+1055,humorous,5,5,Funny ,Light,Comedic
+1055,self discovery,5,3,Analysis ,Exploration,Encounter 
+1057,bittersweet,3,2,sweet,bitter,acid
+1057,justice,5,5,law,rights,guilty
+1057,stylized,4,4,fashion,nonrealistic,style
+1057,comic book,3,3,kids,funny,colorfull
+1060,action,5,4,explosions,guns,death
+1060,christmas,5,2,Snow,Santa,Presents
+1060,futuristic,5,4,Crazy,Aesthetic,Trippy
+1060,plot twist,5,4,Didn't see that coming,Holy shit,Oh my god
+1060,nonlinear,4,4,Wild,Confusing,Open
+1060,justice,5,2,Crime,Criminals,Homicide
+1060,quirky,5,5,Weird,Goofy,Funny
+1060,satire,5,5,Funny,Joke,Troll
+1062,quirky,5,5,bizarre,strange,odd
+1062,adventure,5,2,dynamic,development ,twist
+1062,psychological,5,4,deep,subconscious,personalities 
+1062,original,4,5,new,fresh,not ordinary
+1063,action,4,5,fast paced,fight sceens,car chases
+1063,boring,5,2,long,not interesting,drags on
+1063,war,5,4,weapons,fighting,agression
+1063,psychological,3,4,thinking movie,plot twists,not what it seems
+1056,hallucinatory,4,1,psichology,horror,not for everyone
+1056,nonlinear,5,4,stimulating,quantum mechanic,inception
+1056,humorous,5,3,adam sandler,leslie nielsen,funny
+1056,inspirational,5,4,that improves the morale,world cup soccer,good news
+1056,sci-fi,5,5,star wars,star trek,future
+1056,boring,5,1,romance,war movies,sleep
+1056,quirky,2,1,peculiar,strange,different
+1056,bittersweet,1,1,memories,citrus,orange
+1056,justice,5,3,court,superheroes,laws
+1056,violence,5,2,war,thriller,weapon
+1066,stupid,5,2,Dumb,Unintelligent ,Moronic
+1066,visually appealing,4,3,Beautiful ,Striking,Aesthetically pleasing
+1066,culture clash,4,3,Sensitivity,Fish out of water,Discordant 
+1066,aliens,5,3,Foreign,Other worldly,Different 
+1066,stylized,3,3,Decorated,Posed,Staged
+1066,surreal,4,3,Artistic,Different,Unrealistic 
+1066,mockumentary,5,4,Funny,Sarcastic,Ironic
+1066,sci-fi,5,2,Other worldly,Dystopian ,Fantastic
+1066,thriller,5,4,Exciting,Suspenseful ,Heart pounding
+1066,plot twist,5,4,Didn’t see it coming,Surprise,Unexpected 
+1061,hilarious,5,5,funny,laughs,comedy
+1061,film noir,-1,-1,police,romance,movie
+1061,artistic,5,5,art,personality,unique
+1061,twist ending,5,5,plot twist ,unespected,breathtaking
+1061,cyberpunk,5,5,technology ,futuristic,peculiar
+1061,bittersweet,5,5,sad and happy ,real ,drama
+1061,quirky,4,4,peculiar,different,unusual
+1061,dystopia,4,4,anomalous,desperate fiction ,unreal
+1061,historical,5,3,real,facts ,history
+1061,nonlinear,5,5,scrambled ,timeless ,doesn't follow a timeline
+1083,drugs,2,2,addiction,unhealthy,illness
+1083,inspirational,4,5,funny,dreamy,pleasant
+1083,psychological,3,4,drama,heavy,dull
+1084,hilarious,5,3,funny,happiness,laughs
+1084,war,5,2,conflict,blood,warriors
+1084,witty,2,2,spiritual,mental,clever
+1084,original,5,5,unique,cool,different
+1084,drugs,5,4,overdose,trip,marijuana
+1084,visually appealing,5,4,beaufiful,magnificent,greatness
+1084,serial killer,5,4,murderer,rapist,blood
+1084,steampunk,3,2,old fashioned,retro,costume
+1084,quirky,4,4,strange,original,funny
+1092,mafia,2,3,Boss,Gun,Do or Die
+1092,psychological,4,4,Psychopath,mental disorder,Psychology
+1092,serial killer,5,5,murder,zodiac,death
+1092,satire,2,2,sarcasm,parody,slapstick
+1092,superhero,5,3,superman,batman,character
+1092,end of the world,4,2,doomsday,fate,destiny
+1092,great soundtrack,3,2,music,audio,film
+1092,humorous,2,2,slapstick,funny,hilarious
+1092,violence,5,5,force,bloodshed,crime
+1092,visually appealing,2,2,sexy,vision,charming
+1096,historical,3,4,past,story telling,remember
+1096,bittersweet,4,5,sad but true,twist,reality
+1096,martial arts,5,3,fight,respect,karate
+1096,fantasy,5,5,imaginnation,story,book
+1099,predictable,5,5,forecast,future,event
+1099,mafia,5,5,pizzo,padrino,italy
+1099,bittersweet,4,4,sensation,feeling,heart
+1099,musical,5,5,movie,high school musical,singing
+1103,twists & turns,4,4,change,surprise,shock
+1103,comic book,5,5,nerd,superhero,laugh
+1103,artistic,5,5,beauty,art,painting
+1103,stylized,4,5,style,make-up,design
+1103,insanity,4,4,crazyness,fight,unorganized
+1103,humorous,5,5,laugh,comic,happy
+1103,historical,5,5,knowledge,books,philosophy
+1103,romance,5,5,heart,love,happiness
+1103,disturbing,4,4,crazy,violence,fear
+1106,artistic,3,3,Closed,Niche,Boring
+1106,psychological,5,-1,Tense,Thinking,Scary 
+1106,thriller,2,3,Nerves,Tense,Twist 
+1106,mafia,3,2,Crime,Italian,Group
+1106,hallucinatory,-1,2,Trippy,DreM,Loss
+1106,inspirational,3,2,Hope,Trial,Truth
+1106,historical,5,3,Acxurate,Atory,Adversity 
+1106,insanity,2,2,Brain,Mind,Want
+1106,hilarious,5,3,Joke,Gag,Laugh
+1106,plot twist,5,5,Unknown,Trick,Trap 
+1109,dystopia,5,4,reverse,oppose,unreal
+1109,steampunk,5,5,steam,vitorian,technology
+1109,great soundtrack,2,3,music,sound,nstrument
+1109,thought-provoking,1,1,bad,mad,crazy
+1109,comedy,4,4,funny,laught,fun
+1101,quirky,4,4,eccentric,unconventional,free-spirited
+1101,war,5,3,conflict,dispute,debate
+1101,psychological,4,4,emotional,intelectual,inner
+1101,boring,5,2,repetitive,unexciting,characterless
+1101,great soundtrack,5,5,emotional music,The Bodyguard,best movie soundtrack
+1101,thought-provoking,4,4,stimulating,inspiring,seductive
+1101,existentialism,2,2,philosophical theory,people are free agents,have control over their actions
+1101,tense,4,4,nervousness,rigid,tense with excitement
+1101,twists & turns,3,3,twirl,zigzag,bend
+1101,funny,5,5,amusing,comic,entertaining
+1111,social commentary,4,3,justice,allegory ,equality 
+1111,war,5,2,fighting,battle,soldier
+1111,adventure,5,3,journey,eventful,action
+1111,comic book,5,3,hero,villian,superpowers 
+1111,insanity,5,3,ill,confused,violent
+1111,artistic,5,4,important,unique,interesting 
+1111,justice,5,2,law,fairness,courtroom
+1114,overrated,4,5,to much,overwhelmed ,alot 
+1114,environmental,5,5,setting,area,location 
+1114,tense,5,5,pinched,strength ,feeling
+1114,dystopia,5,5,feeling,not sure,not sure 
+1114,bittersweet,5,5,salt,taste,salt
+1114,film noir,5,5,error ,produce,movie
+1114,violence,5,5,action,tense,gore
+1114,hilarious,5,5,funny,momment,smile
+1114,historical,5,5,events,memory,past
+1114,twists & turns,5,5,movment,body,stretch 
+1113,drama,5,5,comedy,action,buzz
+1113,predictable,5,5,forseen,expected,certain
+1115,overrated,5,5,cliche,too much cgi,box office
+1115,martial arts,4,2,bruce lee,jason statham,ucm
+1115,thriller,4,3,terror,not sacry,5/10
+1115,mafia,5,3,blood,guns,al pacino
+1115,time travel,5,3,i could do better,if time travel exist,back to the future
+1115,twists & turns,5,4,old school,marvel,james cameron
+1115,mystery,5,4,atlantida,unknown,new school
+1115,culture clash,5,4,star wars,avatar,twilight
+1115,stylized,5,5,twilight,ucm,super heroes movies
+1115,animation,2,2,disney,pixar,cars
+1117,philosophical,4,4,calm,cool,collected
+1117,mafia,4,5,gang,crime ,drugs
+1117,original,4,5,authentic ,real,actual
+1117,romance,5,4,love,mystery ,cool
+1117,suspense,4,4,anxiety,eager,uneasy
+1118,quirky,5,-1,Squirk,Quickly,Quack
+1118,hilarious,4,5,Funny,Comedy,Joy
+1118,historical,4,5,Past,Old,Memory
+1118,hallucinatory,4,5,Illustration,Fantasy,Imagine
+1118,mafia,4,5,Mastermind,Leader,Boss
+1118,serial killer,4,-1,Villain,Crime,Enemy
+1118,twists & turns,4,5,Left,Right,Around
+1118,fantasy,4,5,Vision,Imaginary,Another world
+1118,great soundtrack,4,5,Jazz,Pop,Rock
+1116,tense,5,5,suspenseful ,dramatic,serious
+1116,film noir,4,4,moody,dark,mystery
+1116,space,5,4,science fiction,unknown,exploration
+1116,plot twist,5,5,surprise ending,unpredictable,tricky
+1116,funny,5,3,comedy,irreverent ,hysterical 
+1116,unique,5,5,indie,not ordinary,individual
+1116,justice,5,3,legal,police,court system
+1116,war,5,4,action,death,strategy
+1116,dystopia,5,4,future,science fiction,bleak
+1116,hilarious,5,5,funny,laughter,comedy
+1120,justice,5,5,belief ,fairness,top order
+1120,inspirational,5,5,breathtaking,courageous,brave
+1120,great soundtrack,4,4,soothness,calmness,beat
+1119,end of the world,5,5,Apocalypse,Destruction,Tragedy
+1119,stylized,4,2,Different,Out of the ordinary,interesting
+1119,insanity,4,4,Craziness,hard to understand,mental illness
+1119,time travel,5,5,change,conflit,surprises
+1119,twists & turns,4,5,surprise,unexpected,unbelievable
+1110,insanity,4,4,brain,mental,far out
+1110,violence,4,3,sadism,law,roughness
+1110,quirky,5,5,eccentric,irregular,broken
+1110,tense,4,4,serious, nervousness,high-strung
+1110,prison,5,4,jail,crime,lock up
+1110,twists & turns,5,4,zigzags,weaves,squiggles
+1110,great soundtrack,5,5, reality ,interesting,scale
+1110,fantasy,5,5,imagine, impression,adventure
+1110,mystery,5,5,puzzling,examination, logic
+1110,war,5,4,quarrel,grapple,tear
+1128,psychological,5,5,tense,drama,smart
+1128,romance,5,5,love,affection,good
+1128,quirky,5,3,weird,geek,nerd
+1128,stylized,5,3,different,personal,style
+1128,hilarious,5,4,funny,laugh,smart
+1128,art house,5,3,quirky,smart,indie
+1128,holocaust,5,5,jew,death,suffer
+1128,action,5,5,quick,tense,urge
+1122,culture clash,2,-1,xenophobia ,nazism ,ignorance 
+1122,nonlinear,4,4,turnaround ,dynamic ,interesting
+1122,mockumentary,1,2,tale,horror storys,fable
+1122,social commentary,4,5,Black people rights,Feminism,Fight for equality 
+1122,time travel,4,2,Science fiction,time machine,antiquity
+1122,psychological,3,2,psychological horror ,convincing ,internal problems 
+1122,great soundtrack,4,3,spotify,youtube,good music
+1122,plot twist,1,2,Mind blowing,surprise,unpredictable
+1122,mafia,5,4,alcapone,family war,guns
+1130,comic book,5,5,drawing,superhero,marvel
+1130,hallucinatory,5,5,drug,drug,drug
+1130,film noir,5,5,cop,old,old
+1130,twist ending,5,5,6th sense,spoiler,awesome
+1130,christmas,5,5,end of the year,snow,fall
+1130,boring,5,5,long movie,long movie,long movie
+1130,aliens,5,5,alien,alien 2, alien 3
+1130,predictable,5,5,bio,historic movie,real story
+1130,unique,5,5,masterclass,oscar,awesome
+1130,nonlinear,5,5,usual suspect,surprise,cool
+1131,serial killer,5,3,Charlie Manson,MindHunter,Hannibal Lector
+1131,war,5,2,Iraq,Vietnam,army
+1131,prison,5,2,Orange is the New Black,jail,criminal
+1131,stylized,5,3,Wes Andersen,slick,acting
+1131,animation,5,3,Disney,Soul,Japanese
+1131,insanity,5,3,Horse Girl,psychiatry,schizophrenia
+1131,hallucinatory,5,2,I've Been Thinking of Ending Things,tripping,visuals
+1131,drama,5,5,tense,thriller,relationships
+1131,quirky,5,4,interesting,plot,not genre
+1131,martial arts,5,2,Jackie Chan,Chinese,karate
+1136,unique,5,2,different,special,aline
+1136,romance,5,2,love,dating,together
+1136,justice,5,3,right,law,even
+1136,boring,5,1,dull,dim,bland
+1136,original,5,2,new,mine,begin
+1136,robots,5,3,steel,ai,men
+1136,great soundtrack,2,2,music,enjoy ,interesting
+1136,western,5,1,spaghetti,cowboy,horse
+1136,horror,5,2,scary,strange,monsters
+1136,nonlinear,1,1,straight,line,out of sync
+1132,predictable,5,5,Google ,Walter Moryan ,@ Amazon.com
+1132,end of the world,5,1,Getting in a Car w/,Anyone ~that~ Was,Drinking Alcohol.
+1132,animation,5,5,Realizm ,Cartoons ,Graphics 
+1132,boring,5,1,Boston,Red Sux,Baseball
+1132,existentialism,1,1,No,Clue,Whatever 
+1132,surreal,5,2,Wow,Life,Almost
+1132,twist ending,5,5,"November 37,2004",Robert Barry Jr,Said he Could Drive
+1132,documentary,5,5,Real,Life,Story
+1132,thought-provoking,5,1,Wanting,Too,Fight
+1132,funny,5,5,How do You Make,A Tissue Dance. . .,Put a Lil Boogie in it
+1140,stylized,5,5,lighting,surface,fantasy
+1140,visually appealing,5,5,lighting,special effects,fiction
+1140,time travel,3,2,future,past,adventure
+1140,fantasy,4,5,other worlds,adventure,fiction
+1140,predictable,5,4,romantic comedy,scripted,narrative
+1140,disturbing,4,2,violence,horror,taboo
+1140,serial killer,4,2,violent,psychological,thriller
+1140,dystopia,5,4,alternate world,political,fantasy
+1140,documentary,5,5,realism,observational,subjective
+1140,drama,5,4,emotional,intense action,social issues
+1143,existentialism,3,3,You don't have to stay anywhere forever.,All that is transitory is but a metaphor.,I thought of the people before me who had looked down at the river and gone to sleep beneath it.
+1143,funny,4,4,What is the funniest chocolate candy bar? Snickers.,I'm on a seafood diet. I see food and I eat it. ,Of course I talked to myself. Sometime I need expert advice.
+1143,animation,4,4,Animation is not the art of drawing that move but the art of movements that are drawn.,A lot of the time in animation is spent getting the story right-that's something you can't rush.,Animation is about creating the illusion of life. And you can't create if you don't have one. 
+1144,horror,4,3,scary,frightening,fiction
+1144,surreal,3,3,real,actual happenning,in real life
+1144,culture clash,3,3,clan war,tribe war,ethnic group war
+1144,suspense,3,3,uncertain ,waiting for what happen next,anxiety
+1144,aliens,4,3,E.T,Living in other planet,not in this world
+1144,justice,4,3,gain winning,have a peace of mind,pairness
+1144,stylized,3,3,Fashion,dress beautifully,wear
+1144,self discovery,3,3,brooding,finding self,self reflections
+1144,prison,3,3,rehabilitation,lock up,jail
+1144,inspirational,4,4,determind,motibated,eager
+1149,romance,5,3,Love,Attraction,Idyllic
+1149,funny,5,5,Comedy,Slapstick,Witty
+1149,thought-provoking,4,3,Suspense,Mystery,Intense
+1149,cyberpunk,5,4,Technology,Sci-fi,Robotic
+1149,end of the world,5,2,Survival,Apocalypse,Cataclysm
+1149,animation,5,5,Computer generated,Hand drawn,Stop motion
+1149,stylized,3,3,Fashion,Design,Art
+1149,violence,5,4,Fighting,War,Martial arts
+1149,tense,5,4,Suspense,Fear,Insecurity
+1149,environmental,5,3,The Earth,Trees,Pollution
+1145,adventure,5,4,travel,search for treasure,discover new land
+1145,justice,4,3,court,police,judge
+1145,funny,5,5,humoristic,not serious,makes me laugh
+1145,space,5,4,star trek,astromomy,science fiction
+1145,insanity,4,2,scary,bloody,cannibalistic
+1145,cyberpunk,4,4,robots everywere,artificial inteligency,technocratic future
+1145,existentialism,3,2,philosofical,reflections about sense of life,taking tough decisions in life 
+1145,mafia,5,5,drugs,gangs wars,corruption
+1145,inspirational,4,5,happy end,justice is done,ideas of better future
+1145,witty,5,5,smart ideas,hidden references to other films,intellectual jokes
+1160,visually appealing,4,5,Picture,Shape,Color
+1158,twist ending,5,3,Sudden,Unexpected,Strange
+1158,original,4,3,Unique,Different,Special
+1158,religion,5,1,Christ,God,Religious
+1158,drugs,5,1,Spaced,Stoned,Cocaine
+1158,cyberpunk,5,3,Futuristic,Guns,Fantasy
+1158,futuristic,5,3,Fiction,Science,Fantasy
+1158,humorous,5,3,Comedy,Laughter,Funny
+1158,social commentary,3,3,Up to date,Topical,Political
+1158,comedy,5,4,Humour,Laughter,Funny
+1158,twists & turns,4,4,Sudden,Unexpected,Strange
+1167,environmental,5,5,planet,weather ,death 
+1167,atmospheric,2,2,planet ,environmental ,deep
+1167,great soundtrack,5,5,musicality,rap,rock 
+1167,visually appealing,5,5,artistic ,emotion,beauty 
+1167,psychological,5,5,brain ,neurological,suspense 
+1167,animation,5,5,cartoon ,story,lost 
+1167,satire,5,5,joke,comic ,comedy 
+1167,action,5,5,explosion,cars ,muscles 
+1167,holocaust,5,5,sadness,death,extermination
+1167,romance,5,5,flowers ,love,happiness
+1171,western,5,2,Occidental,Westerly,Hesperian
+1171,holocaust,5,4,Sacrifice,Undoing,Wreck
+1171,fantasy,5,5,Fancy,Phantasy,Imagination
+1171,thought-provoking,3,2,Incite,Urge,Push
+1171,funny,5,5,Amusing,Humorous,Comic
+1174,comedy,5,3,funny,laugh,amusing
+1174,pirates,3,3,carribean,loud,ocean
+1174,twist ending,5,5,surprise,exciting,thinking
+1174,war,5,5,action,intense,brutal
+1174,thriller,5,5,excited,scared,jumpy
+1174,stupid,5,5,comedy,stupid,funny
+1174,existentialism,1,1,no clue,thought,thinking
+1174,romance,2,4,love,comedy,acting
+1174,prison,4,5,sad,story,long
+1174,philosophical,4,4,thinking,challenge,not my type
+1172,historical,4,3,war,human evoluction,changing world
+1172,hallucinatory,2,2,crasy,not real,sick
+1172,holocaust,4,4,war,nazism,judeu
+1172,documentary,4,4,real,storyteller,survay
+1172,psychological,4,5,persuasion,think about,surprise
+1172,space,3,2,universe,stars,planets
+1172,disturbing,2,2,alucination,sick,sad
+1172,surreal,4,4,not real ,other world,dream
+1172,comic book,3,3,comedy,continuity,simple
+1182,fantasy,5,5,beast,magic,magic creatures
+1182,film noir,5,4,thriller film,villain,investigation
+1182,art house,4,5,serious,artistic,social realism
+1185,justice,5,5,impartiality,fairness,equality
+1185,mystery,5,5,secret,riddle,question
+1185,twists & turns,5,5,uncertain,climax,suprising
+1185,western,5,5,modern,easy going,culture
+1185,thought-provoking,5,5,stimulatiog,inspiration,interesting
+1185,world war ii,5,5,nazi,britain,sad
+1185,culture clash,5,5,conflict,debate,difference of opinons
+1185,hilarious,5,5,comedy,humour,lively
+1185,disturbing,5,5,worrying,discouraging,frightening
+1185,animation,5,5,cartoons,animals talking,language used
+1196,tense,5,5,suspenseful,dramatic,exciting
+1196,self discovery,4,4,inspiring,uplifting,hopeful
+1196,culture clash,3,4,conflicted,enlightening,educational
+1196,dystopia,5,5,frightening,dark,tense
+1196,cyberpunk,2,3,dark,fiction,dystopian
+1196,musical,5,5,fun,energetic,artistic
+1196,romance,5,4,loving,involved,spirited
+1196,inspirational,5,4,uplifting,hopeful,moving
+1196,aliens,3,3,foreigners,science fiction,space
+1196,prison,5,4,jail,incarceration,captivity
+1197,overrated,5,5,Popular,Valued too highly,Not as good as it's rated
+1197,thriller,5,5,Action packed,Suspenseful,Clinging
+1197,justice,5,3,Lawyer,Documentary,Law
+1197,cyberpunk,5,4,Science fiction,Robots,Futuristic
+1197,twist ending,5,5,Unpredictable,Interesting,Unexpected
+1197,horror,5,5,Gory,Edgy,Paranormal
+1197,environmental,5,4,Inspiring,Eye opener,Mindful
+1200,drugs,5,3,WEED,PILLS,DEATH
+1200,boring,5,3,LAME,UNINTERESTING,TEDIOUS
+1200,overrated,5,4,TOO MUCH,APEX,CRITICAL
+1200,india,2,2,CULTURE,FOREIGN,COUNTRY
+1200,christmas,5,4,HOLIDAY,JESUS,TREE
+1200,horror,5,5,SCARY,ENJOYABLE,DARK
+1200,inspirational,5,5,FUN,NICE,KIND
+1200,mafia,4,3,GANGSTER,MOODY,DARK
+1200,cyberpunk,5,5,FUTURISTIC,SCIENCE,COLORFUL
+1200,film noir,4,4,TASTEFUL,SKILLED,ENJOYABLE
+1199,western,4,2,country,old,guns
+1199,animation,5,5,children,cute,fun
+1199,pirates,3,3,navigation ,big ship,water
+1199,surreal,4,4,unbelievable,incredible,imaginative
+1199,suspense,5,5,jumpscare,tension,scary
+1199,war,2,2,blood,fights,historical 
+1199,sci-fi,5,5,science,interesting,creatures 
+1199,self discovery,4,3,journey,emotional,point of view
+1199,disturbing,4,4,horror,gore,violence
+1199,original,3,3,unique,independent,interesting
+1202,religion,5,5,jesus,god,church
+1202,atmospheric,1,1,space,moon,earth
+1202,animation,5,5,disney,cartoon,kids
+1202,violence,5,5,blood ,gore,murder
+1202,bittersweet,3,2,sad,happy,charming
+1202,time travel,2,1,futuristic,past,teleport
+1208,western,5,4,well,good,well
+1214,martial arts,5,5,karate,fighting,kicks
+1214,self discovery,4,4,nomadic,self appraisal,belief
+1214,film noir,2,2,crime,drama,sexual assault
+1214,prison,5,4,jail,punishment,torture
+1214,violence,4,4,torture,fight,crime
+1214,twist ending,3,3,twist,confusion,drama
+1214,thought-provoking,3,3,provoke,drama,movie
+1214,nonlinear,3,3,bore,off beat,bad
+1214,visually appealing,5,5,looks good,action,cinematic
+1214,funny,5,5,fun,laughter,hillarious
+1219,martial arts,5,4,karate,secret,revenge
+1219,predictable,5,2,lifetime,same,love story
+1219,visually appealing,5,5,nature,dynamic,epic
+1219,twist ending,5,5,spies,secret agent,double cross
+1219,unique,5,3,odd ball,cooky,engaging
+1219,funny,5,4,hilarious,misunderstanding,a race to the finish
+1219,pirates,5,4,jack sparrow,rum,runner
+1219,india,5,2,mumbai,love story,star crossed
+1219,thought-provoking,5,4,mysterious,puzzle,complex
+1219,futuristic,5,4,technology,apocalyptic ,utopia
+1221,romance,5,2,love story,relationships,intimate
+1221,witty,5,4,humor,funny,smart
+1221,visually appealing,5,5,exciting,attractive,enchanting
+1221,superhero,5,3,role model,powers,comic books
+1221,culture clash,4,2,differences,conflict,disagreement
+1221,martial arts,5,3,fighting,combat,action
+1221,christmas,5,1,holidays,festival,vacation
+1221,boring,5,1,slow,unexciting,dull
+1221,religion,5,1,god,faith,church
+1221,surreal,5,4,bizarre,strange,unusual
+1231,horror,5,3,scary,thriller,halloween
+1231,thought-provoking,5,5,smart,artsy,high=brow
+1231,cyberpunk,3,3,unique,odd,niche
+1231,romance,5,5,sexy,hot,arousing
+1231,bittersweet,4,4,common,overdone,melancholy
+1231,christmas,5,5,snow,bells,Santa
+1231,artistic,5,5,unique,different,original
+1231,musical,5,5,fun,engaging,adventurous
+1224,psychological,5,2,psychic ,mental ,emotional
+1224,christmas,5,2,Santa,Merry,Gifts
+1224,end of the world,5,2,apocalypse ,walking dead,zombies
+1224,bittersweet,4,3,food,happy ending,sad ending
+1224,martial arts,3,3,Karate,taekwondo,kung fu
+1235,musical,4,4,classic,music,old
+1235,hallucinatory,1,2,na,na,na
+1235,funny,4,5,comedy,fun ,best 
+1235,india,4,3,foreign ,nonusa,crosseas
+1235,environmental,5,3,earth,friendly,better
+1235,quirky,5,4,na,na,na
+1235,world war ii,4,5,war,fight,bad
+1235,drama,4,-1,sad,bad,yuck
+1235,twist ending,5,4,horror,fun,good
+1232,culture clash,5,2,revolutionary,new ,discord
+1232,thought-provoking,5,5,engaging,invoking,interesting
+1232,witty,5,5,droll,humorous ,funny
+1232,stylized,4,2,exaggerated,embellished,grandious
+1232,pirates,5,3,,,
+1232,cyberpunk,1,1,i dont know,i dont know ,i dont know
+1232,humorous,5,5,funny,entertaining,comical
+1232,great soundtrack,5,5,music,pleasing ,artistic
+1232,bittersweet,5,5,heart warming,sentimental ,poignant
+1232,animation,5,5,comics,animated ,cartoons
+1207,dystopia,4,4,nightmarish image, fictional community ,imaginary society 
+1207,twist ending,5,5, surprise ending,Ending Changes,unexpected
+1207,humorous,4,4,amusement,entertaining ,funny
+1207,documentary,4,4,factual,tells a true story,observational
+1207,inspirational,4,4,motivating,emphatic,enthusiasm
+1207,drugs,5,5,chemical substance,medicine,diagnose a disease
+1207,environmental,5,5,natural world,beautiful,atmosphere
+1207,overrated,4,4,valued too highly,expect something good,average 
+1207,bittersweet,4,4,chocolate chips,refer to taste,feelings 
+1207,serial killer,4,4,murders , psychological reasons,killer
+1240,cyberpunk,2,2,Science fiction ,Dystopia,Alien
+1240,pirates,5,5,Water,Gold,Island 
+1240,horror,5,-1,Scary,Haunted,Creatures
+1240,musical,5,-1,Sounds ,Singing ,Instruments 
+1240,surreal,3,4,Distorted ,Dreamlike ,Bizarre 
+1240,romance,5,5,Love ,Passion,Affection
+1240,india,1,2,Independent ,Modern ,Cultural 
+1240,animation,5,-1,Cartoon ,Disney,Characters 
+1243,violence,5,4,sangue,dor,confronto
+1243,stylized,3,3,unico,diferente,exotico
+1243,superhero,5,4,poder,vigilante,forte
+1243,historical,4,5,medieval,espadas,reis
+1243,world war ii,4,4,eixo,aliados,fuzileiros
+1243,western,4,3,revolver,chapeu,espora
+1243,original,3,3,incrivel,inovador,inteligente
+1243,film noir,4,4,escuro,sombrio,pesado
+1243,animation,5,5,desenho,criativo,imaginação
+1243,end of the world,4,4,apocalipse,pandemia,extinção
+1246,boring,5,2,dull,repetitive,sterile
+1246,overrated,5,3,mainstream,popular,hyped up
+1248,stupid,5,2,Foolish,Naive,Idiotic
+1248,robots,5,4,Artificial,Machine,programmed
+1248,dystopia,2,2,Unreal,Alien,Other world
+1248,witty,5,4,Funny,Comedy,slapstick
+1248,india,5,5,Bharat,Secular,Democratic
+1248,musical,5,2,Opera,Melody,Song
+1248,violence,5,5,Fighting,War,Bloody
+1248,nonlinear,3,2,Asymmetric,Fiction,Geometric
+1248,mafia,5,5,Clan,Thugs,Crime syndicate
+1253,christmas,5,5,Tree,Grinch,Presents
+1253,psychological,5,4,Twists,Mind,Horror
+1253,existentialism,5,2,Life,Time,Death
+1253,religion,5,2,Christian,God,Faith
+1253,film noir,4,2,Black and White,Crime,Mystery
+1253,world war ii,5,3,Death,Hitler,Jews
+1253,superhero,5,5,Batman,Marvel,Superman
+1253,mafia,5,5,Godfather,Crime,Tony Soprano
+1253,satire,5,2,Funny,Clever,Mockery
+1254,existentialism,1,-1,confused,unsure,vague
+1254,horror,5,5,thriller,scary,unpredictable
+1254,disturbing,5,5,troubling,unsettling,concerning
+1254,environmental,3,2,climate,eco,green
+1254,musical,5,3,catchy,memorable,fun
+1252,religion,5,3,Faith,Temple,God
+1252,stupid,5,5,Ignorant,Dumb,Logicless
+1252,thought-provoking,5,5,Innovative,Inspiring,Fresh idea
+1252,drama,5,5,Story,Acting ,Performances
+1252,self discovery,5,5,Relative,Realistic,Self questioning
+1252,tense,5,5,Thrilling,Nail biting,Suspense
+1252,cyberpunk,2,2,High tech,Culture,Science fiction
+1252,twists & turns,5,5,Mystery,Thriller,Unexpecting
+1252,art house,5,5,Musical,History,Experimental
+1252,existentialism,5,3,Soul searching,Sad,Overarching
+1259,prison,5,3,hell,punishment,isolation
+1259,twist ending,5,2,mindblowing,shoking,unpredictable
+1259,cyberpunk,5,2,hacker,techy,homy
+1259,comedy,5,4,laugh,happy,mood uplifter
+1259,steampunk,4,2,steam power,alternative history,analytical engine
+1259,pirates,5,3,dacoit,sea,dangerous
+1259,insanity,5,2,hell,dangerous,sadness
+1259,humorous,5,4,funny,intelligent,common sense
+1259,time travel,4,2,past,present,science fictionn
+1259,horror,5,2,night,ghost,fictionn
+1291,existentialism,5,5,Real,Life,World
+1291,inspirational,5,5,Good,Energy,Learning
+1291,religion,5,1,Hell,slave,People
+1291,pirates,5,5,Sea,Thief,Vessel
+1291,nonlinear,5,3,Waves,Hard,Sponteneous
+1289,nonlinear,3,2,PULP FICTION,MEMENTO,BABEL
+1289,christmas,2,2,MERRY CHRISTMAS,LUTHER KRANK,THE GRINCH
+1289,horror,3,2,COMEDY HORROR,SCIENCE FICTION HORROR,HOLIDAY HORROR
+1289,comic book,3,2,ACTION COMICS,DETECTIVE COMICS,MARVEL COMICS
+1294,original,5,4,new ,real,true
+1294,social commentary,5,4,socialism,economy,behaviour
+1294,martial arts,5,-1,new,nice ,different
+1294,violence,5,4,harsh,unethical,immoral behaviour
+1294,funny,5,-1,joke,comedy,laugh
+1294,religion,5,4,religious,faith,belief
+1294,stylized,5,-1,different,looks nice,wonderful
+1294,hallucinatory,5,4,magic,diffterent one,excited 
+1294,animation,5,-1,creative,arts,amazing
+1298,mockumentary,5,4,comedy,funny,parody
+1298,prison,5,4,trial,escape,law
+1298,visually appealing,5,4,good graphics,colorful,creative
+1298,hilarious,5,4,comedy,funny,entertaining
+1298,overrated,5,4,not that great,too much praise,just ok
+1298,great soundtrack,5,4,emotional,beautiful,engaging
+1298,surreal,5,3,fiction,science fiction,space
+1298,philosophical,5,3,cerebral,thought invoking,smart
+1298,psychological,5,4,cerebral,intriguing,thrilling
+1298,futuristic,5,4,modern,surreal,imaginative
+1305,mockumentary,4,3,satirical ,documentary,facetious 
+1305,christmas,5,3,Jesus,December,joy
+1305,stupid,5,2,idiotic,dull,stunned
+1305,western,5,5,cowboy,village,guns
+1305,cyberpunk,5,2,game,nightcity,interesting
+1305,dystopia,4,2,frightening,undesirable ,injustice
+1305,great soundtrack,5,4,music,rock,song
+1305,historical,5,4,nistory,past events.,artifacts
+1305,musical,5,5,songs,instruments,chores
+1305,environmental,5,4,natural world,surroundings,biotic factors 
+1310,adventure,4,4,action,explorer,mystery
+1310,comedy,5,5,laugh,fun,easy
+1310,surreal,4,4,bizarre,crazy,weird
+1310,pirates,4,3,ship,sword,sea
+1310,predictable,4,4,series,clues,action
+1310,humorous,4,4,funny,light,comedy
+1310,justice,4,4,crime,mystery,action
+1310,unique,4,4,weird,supernatural,strange
+1310,comic book,4,4,action,power,force
+1310,cyberpunk,2,2,fiction,action,strange
+1311,inspirational,4,3,hopeful,satisfying,justice
+1311,sci-fi,5,4,technology,space,future
+1311,steampunk,3,2,steam,alternate,metal
+1311,cyberpunk,-1,1,future,technology,edgy
+1311,religion,5,3,faith,truth,goodness
+1311,western,5,2,cowboys,horses,desert
+1311,serial killer,4,2,murder,detective,suspense
+1311,musical,5,2,songs,dancing,bright
+1311,fantasy,5,4,whimsical,imaginary,magic
+1311,artistic,4,2,themes,uncommon,limited
+1312,twists & turns,5,3,plot twist,subverting expectations,non chronological 
+1312,animation,5,4,cartoon,CG,computers
+1312,historical,5,3,real,time period,biographical
+1312,pirates,5,2,sea faring,thieves,loot
+1312,western,5,2,cowboy,wild west,gunsling 
+1312,stupid,5,2,jokes,toilet humor,dumb
+1312,christmas,5,2,santa,snow,presents
+1312,time travel,5,2,dimension,past,future
+1312,mafia,5,2,guns,gangs,illegal
+1312,insanity,5,2,crazy,out- of- this- world,messed up
+1317,philosophical,3,4,Thinking,Contemplative,Deep
+1317,unique,5,5,Different,Unexpected,Weird
+1317,twists & turns,5,5,Surprising,Thrilling,Exciting
+1317,dystopia,4,4,Future,Bleak,Bland
+1317,justice,5,4,Caught,Crime,Order
+1317,comedy,5,4,Laugh,Funny,Smile
+1317,holocaust,5,4,Death,Prejudice,Killing
+1317,action,5,4,Explosions,Excitement,Engaging
+1317,surreal,4,4,Strange,Confusing,Weird
+1317,psychological,5,5,Thinking,Intense,Attention
+1324,romance,5,2,Love,Sex,Women
+1324,unique,5,5,Singular ,Alone,Invent 
+1324,musical,5,2,Because ring,Fun,Dance
+1324,martial arts,5,4,Fight,Adia,Japan 
+1324,steampunk,3,2,Gears,Glasses,Alt tech
+1324,horror,5,5,Slasher ,Ghost ,Death 
+1324,thought-provoking,5,3,Ruddles,Perplex,Quiz
+1324,culture clash,2,2,Riot,Theft,Fight
+1324,existentialism,2,2,Cool,Meaning,Meaningless 
+1332,musical,5,5,singing,dancing,choreograpj
+1332,action,5,5,loud,violence,explosions
+1332,superhero,5,5,super,capes,flying
+1332,drugs,5,5,cocaine,marijuana,heroin
+1332,dystopia,5,5,bleak,dark,sad
+1332,prison,5,5,jail,guards,bars
+1332,horror,5,5,blood ,darkness,monster
+1332,religion,5,5,jesus,god,heaven
+1332,holocaust,5,5,nazi,jews,war
+1332,surreal,5,5,weird,sleeping,unknown
+1337,musical,2,3,Drama,Comedy,Love
+1337,hallucinatory,1,1,Drugs,Crime,Bad
+1337,drama,5,1,Love,Crime,Sadness
+1334,aliens,4,4,foreign,space,sci fi
+1334,satire,5,5,funny,laugh,comedy
+1334,great soundtrack,5,5,music,symphony,grammy
+1334,world war ii,5,3,1900s,fighting,death
+1334,cyberpunk,4,4,sci fi,internet,punk
+1334,comic book,5,3,funny,drawings,pictures
+1334,fantasy,5,5,made up,pretty,fiction
+1334,animation,5,5,draw,kids,fun
+1334,suspense,5,3,scary,anxiety,build up
+1347,space,4,2,Exploration,Future,Science fiction
+1347,war,4,3,History,Battle,Military
+1347,martial arts,3,2,Combat,Jujitsu,Karate
+1347,stupid,4,2,Irreverent,Light hearted,Without deeper meaning
+1347,surreal,4,2,Alternative,Absurd,Impossible
+1347,horror,4,2,Fear,Negative emotion,Fright
+1347,mafia,4,2,Crime,Family,Mob
+1347,predictable,4,2,Boring,Sure,Uninteresting
+1347,witty,4,4,Smart,Clever,Enjoyable
+1347,existentialism,4,4,Deeper meaning,Philosophical,Thinking
+1346,western,-1,5,modern,westernite,movies
+1346,time travel,3,5,time travel ,imagination,adventures
+1346,humorous,4,5,comedy,sensible,humor sense
+1346,documentary,5,5,documentary films,movies,documentary
+1346,cyberpunk,-1,5,cyberpunk,movies,films
+1346,india,5,5,country,movies,films
+1346,witty,5,5,english movies,movies,films
+1346,self discovery,5,5,adventure,movies ,good
+1352,drama,5,5,Craz,Wild,plot twit
+1352,violence,5,5,Fight,Bad,Kill
+1352,documentary,5,5,Story,Real,Tell all
+1352,film noir,4,4,classic,old,Vintage
+1352,horror,5,5,Scary,Fear,Spooky
+1352,funny,5,5,Funny,hilarious,Goofy
+1352,satire,3,3,exaggeration,old ,play
+1352,comic book,5,5,Cartoon,fake,pictures
+1352,india,5,5,over seas,international,not us 
+1352,animation,5,5,cartoon,kids,story 
+1369,surreal,5,4,unreal,bizzare,weird
+1369,twists & turns,5,5,changes,surprises,different direction
+1373,boring,5,1,intriguing,uninteresting,monotonous
+1373,twist ending,5,5,surprise climax,unpredictable,unexpected change
+1373,artistic,5,5,creative,imaginative,inventive
+1373,superhero,5,5,champion,defender,exemplar
+1373,serial killer,5,5,psycho killer,murderer,homicide
+1373,unique,5,5,one of its kind,different from others,own way
+1373,visually appealing,5,5,aesthetic,classy,charming
+1373,sci-fi,5,5,science fiction,futurism,space odyssey
+1373,religion,5,5,theism,belief,divinity
+1373,atmospheric,5,5,climatic,ethereal,airy
+1370,time travel,5,5,science fiction,Quantum physics,time
+1370,martial arts,5,5,karate,judo,self-defense
+1370,mystery,4,5,fiction,mystification,riddle
+1370,horror,5,5,goast,fear,Killer ending
+1370,drugs,4,3,alters the body's function,cocaine ,cure
+1370,visually appealing,3,3,colors,meets the eye,white space
+1370,funny,4,3,happy,comedy,humor
+1370,mafia,5,5,illelegal,swagger, international body of criminals
+1370,serial killer,5,5,pyscho,murderers ,series of murders
+1370,drama,3,4,television,dialogue ,performance
+1389,great soundtrack,4,3,atmospheric,moving,long-lasting
+1389,adventure,4,3,risk,travel,run
+1389,art house,2,1,film noir,black and white,subtitles
+1389,original,4,3,new,unique,groundbreaking
+1389,aliens,5,2,creatures,space,ufo
+1391,original,3,2,New,Different ,Unique 
+1391,comic book,3,3,Funny,Entertaining ,Goofy
+1391,inspirational,3,2,Motivate,History ,Old
+1391,plot twist,3,5,Surprise ,Unexpected ,Shock
+1391,aliens,3,3,Scary,Ugly,Different 
+1391,hallucinatory,3,3,Dream,Fantasies ,Assuming 
+1386,action,5,5,lets go,lets do this,Go!
+1386,great soundtrack,1,1,music,classic,great
+1386,art house,1,1,art,mordern,cool
+1386,surreal,3,3,confusing,not real,reality
+1386,hilarious,5,5,funny,cool,great
+1386,aliens,5,5,startrek,area 51,men in black
+1386,original,3,3,chad,meme,i'm original
+1386,twists & turns,1,1,twist,plot twist,oh no.
+1386,atmospheric,4,4,imersion,in game,in the zone.
+1383,aliens,5,4,otherworldly,interesting,bizarre
+1383,witty,5,4,sarcasm,funny,dry
+1383,film noir,5,5,dark,psychological,unexpected
+1383,dystopia,4,3,suffering,unsettled,chaotic
+1383,twists & turns,5,4,mystery,surprise,concentration
+1383,adventure,5,5,action,boldness,risky
+1383,psychological,5,5,interesting,brain,puzzling
+1383,plot twist,5,4,surprise,creative,unexpected
+1383,unique,5,4,one of a kind,rare,singular
+1383,predictable,5,2,routine,boring,understandable
+1395,film noir,3,3,thriller,suspense,crime
+1395,culture clash,2,2,black,na,na
+1395,original,5,3,movie series,good story,one of a kind
+1395,aliens,5,4,action,awesome sound,Awesome graphics
+1380,boring,5,2,Not funny,tedious,give sleep
+1380,quirky,5,4,Different,Details,new
+1380,art house,4,3,Work of art,splendid,cultural
+1380,drugs,4,3,Bad,Addiction,Cash
+1380,comic book,4,5,graphics,Optimum animation,Action
+1380,aliens,5,2,Fictitious,E.T,Spaceships
+1380,adventure,5,3,Fun,Action,Comedy
+1380,predictable,1,-1,tedious,ordinary,cliche
+1380,original,4,4,Real facts,Different,Nice
+1380,philosophical,4,2,Deep,Robust,Complicated
+1390,comic book,-1,2,super hero,fiction,villian 
+1390,disturbing,1,1,gross,sicking,bloody
+1390,original,3,4,never seen before,new,creative
+1390,violence,3,2,deadly,fights,gun fire
+1390,hilarious,2,4,comedy,funny,laugh so much
+1390,world war ii,-1,-1,war fair,fighting,deadly
+1390,christmas,5,3,getting together,being together,snow
+1390,aliens,-1,2,E.T,freaky,weird
+1381,art house,5,5,craft.,profession,adroitness
+1381,atmospheric,-1,-1,Emissions,Fossil Fuels.,Sea-Level Rise
+1381,original,5,5,Motivated,Ambitious ,Leader
+1381,adventure,5,5,rash, reckless, heedless.
+1381,witty,4,5,compassionate,considerate.,courageous
+1381,psychological,5,4,brainsickness,derangement,insaneness.
+1381,comic book,5,5,Splash,Spread,Caption.
+1381,disturbing,5,5,pan-fried\t,stir-fried,stir-fried
+1381,plot twist,5,5,Kill off a seemingly important character,Let your character discover a plot twist organically. ...,Make sure your plot twist is earned.
+1381,action,5,4,participial ,gerund ,infinitive 
+1394,witty,5,4,creative,unusual,snappy
+1394,surreal,5,2,artsy,strange,Salvadore Dali
+1394,action,5,4,moving,fast,shooting
+1394,art house,4,2,unique,rare,special
+1394,culture clash,2,1,dissonant,odd,not mainstream
+1394,humorous,5,5,SNL,Adam Sandler,enjoyable
+1394,world war ii,5,3,Hitler,death,US victory
+1394,disturbing,5,4,frightful,weird,jarring
+1394,adventure,5,5,risky,on edge,action packed
+1394,twists & turns,5,4,exciting,thrilling,unexpected
+1396,predictable,5,3,formulaic,comforting,the usual
+1396,inspirational,4,2,religious,boring,true story
+1396,aliens,5,4,sci-fi,outer space,unusual
+1396,original,5,2,funky,weird,unpredictable
+1396,adventure,4,4,exciting,travel,fun
+1396,art house,3,2,incomprehensible,foreign,dense
+1396,thought-provoking,5,3,bittersweet,surprising,death
+1396,witty,4,4,funny,sly,humorous
+1396,plot twist,5,4,surprise,unpredictible,gotcha
+1396,world war ii,3,1,battles,death,nazis
+1388,original,4,3,Innovative,Groundbreaking,Not much explored
+1388,dystopia,4,4,Negative future,Hypothetical scenario,Post-Apocalyptic
+1388,inspirational,3,2,Lesson teaching,Real life topics,Motivating
+1388,adventure,5,4,Journey,Distant Travels,Missions
+1393,mafia,5,4,killing other people,loyalty to the organization,don't mess with mafia figures
+1393,aliens,5,4,from other planets,they appear to have higher powers,they come to learn about Earth
+1393,original,5,4,something new,something different,something interesting and not the same as what has been seen
+1393,twists & turns,4,4,an interesting plot,you never know what will happen,you've got to pay attention to a movie with twists and turns
+1393,visually appealing,5,5,pretty scenery,exotic places,beauty in the landscapes
+1393,hallucinatory,5,4,not real,things that are imagined,psychological thrillers
+1393,world war ii,3,1,wartime movie,soldiers getting killed,people fighting
+1393,religion,5,2,about God,about other religious figures,about the good book
+1393,philosophical,5,4,intelligent conversation,looking for something deep,appealing to deep thinkers
+1405,aliens,5,2,Green,Ufos,Big heads
+1405,mystery,5,5,Suspense ,Chilling,Intriguing 
+1405,philosophical,5,5,Smart,Learn,.
+1405,predictable,5,5,Knowing,Theme,.
+1405,tense,5,5,Tight,Air,Cut
+1405,horror,5,5,Scary,Murder,Ghosts
+1405,psychological,5,5,Sick,Mind,Mental
+1405,witty,5,5,Quick,Thinking,.
+1387,philosophical,5,5,theoretical,analytical,rational
+1387,comic book,5,5,Adventure,Heroes,art
+1387,art house,3,4,dramas,romances,animated 
+1387,psychological,5,5,Thrillers ,mind-benders ,mysteries
+1387,aliens,4,2,OVNI,universe,atack
+1387,original,5,5,Editing,Characters,Story
+1387,action,5,3,Fire,Explosion,Fight
+1387,thought-provoking,5,5,interesting ,seriously,entertaining 
+1387,drugs,5,5,Sex,Rock,ADULT
+1387,adventure,5,5,FANTASY,Emotion,Discover
+1399,surreal,5,4,Unbelievable,Interesting,strange
+1399,twists & turns,5,4,unpredictable ,inspiring ,volatile 
+1399,world war ii,5,2,Period Peice,War History,Historic
+1399,unique,5,-1,special,unpredicable,individualistic
+1399,hilarious,5,2,humorus,light hearted,cheerful
+1399,original,4,4,unique,never been done,unpredictable
+1399,drugs,2,2,crime,felony,abuser
+1399,aliens,5,3,stranger,war,action
+1399,plot twist,5,2,unpredicable,shocking,emotional
+1401,aliens,5,4,outer space,another planet,UFO's
+1401,great soundtrack,5,5,composer,music,Oscars
+1401,art house,4,2,Indie,Cult,low budget
+1401,hallucinatory,5,3,drugs,LSD,Mind altering
+1401,documentary,5,5,fact,events,people
+1401,plot twist,5,5,surprise,unexpected,kept guessing
+1401,action,5,5,exciting,thrills,adventure
+1401,twists & turns,5,5,changes,unexpected,surprises
+1401,hilarious,5,5,funny,laugh,hysterical
+1406,predictable,5,4,boring,dumb,slow
+1406,philosophical,3,1,true,loving,smart
+1406,psychological,5,5,crazy,cool,odd
+1406,disturbing,5,5,death,gore,crazy
+1406,boring,5,5,slow,weak,sleepy
+1406,action,5,5,explosions,fighting,fast
+1406,drugs,5,5,wasted,junky,doper
+1406,art house,4,4,weird,weird,cult
+1406,witty,5,5,smart,fun,goofy
+1406,twist ending,5,5,turn,crazy,unknown
+1411,cyberpunk,1,2,Technology,Rebel,Young
+1411,existentialism,2,2,Outside the box,Existence,Thought provoking
+1411,art house,1,2,,,
+1411,surreal,5,4,Not normal,Unusual,Defies everything
+1411,christmas,5,4,Holiday,Jolly,Family
+1402,plot twist,1,4,surprise,change,twist
+1402,inspirational,5,5,mind blowiing,eloquent,inspire
+1402,aliens,5,1,E T,space people,foreigners
+1402,art house,1,2,art work,foreign films,extremely popular
+1402,bittersweet,4,3,suffering,regret,sad
+1402,adventure,5,5,exciting,action,unexpected
+1402,india,4,2,country,Arabian Sea,asia
+1402,christmas,5,2,holiday,Christs' birthday,celebration
+1402,twists & turns,4,3,unplanned,unexpected,unseen
+1402,action,5,3,movement,activity,steps
+1413,romance,5,5,love,dating,marriage
+1413,world war ii,4,2,death,hatred,hitler
+1413,quirky,5,4,silly,stupid,weird
+1413,comic book,4,2,superhero,superman,batman
+1413,superhero,4,2,superman,batman,antman
+1413,stupid,5,3,weird,silly,dumb
+1413,bittersweet,5,3,sad,endearing,love
+1413,drama,5,4,action,excitement,strong
+1413,india,5,2,Asia,Indian,food
+1413,aliens,5,1,extraterrestrial,space,rocketship
+1420,visually appealing,5,5,colors,effects,stunts
+1421,environmental,4,2,green,healthy,planet
+1397,india,-1,2,COUNTRY,THE GANGES,NEW DELHI
+1397,plot twist,5,5,REBOUND,CHANGE,NEW SITUATION
+1397,quirky,4,3,ORIGINAL,STYLE,NEW
+1397,predictable,5,3,PREVISIBLE,PREVENTABLE,KNOWN
+1397,visually appealing,4,3,EFFECT,ATTRACTIVE,DRAWING
+1397,boring,5,1,SHITTY,BLODY,ANNOYING
+1397,action,5,2,LIFE,MOVEMENT,ACT
+1397,original,5,3,NEW,UNUSUAL,NOVEL
+1397,western,5,1,OLD,DESERT,COWBOY
+1397,hallucinatory,-1,1,ATMOSFERE,APOCALYPTIC,DELIRIUM
+1415,mafia,5,2,don,smuggler,gang
+1415,robots,5,4,machine,invention,strong
+1415,comic book,5,4,fun,interesting read,colorful
+1415,india,5,5,bollywood,taj mahal,poverty
+1415,superhero,5,5,strong,spiderman,superman
+1415,thought-provoking,4,5,influencing,encouraging,shocking
+1398,mockumentary,3,1,satirical,not real documentary,humor
+1398,disturbing,4,5,scaring,violents,bad
+1398,adventure,5,5,good stories,enterprise,luck
+1398,aliens,5,4,extraterrestrial,March men,from other planets
+1398,art house,1,1,I,don't ,know
+1398,plot twist,1,1,I,don't,know
+1398,violence,5,5,Disturbing,deaths,shooting
+1398,world war ii,5,5,shoooting,old movies,strategy
+1398,predictable,5,2,foreseeable,known,easy known
+1398,comic book,5,5,animes,super heroes,big producers
+1410,horror,5,3,Scary,Terrifying,Blood-curdling
+1410,documentary,5,5,Fascinating,interesting,smart
+1410,mafia,5,5,criminal,killers,violent
+1410,boring,5,5,yawn-inducing,uninteresting,long
+1410,stupid,5,5,silly,dumb,idiotic
+1410,adventure,5,5,daring,risky,brave
+1410,religion,5,5,spiritual,prayer,God
+1410,romance,5,5,Love,caring,adore
+1410,culture clash,4,4,conflict,disagreement,divided
+1410,inspirational,5,5,meaningful,poignant,deep
+1412,unique,5,4,one of a kind,set apart,distinctive
+1412,world war ii,4,3,fighting,enemies,axis and allies
+1412,mystery,5,4,secret,confusion,not clear
+1412,plot twist,4,4,unexpected change,not known,surprise ending
+1412,pirates,5,3,long john silver,ships,swords
+1412,musical,5,2,singing,dancing,melodical
+1412,fantasy,5,4,dragons,mystical,magic
+1412,insanity,5,2,madness,mental illness,crazy
+1412,stupid,5,3,unintelligent,dumb,moronic
+1412,nonlinear,5,3,not straight,random,erractic
+1418,holocaust,5,3,terror,prison,death
+1418,suspense,4,3,anticipation,anxiety,waiting
+1418,prison,3,2,crime,pain,bad
+1418,comic book,4,4,supernatural,heros,good
+1418,animation,5,5,toys,animals,happy
+1418,pirates,5,5,sea,trasure,adventure
+1418,adventure,5,5,wonder,courage,freedom
+1418,world war ii,5,4,economy,collapse,war
+1418,comedy,5,5,laughter,jokes,wit
+1422,prison,5,4,jail,death,time
+1422,visually appealing,5,5,aet,pretty,gorgeous
+1422,boring,5,1,wack,silent,short
+1422,western,5,1,old,vintage,country
+1422,martial arts,5,1,fight,skill,movement
+1422,unique,5,5,new,different,great
+1422,mockumentary,5,2,crazy,wild,unique
+1422,horror,5,5,scary,shocking,thrilling
+1416,steampunk,4,3,retrofuturistic,science,industrial
+1416,comic book,5,4,super hero,comic,adventure
+1416,mockumentary,4,3,documentary,fictional,parody
+1416,nonlinear,5,3,disjointed,chronological,not sequential
+1416,culture clash,5,5,conflict,cultural,values
+1416,dystopia,2,2,imaginary,drama,futuristic
+1416,martial arts,5,5,combat,fight,karate
+1416,religion,2,2,god,bible,theological
+1423,humorous,5,3,funny,laughable,amusing
+1423,western,5,5,cowboys,horses,guns
+1423,pirates,5,3,steal,bad,dangerous
+1423,visually appealing,5,5,beautiful,relaxing,peaceful
+1423,christmas,5,2,gifts,Jesus,decorations
+1423,superhero,5,4,strong,fearless,intelligent
+1423,drama,5,5,serious,feelings,emotions
+1423,prison,5,3,incarnated ,jail,cell
+1423,original,4,5,different,real,true
+1423,twists & turns,4,4,excitement,unknown,adventure
+1419,existentialism,3,3,Non-Conforming,Freedom,Individual 
+1419,india,5,2,Asia,Bollywood,Country
+1419,western,5,2,Cowboys,Horses,Old West
+1419,animation,5,5,Anime,Cartoons,Kids Films 
+1419,horror,5,5,Scary,Frightening ,Suspense
+1419,film noir,-1,1,Black and Grey,Old Movies,Vintage
+1419,pirates,5,1,Ships,Treasure,"""Aaaarrrrgggghhhh"""
+1419,steampunk,3,1,Cyberpunk,Science Fiction,retro futurism  
+1419,twists & turns,5,1,Surprise,Unexpected,Shock
+1407,philosophical,5,5,What will be will be.,Try to live your life with compassion for your fellow man.,Man is but a small speck in the universe.
+1407,quirky,5,4,Out of the norm.,Odd man out.,Not fitting in to society.
+1407,aliens,5,4,Little green men.,Men in black.,They came from outer space.
+1407,mystery,5,5,Who done it.,Who is lying and who is telling the truth.,Secrets abound.
+1407,twists & turns,5,5,They did not see it coming.,No one thought it would end like this.,A roller coaster ride of suspense.
+1407,action,5,4,Nonstop action from start to finish.,Adventure to far flung places.,Man against the elements.
+1407,comic book,4,4,Superhero.,Misfit characters against the world.,Good wins over evil once again with our hero.
+1407,disturbing,5,4,Not meant for children to watch.,Thought provoking.,What dark alleys will this lead us.
+1407,tense,4,4,Unrelenting suspense.,There is no guarantee of a good outcome.,Who will win?
+1407,world war ii,4,3,The greatest generation.,Pearl Harbor.,Hiroshoma.
+1427,religion,5,3,Jesus,Church,Violence
+1427,pirates,5,2,Ships,Shantys,Rum
+1427,culture clash,3,4,Punk,Anarchy,Attitudes
+1427,action,5,3,Explosions,Violence,Guns
+1427,unique,5,4,Rare,Different,Diamond in the rough.
+1427,mockumentary,5,4,Comedy,Characters,Crazy situations.
+1427,holocaust,5,3,Jewish,Camps,Horror
+1427,hallucinatory,3,3,Trippy,Wild Visuals,Confusing
+1427,social commentary,4,4,Character flaws,Exposing faults in society,Criticizing those in charge.
+1427,horror,5,5,Monsters,Fear ,Gore
+1425,surreal,5,3,unbelievable ,beyond reality,extraordinary
+1425,mystery,5,5,Problem solving,Unknown ,Scientific method
+1425,mockumentary,5,2,Make fun of something,Comedy relief,Fake documentry
+1425,funny,5,5,Pee my pants laughing,Hilarious,Cry-laughing
+1425,pirates,5,2,Booties of gold,Hidden treasure,Bad guys of the sea
+1425,satire,4,2,make fun of something,sad reality that is somehow funny,Kind'a depressing
+1425,steampunk,5,2,Trendy fashion,Old time style with gears,modern twist on old
+1425,christmas,5,3,Presents,Santa Clause,Family time
+1425,musical,5,2,Singing the story,Lots of dancing,Hard to sit through
+1425,superhero,5,4,Special powers,saving the world,lots of action
+1432,tense,5,5,uncertain,high-stakes,mysterious
+1432,psychological,5,4,cerebral,thoughtful,mind-bending
+1432,stylized,4,3,designed,planned,of the moment
+1432,christmas,5,2,holiday,festive,yule
+1432,cyberpunk,5,4,future,mechanical,dystopian
+1432,musical,5,2,songs,singing,dancing
+1432,mystery,5,5,crime,detective,action
+1432,superhero,5,5,powers,fantastic,comics
+1432,hilarious,5,3,funny,jokes,comedy
+1432,war,5,3,fighting,death,army
+1435,film noir,5,3,dark,bad women,untrustworthy
+1435,fantasy,5,4,not of this world,dreams,outside norms
+1435,musical,4,1,singing,dancing,cheoreography
+1435,drama,5,4,love,rejection,people
+1435,insanity,4,2,different,not normal ,keeps you on your toes
+1435,christmas,5,5,snow,family,santa
+1435,quirky,3,4,makes you scratch your head,keeps you guessing,not usual
+1435,mystery,4,5,unknown outcome,dark,murder and intrigue
+1435,drugs,1,1,getting high,selling,using
+1435,surreal,4,4,colorful ,keeping it different,chaning 
+1434,war,5,5,death,suffering,destruction
+1434,world war ii,5,4,genocide,rifle,germany
+1434,stupid,3,2,dumb,iq,naive
+1434,environmental,3,2,earth,plants,geology
+1434,musical,1,1,music,violins,singing
+1434,martial arts,4,2,punch,kick,china
+1434,pirates,5,5,booty,ship,treasure
+1434,steampunk,5,5,london,musket,robot
+1434,original,1,1,cartoon,director,feelings
+1433,quirky,4,2,Unusual,Eccentric ,Strange
+1433,pirates,5,3,Thieves,Adventure ,Ocean 
+1433,culture clash,2,2,Fighting ,Opposition ,Society 
+1433,atmospheric,2,2,Setting,Story,Characters 
+1433,social commentary,2,2,Opinion ,Struggle ,Protest 
+1433,end of the world,5,4,Apocalypse ,Invasion ,Extinction 
+1433,historical,5,4,Past,Story,Documented 
+1433,overrated,5,2,Bad,Annoying ,Unliked
+1433,christmas,5,2,December ,Cold,Holiday 
+1433,fantasy,5,4,Imagination ,Weird ,Space 
+1439,great soundtrack,5,5,great music,great sound effects ,enhances the movie watching experience 
+1439,animation,5,5,cartoon like ,art,computer generated 
+1439,tense,5,5,scary ,suspenseful ,has you on the edge of your seat 
+1441,horror,5,5,scary,frightful,evil
+1441,stupid,5,3,dumb,idiot,uneducated
+1441,sci-fi,5,4,science,fiction,futuristic
+1441,pirates,5,2,raider,rover,buccaneer
+1441,serial killer,5,5,murderer,homicide,executioner
+1441,original,5,5,unique,one of a kind,new
+1441,funny,5,5,laughter,good times,hilarious
+1441,robots,5,3,android,machine,droid
+1441,mockumentary,4,3,fake,documentary style,loosely based on truth
+1429,nonlinear,5,4,unpredictable,irregular,unpredictable
+1429,funny,5,5,humorous,comic,hilarious
+1449,self discovery,5,4,adventure,learning,honesty
+1449,unique,5,4,individual,rare,
+1449,robots,4,2,AI,inteligent,electronic
+1449,cyberpunk,2,1,na,na,na
+1449,great soundtrack,5,3,fun,upbeat,entertaining
+1449,religion,5,4,,na,na
+1449,humorous,5,5,comedy,funny,stand up
+1449,pirates,5,2,theft,danger,stealing
+1457,animation,5,4,Cartoons,Voices,Friendly 
+1457,romance,5,5,Love,Affection,Hearts
+1457,humorous,4,5,Funny,Relatable ,Comedy
+1456,comedy,5,5,funny,laugher ,happiness
+1456,plot twist,5,5,suspension,exciting,intrigued
+1456,quirky,5,5,weird,odd,interesting
+1456,artistic,5,5,intersting,fun,exicted
+1456,cyberpunk,1,1,science fiction,cyberneticsc,dystopia
+1456,violence,5,5,gangs,weapons,fighting
+1456,superhero,5,5,super man,batman,spiderman
+1456,horror,5,5,fright,terror,afraid 
+1456,time travel,5,5,future,past,present
+1460,end of the world,5,4,apocalypse,aliens,disaster
+1460,violence,5,4,blood,strong language,guns
+1460,robots,5,3,mechanical,sentient,evil
+1460,thriller,5,2,teenager,knife,running away
+1460,prison,5,2,inmates,scary criminals,bad living conditions
+1460,musical,5,2,songs,cheesy,bad acting
+1464,world war ii,2,2,Death,Blood,Germany 
+1464,pirates,5,1,Crooks,Bad,Cheap
+1464,humorous,2,2,Laughing ,Funny,Nice 
+1459,romance,5,4,Love,Nicholas Sparks,Kiss
+1459,quirky,5,4,Peculiar ,Drew Barrymore,Aubrey Plaza
+1459,pirates,5,2,Johnny Depp,Caribbean ,Rum
+1459,sci-fi,3,2,Mystery Science Theatre 3000,Nerdy,Comics
+1459,drugs,5,4,Weed,Legalize,Breaking Bad
+1459,fantasy,4,4,Disney princess ,Dream,Imagination 
+1459,unique,5,4,Individual ,Original ,Interesting 
+1459,animation,5,5,Frozen,Disney ,Daughter 
+1459,futuristic,4,3,Sci-fi ,Space travel,Meh
+1459,holocaust,5,4,Schindler’s List,Hitler,Heartbreaking 
+1466,pirates,5,2,sword,ship,sails
+1466,comic book,5,4,draw,fight,drama
+1466,fantasy,5,4,land,dragon,magic power
+1466,self discovery,3,3,personal choises,hobby,knowing
+1466,christmas,5,4,gift,snow,candy
+1474,predictable,5,4,Routine,Common,Easy to guess
+1474,mystery,4,4,Scary,Unknown,Whodunnit
+1474,martial arts,5,2,Karate,Kick,Fighting
+1474,robots,5,2,Metal,Buttons,Futuristic
+1474,psychological,4,3,Thinking,Brain,Convoluted
+1474,humorous,5,5,Funny,Jokes,Hilarious
+1470,predictable,5,3,expected,likely,unsurprising
+1470,unique,5,4,special,original,distinctive 
+1470,robots,4,2,Automation,non human,machine
+1470,prison,5,4,penitentiary,lockup,jail
+1470,end of the world,5,3,death,final,disaster
+1470,documentary,5,5,on record,archieved,history
+1470,animation,4,2,cartoon,comic,imagination 
+1470,thriller,5,4,anxious,cliff-hanger,mystery
+1470,stupid,5,3,dumb,boring,ignorant
+1476,twist ending,5,4,cliffhanger,surprise villain,thriller
+1476,martial arts,5,5,mma,wing chun,donnie yen
+1476,space,5,3,star trek,star wars,aliens
+1476,steampunk,1,1,no idea,none,none
+1476,film noir,3,3,charlie chaplin,batman,french
+1476,animation,5,4,pixar,dreamworks,kung fu panda
+1476,christmas,5,4,under the mistletoe,black friday,snow
+1476,musical,4,2,glee,dance,lala land
+1476,western,5,3,cowboys vs aliens,wyatt earp,unforgiven
+1476,twists & turns,5,5,raymond reddington,wanted,irobot
+1477,comedy,5,5,Laughing,Enjoyment,Smiling
+1477,hallucinatory,1,2,Weird,Eerie,Disturbing
+1477,mockumentary,5,5,Comedy,Jokes,Humour
+1477,hilarious,5,5,Funny,Humorous,Laughing
+1477,christmas,5,2,Santa,Presents,Snow
+1477,martial arts,1,1,Jackie Chan,Asia,Olympics
+1477,film noir,-1,-1,Arty,,
+1477,pirates,3,1,Sea,Ship,Treasure
+1477,drugs,5,4,Cocaine,Illegal,Weed
+1477,existentialism,-1,-1,na,na,na
+1478,documentary,5,3,narrated,true story,historic
+1478,musical,5,4,singing,light hearted,stage
+1478,animation,5,5,cartoon,3D,family
+1478,western,5,3,cowboy,southern accent,prairie
+1478,martial arts,5,2,Karate,fighting,South East Asian
+1463,mafia,4,4,Gangsters,Godfather,Organized crime family
+1463,mockumentary,2,2,Satire,Fiction,Make fun of documentaries
+1463,quirky,2,2,Peculiar,Curious,Different
+1463,holocaust,5,4,Nazism,Concentration camps,Deaths
+1463,humorous,5,4,Comedy,Smiles,Make fun of something
+1463,hilarious,5,4,Funny,Comic,Laughs
+1463,cyberpunk,3,3,Science fiction,Future,Opression
+1463,stupid,3,3,Foolish,Silly,Idiot
+1463,documentary,4,2,Narrative language,Real facts,Research and testimonials
+1463,social commentary,3,3,Sense of justice,Rhetorical,Social criticism
+1479,stupid,5,5,Brainless,Bonehead,Bubblehead
+1467,comic book,5,3,Simba,Mowgli,Tom and jerry
+1467,time travel,4,4,Time,Machine,Quantum
+1467,nonlinear,-1,-1,Equation,Mathematics,stucture
+1467,superhero,5,5,Ironman,uperman,Batman
+1467,holocaust,5,5,Jews,Nazi,World war 2
+1467,animation,5,5,Cartoon,Disney,Funny
+1467,documentary,3,3,Fact,Truth,Real
+1467,atmospheric,4,4,Environmental,Temperature,Hot
+1481,mockumentary,5,3,funny,poor quality,cheesy
+1481,martial arts,4,2,fighting,fast movements,hand to hand combat
+1481,superhero,5,2,strong,flying,powers
+1481,comedy,5,5,laughing,dumb jokes,funny
+1481,witty,5,2,confusing,funny,thought provoking
+1481,war,5,4,violence,bloodshead,weapons
+1481,mystery,5,3,scary,thought provoking,interesting
+1481,satire,5,3,making fun of something,cover,parody
+1481,stupid,5,5,funny,easy going,easy to understand
+1486,stupid,5,2,bad,dumb,terrible
+1486,western,5,5,desert,weapons,action
+1486,action,5,5,emotion,intense,thought-provoking
+1486,comic book,4,4,animation,infancy,kid
+1486,art house,3,3,design,culture,story
+1486,thought-provoking,5,5,action,fear,emotion
+1486,time travel,5,5,past,adventure,emotion
+1486,mockumentary,4,4,lie,unethical,false
+1487,existentialism,5,2,Life,Meaning,Purpose
+1487,twists & turns,5,4,Shock,Intrigue,Surprise
+1487,action,5,5,Explosion,Fight,Chase
+1487,nonlinear,4,2,Timeline,Confusing,Complex
+1487,pirates,5,1,Robbery,Murder,Ship
+1487,social commentary,5,4,Endorse,Critical,Judgemental
+1487,prison,5,4,Incarcerate,Criminals,Justice
+1487,india,5,2,Sub Continent,Populous,Religious
+1487,martial arts,5,3,Eastern,Fighting,Cultural
+1491,suspense,5,3,curiosity,thrill,interesting
+1491,romance,5,2,kind,passionate,love
+1492,mafia,5,3,mob,boss,Italian
+1492,martial arts,5,3,Karate,Japan,Kick
+1492,culture clash,2,3,different,contrast ,dissimliar
+1492,surreal,5,4,dreamlike,imagine,fantasy
+1492,predictable,5,3,obvious,known,clear
+1492,comedy,5,5,funny,hilarious,humor
+1492,western,5,1,cowboy,horses,country
+1492,superhero,5,5,hero,protector,action
+1492,thriller,5,5,exciting,thrilling,intense
+1492,cyberpunk,2,1,cyber,computer ,rascal
+1493,animation,4,4,cartoon,funny,cute
+1493,adventure,4,4,action,story,interesting
+1493,twists & turns,4,4,spooky,confusing,challenging
+1494,art house,3,2,Rocky Horror Picture Show,Clockwork Orange ,Joker
+1494,animation,5,5,Cartoon,Disney,Kids
+1494,original,4,3,New,Novel,Breakthrough 
+1494,drama,5,5,fiction,story-telling,conflicts 
+1494,horror,5,5,Scary ,Suspenseful,Creepy
+1495,war,5,3,Violence,Blood,Death
+1495,pirates,5,2,Adventure,Treasure,Mystery
+1496,romance,5,3,Love,Kisses,Sexual
+1496,robots,5,2,Futuristic,Scary,Distopian
+1496,atmospheric,4,3,Suspensful,Very cinematic,Thriller
+1496,existentialism,4,3,Bleak,Meaningless,Metaphysical
+1496,art house,3,2,Lower budget,Independent,Intellectual
+1496,quirky,5,4,Weird,Unique,Interesting
+1496,justice,4,2,Redemption,Revenge,Payback
+1497,war,5,4,sword ,death,rescue
+1498,film noir,4,2,artsy,old hollywood,French
+1498,mockumentary,5,4,cynical,funny,satirical
+1498,time travel,5,3,dystopian,futuristic,intense
+1498,pirates,5,3,pillaging,adventure,treasure
+1498,religion,5,3,dogmatic,preachy,boring
+1498,mystery,5,5,suspenseful,intelligent,manipulative
+1498,steampunk,1,1,science fiction,futuristic,technology
+1498,disturbing,5,3,scary,horrifying,disgusting
+1498,suspense,5,4,terrifying,scary,intense
+1498,musical,5,4,charming,lovely,enjoyable
+1505,musical,5,2,songs,family,broadway
+1505,funny,5,5,comedy,hilarious,comedien
+1505,art house,1,-1,artsy,cinematic,boring
+1505,superhero,5,5,marvel,dc,comic book
+1505,sci-fi,5,5,science,nerd,alien
+1505,world war ii,5,2,death,destruction,war
+1505,animation,5,5,cartoon,family,funny
+1506,end of the world,4,2,death,nuclear,alien
+1506,adventure,4,3,forest,danger,adrenaline
+1506,world war ii,4,2,German,Italy,Nuclear
+1506,martial arts,4,3,Karate,Fight,Jump
+1506,surreal,4,4,Astonishment,Dream,Scary
+1506,christmas,4,1,Santa Claus,Red,Green
+1506,holocaust,4,4,Jewish,Death,German
+1507,martial arts,5,1,asian,action,adventure
+1507,surreal,4,2,interesting,different,clever
+1507,serial killer,5,4,horror,murder,action
+1507,mockumentary,4,2,fake,clever,fun
+1507,documentary,5,2,educational,factual,teaching
+1507,unique,5,2,different,original,clever
+1507,original,5,2,unique,groundbreaking,interesting
+1507,psychological,5,3,talking,insanity,thinking
+1507,fantasy,5,1,cartoonish,scifi,adventure
+1507,existentialism,2,2,unique,psychological,different
+1508,overrated,5,3,common,too mainstream,basic
+1508,tense,5,5,anxious,disturbed,on edge
+1508,environmental,5,5,deforestation,pollution,habitat
+1508,holocaust,5,5,jews,nazi,death
+1508,mockumentary,5,5,very funny,silly,rolling on the floor laughing
+1508,documentary,5,5,nonfictional,historical,genuine
+1508,serial killer,5,5,messed up,crazy,lone wolf
+1508,satire,5,5,sketch,ridicule,parody
+1508,action,5,5,adventure,battle,operations
+1509,culture clash,5,5,country,food,dress
+1509,surreal,4,5,beyond,exceed,above
+1509,nonlinear,3,4,math,geometry,science
+1509,horror,4,4,scared,monster,house
+1509,pirates,4,4,boats,treasure,gold
+1509,prison,4,3,jail,guards,police
+1509,historical,4,5,ancient,old,records
+1509,mafia,4,5,crimes,drugs,KILL
+1509,superhero,4,5,STRONG,PERSON,MOVIES
+1514,documentary,5,5,non-fictional,reality,history
+1514,comic book,5,5,Superhero,magazine,comics art
+1514,adventure,5,5,action,danger,adrenaline
+1514,mockumentary,5,5,satire,irony, facetious 
+1514,hilarious,5,5,funny,amusing,comic
+1514,musical,5,5,dancing,music,singers
+1514,time travel,5,5,future,past,machine
+1514,superhero,5,5,adventure,villain,fights
+1514,mystery,5,5,thriller,mysteries,twists
+1515,time travel,5,5,Time machine,hibernation,Light speed
+1515,comedy,5,3,Comical,hilarious,Funny
+1515,dystopia,5,3,Surprise,unpredictable,undesirable
+1515,romance,5,5,love relation,forgiveness,love beyond time
+1515,historical,5,4,Real life,Classical figures,life lessons
+1516,artistic,5,2,Indie,Arthouse ,Experimental
+1516,hilarious,5,4,Comedy,Funny,Laugh
+1516,musical,5,5,Song,Soundtrack,Animated
+1516,horror,4,4,Scary,Thriller,Suspense
+1516,animation,5,5,Cartoon,Voice Acting,Art
+1516,twists & turns,4,4,Psychological,Thriller,Unexpected
+1516,psychological,5,4,Thinking,Unexpected,Twist
+1516,superhero,5,5,Cape,Villain,Good v Evil
+1516,martial arts,5,2,Fighting ,Master,Teacher
+1516,witty,4,4,Clever,Funny,Fast Talking
+1519,unique,5,5,exclusive,rare,uncommon
+1519,documentary,5,4,written,facts,recorded
+1519,predictable,4,5,expected,probable,\tforeseen
+1519,christmas,4,5,santa,snow,December 
+1519,psychological,5,4,madness,mental illness,unique
+1519,plot twist,4,4,jaw-dropper,unexpected development,odd turn\t
+1519,romance,4,4,love,Falling in love,valentines 
+1519,mafia,4,4,Bad,gang,guns
+1519,historical,4,5,\tconfirmed,factual,true
+1519,pirates,3,3,treasure map,pirate ship,eye patch
+1524,satire,3,3,Funny,Laughter,Sense of Humor
+1524,documentary,5,5,Information ,Real Life ,Profile
+1524,culture clash,-1,-1,Different people,Customs,Traditions 
+1524,action,5,5,Intense,Fast,Not boring
+1524,animation,5,5,Creative,Arts ,Very Colorful
+1524,war,5,5,Destruction ,Battle,Fighting
+1524,time travel,5,5,Futuristic,Time Waves,Energy
+1524,india,5,5,Country,Rich ,Customs
+1524,film noir,4,4,Dramatic,Dark,Realism
+1524,religion,5,5,Godly Instructions for mankind,Salvation ,Hope
+1526,predictable,4,4,já esperava,final pronto,já é de se imaginar
+1526,war,4,4,luta,batalha,rivalidade
+1527,horror,5,2,fear,afraid,dont watch
+1527,world war ii,3,2,fight,battle,death
+1527,art house,3,4,beautiful,amazing,nice
+1527,thriller,5,4,interesting,what next,sit in corner
+1527,documentary,5,2,boring,simple,slow moving
+1527,mafia,4,3,unknown,somebody work behind,big hand
+1527,predictable,5,4,guess,know what next,clues
+1527,plot twist,-1,2,dont know,dont know,dont know
+1527,christmas,5,4,celebration,santa claus,christmas tree
+1527,aliens,4,3,from other planet,vigorous,rare come
+1528,witty,5,3,Funny,Slap stick,humor
+1528,boring,5,2,slow,uneventful,sleepy
+1528,fantasy,4,4,made up,dreams,future
+1528,comic book,2,2,Superheros,nerds,drawn
+1528,documentary,3,3,home made,real,important events
+1528,horror,5,5,scary,terror,killer
+1528,space,5,4,universe,futrure,aliens
+1528,hilarious,5,4,funny,comedy,laughing
+1528,holocaust,2,2,event,historical,sad
+1528,funny,5,4,silly,slapstick,laughing
+1537,philosophical,3,2,Stoicism,Existential,thought
+1537,stylized,2,2,unique,different,beautiful
+1537,world war ii,4,1,death,pain,destruction
+1537,artistic,4,4,beautiful ,landscape,smart
+1537,superhero,5,5,disasater ,hero,resilience
+1537,predictable,2,2,boring,waste of time,unsmart
+1541,comic book,5,3,colored pages,graphics,speech bubbles
+1541,plot twist,5,3,unexpected,easter egg,surprise
+1541,satire,5,2,idiocray,george orwell,1984
+1541,horror,3,3,gore,suspense,fright
+1541,musical,1,1,boring,distracting,irritating
+1541,disturbing,2,2,unnerving,unsettling,raw
+1541,dystopia,2,2,futuristic,foretelling,foreboding
+1541,superhero,2,2,brave,generous,noble
+1541,tense,2,2,tight,high alert,frustration
+1541,world war ii,2,2,germany,hitler,stalin
+1538,martial arts,5,3,judo,karate,taekwondo
+1538,time travel,4,4,time,science fiction,theory of relativity
+1538,aliens,5,5,UFO,space travel,light years
+1538,holocaust,4,3,genocide,ghetto camps,nuclear explosion
+1538,art house,3,2,paintings,sculpture,artifact
+1538,world war ii,5,5,Allied forces,concentration camps,adolf hitler
+1538,stupid,5,5,less inteligent,slow decision taker,dumb
+1538,environmental,5,5,climate change,global warming,rise of sea level
+1538,psychological,5,5,emotion,mental illness,rehabiliation
+1540,violence,4,3,Blood ,dark ,moody
+1540,pirates,4,5,theives,sea,ships
+1540,drama,5,4,story,suspense,thriller
+1540,psychological,4,5,anxiety,refreshness,motivational
+1540,india,5,5,Rich Culture,History,spirutality
+1540,animation,5,5,cartoons,unreal,on display
+1540,sci-fi,5,5,fiction ,scientists,experiments
+1540,world war ii,5,5,solders,Guns,life
+1543,romance,5,5,emotional,love,happily ever after
+1543,film noir,1,1,classic,hollywood,black and white
+1543,historical,5,4,era,real events,fiction
+1543,world war ii,1,1,opposition,military,crisis
+1543,satire,5,5,funny,mockery,parody
+1543,christmas,5,5,holiday,family,good message
+1545,stupid,5,3,lack of cohesion,lack of humor,doesn't make sense
+1545,martial arts,5,3,fighting technique,intelligent fighting,tried and true fighting method
+1545,musical,5,3,singing to describe feelings,a story told through music,instruments
+1545,sci-fi,5,3,freaky,scary,untrue stories that seem realistic
+1545,disturbing,5,3,stomach turning,thriller,sickening
+1545,horror,5,3,stomach turning,disgusting,sickening
+1545,twist ending,5,3,unexpected,catching off guard,plot twist
+1545,stylized,4,3,specific look or vibe,race characteristic ,cultural distinct
+1545,humorous,5,3,funny,belly laughing,silly
+1549,stupid,5,4,simple,ridiculous,dumb
+1549,robots,5,5,lasers,AI,future
+1549,predictable,5,3,trope,cliche ,banal
+1549,pirates,5,2,ships,treasure,stealing
+1549,unique,5,3,avant garde,artsy,modern
+1549,world war ii,5,3,tanks,Hitler,Allies
+1549,satire,5,5,comedy,outrageous,parody
+1549,plot twist,5,3,mystery,misdirection,reveal 
+1549,western,5,3,cowboys,horses,desert
+1549,horror,5,2,jump scare,ghost,darkness
+1562,futuristic,4,4,very modern and unusual in appearance,imagining what things in the future will be like,futuristic architecture
+1562,musical,5,4,connected with music,interested in or good at music,He’s very musical
+1562,steampunk,3,2,Steampunk is a retrofuturistic subgenre of science fiction that incorporates technology,"The word ""steampunk"" is made of the root words ""steam"" and ""punk",Steampunk statue now stands at Springdale
+1562,adventure,5,5,Adventures are forever,Adventure is worthwhile,Adventure begins where plans end
+1562,space,5,5,A Waste Of Space,To Be Pressed For Space,Free Space
+1562,martial arts,5,5,Martial arts represents your body in swift manner,Martial arts for defense ,Martial arts for not bullying 
+1562,art house,5,5,I often love to go art house ,Art house is near my home ,Feel connected in art house 
+1562,humorous,5,5,Some people have good Humorous ,Good humorous makes you connected ,Humorous is make other laugh 
+1562,visually appealing,5,5,Visually appealing attract other ,visually appealing shows your character ,visually appealing represents about you 
+1562,war,5,5,war is not good,War kills ,war can destroy earth 
+1566,plot twist,5,3,surprise,character change,reveal
+1566,mafia,5,3,violence,family dynamics,organized crime
+1566,time travel,5,4,paradox,science fiction,butterfly effect
+1566,horror,5,2,gore,suspense,slasher
+1566,culture clash,4,2,colonization,misunderstanding,empathy
+1566,comic book,5,4,color,backstory,hero
+1566,overrated,5,4,over the top,unrealistic,disappointing
+1566,quirky,5,4,dark comedy,heart filled,whimsical
+1566,martial arts,5,4,action,technique,discipline
+1591,prison,2,3,trapped,crime,bad
+1591,india,5,4,far,asia,fun
+1591,predictable,3,3,easy,close,
+1591,witty,5,5,smart,wise,calm
+1591,environmental,4,5,nature,clean,calm
+1591,fantasy,3,4,future,war,attack
+1591,animation,3,3,toy,movement,great
+1591,inspirational,5,5,admire,greatness,future
+1591,thriller,4,4,scary,afraid,excitement
+1599,witty,5,5,Avispado,Locuaz,Listo
+1599,time travel,5,5,Aspiral,Maquinas,Reloj
+1599,boring,5,5,Soso,Cansado,Dormido
+1599,great soundtrack,5,5,I don't now,I don't now,I don't now
+1599,overrated,5,5,Demasiado,Tiempo,Sobrado
+1599,stupid,4,4,Sobrado,Agresivo,Subido
+1599,thought-provoking,5,5,I don't Now,I don't Now,I don't Now
+1599,sci-fi,4,5,Naves,Futuro,Marcianos
+1599,horror,5,5,Monstruos,Assesinos,Armas
+1599,humorous,5,5,Reir,simpatico,Gracioso
+1600,religion,5,4,God,prayer,Hope
+1600,time travel,5,5,Time machine,Change,Abnormal
+1600,cyberpunk,3,5,geek,Techie,Cyber
+1600,drama,3,2,Slow,Boring,Avodable
+1600,humorous,5,5,Fun,Relax,Happy
+1600,pirates,5,3,Ship,sail,Treasure
+1600,sci-fi,5,5,Alien,time machine,futuristic
+1598,superhero,5,3,savior of the world,with great powers comes great responsibilities,comics
+1598,romance,1,2,honey,Princess,wedding day
+1598,twist ending,5,5,astonishment,wow!,surprise
+1598,pirates,5,3,captain jack sparrow,pirates ship,treasure island
+1598,aliens,5,5,UFO,X-Files,cosmo
+1598,stylized,3,3,Tarantino,aesthetics,glamour
+1598,martial arts,5,4,Bruce Lee,concentration,breathing
+1598,time travel,3,3,paradox,time mistake,physics
+1598,fantasy,4,4,Middle Ages,Dragons,Wizards
+1601,drama,5,4,genres ,comedy,tragedy 
+1601,superhero,5,5,Extra ordinary skills,tolerant to pain,helping hand
+1601,mafia,5,3,Threatening ,racketing ,crime
+1601,comedy,5,4,fun,happy ending ,relaxing 
+1601,atmospheric,3,4,stroms,climate change,effects
+1601,end of the world,3,5,aliens,war,pandemic 
+1603,satire,4,4,Horatian,Juvenalian,Menippean
+1603,mockumentary,4,4,docucomedy,Exaggerate Relatable Cliches.,depicting fictional events
+1603,superhero,5,4,brave,stock character,special power
+1603,film noir,4,3,cynical heroes,a mood of pessimism,fatalism
+1603,time travel,3,4,journey,exciting,happy
+1603,romance,4,3,affection,amativeness,enamoredness.
+1603,pirates,4,5,Hempen halter,Black spot,Hornswaggle
+1603,philosophical,4,3,glossary,materialism,ontology
+1603,horror,4,3,awe,dread,fright
+1606,world war ii,5,5,Germany,Russian,Allied Forces
+1606,mockumentary,4,2,comedy,style,cultures
+1606,social commentary,4,4,justice,equality,fair treatment
+1606,comic book,5,5,Tintin,Spiderman,Superman
+1606,stylized,4,4,pattern,effects,art
+1606,martial arts,5,5,power,action,practice
+1606,stupid,5,4,comedy,dumb,waste of time
+1607,culture clash,5,3,Oylimpics,east meet west,International food festival
+1607,romance,5,4,love,intimate,dating
+1607,funny,5,4,laughter,comedian,talk show host
+1607,unique,5,5,one of a kind,needle in a hay stack,special
+1607,violence,5,5,murder,mayham,anger
+1607,humorous,4,3,ridiculous,entertaining,playfull
+1607,holocaust,4,2,death camps ,NAZI,Jews
+1607,existentialism,2,3,Freedom of will,Free will,investigate the meaning of being
+1607,horror,5,4,scary,Welcome to my nightmare,Screaming
+1610,satire,5,4,humorous,exagerated,ironic
+1610,humorous,5,5,funny,enjoyable,laughing
+1610,predictable,5,3,easy to know,knowing,expected
+1611,drugs,4,4,needles,high,cocaine
+1611,predictable,5,4,boring ,normal,similar
+1611,space,5,3,stars,planets,spaceship
+1611,war,5,3,battle,death,guns
+1611,unique,5,4,unusual,strange ,unprecedented
+1611,disturbing,5,5,scary,real,evil
+1611,holocaust,5,4,war,nazi,camp
+1611,existentialism,4,3,life,society,mind 
+1611,self discovery,4,3,adventure,meditation,introspection
+1613,western,5,3,westbound,american,hollywood
+1613,hilarious,4,4,comedy,laugh,smile
+1613,mystery,3,2,unknowing,reveal,suspense
+1613,martial arts,4,5,figting,kung fu,techniques
+1613,time travel,2,2,future,present,past
+1613,animation,4,5,cartoon,fictional,creativity
+1613,humorous,2,2,amusing,funny,entertainment
+1613,superhero,4,5,power,ability,strong
+1613,mafia,4,3,crime,gang,black market
+1614,mystery,3,5,question,riddle,secrecy
+1614,fantasy,3,3,imagination,phantasm,illusion
+1614,martial arts,5,5,basho,bogu,dan
+1614,musical,2,2,concert,musical comedy,recital
+1614,space,1,1,asteroid,density,astronomer
+1617,funny,5,5,light hearted,comedy,laugh
+1617,time travel,5,5,science,mind bending,generation
+1617,satire,4,5,sharp,witty,not easily understood
+1617,drugs,5,5,life breaking,addiction,meth
+1617,drama,5,3,boring,mundane,not much happening
+1617,hallucinatory,3,4,something different,dreamy,lsd
+1617,martial arts,3,2,action,fight,bruce lee
+1617,original,1,-1,new,different,exclusive
+1617,twist ending,5,5,different,thrill,edge of the seat
+1617,holocaust,5,2,mass murder,genocide,nazi
+1626,environmental,5,3,ecosystem,earth,fauna
+1626,mockumentary,4,4,false documentary,fictitious fact,fiction
+1626,historical,5,4,past,centuries,world
+1626,mafia,5,5,italia,mob,family
+1626,martial arts,5,4,oriental,fight,action
+1626,horror,4,2,scaring,chill,night
+1626,surreal,4,3,strange,funny,fiction
+1626,quirky,2,2,rare,unconventional,unusual
+1626,art house,3,2,independent,experimental,film
+1627,superhero,5,5,strong,courageous,superpower
+1627,musical,4,3,funny,scenographic,cheerful
+1627,christmas,4,3,happiness,gifts,Christmas tree
+1627,religion,4,2,god,love,faith
+1627,prison,5,4,fear,pain,redemption
+1627,original,4,3,personal,new,different
+1627,holocaust,5,3,frightening,terrifying,inhumane
+1627,fantasy,5,5,"magic,",powers,heroes
+1627,surreal,3,3,incredible,astounding,unreal
+1627,time travel,5,5,impossible,fantastic,beautifull
+1632,superhero,3,2,Superpowers,villains,battle
+1632,serial killer,5,2,die,cruelty,horror
+1632,unique,4,5,spectacular,weird in a good way,different
+1632,christmas,5,5,Holidays,decorations and tree,snow
+1633,steampunk,3,3,cogs,alternate timeline,victoriana
+1633,boring,5,2,dull,simple,blah
+1633,christmas,5,3,santa,presents,kids
+1633,twist ending,5,4,unexpected,gotcha,surprise
+1633,comedy,5,5,laughing,funny,hilarious
+1633,drugs,5,2,addiction,illegal,hallucinate
+1633,time travel,5,4,forwards ,backwards,move
+1633,original,5,3,new,fresh, unique
+1633,martial arts,5,2,asian,wire work,technical
+1633,western,5,2,cowboys,guns,dessert
+1630,boring,5,2,not interesting,not exciting,lacking interest
+1630,prison,5,2,cold,camera,fear
+1630,hallucinatory,5,2,trip,mindless,mind breaking
+1630,robots,5,2,steel,artificial intelligence,machines
+1630,superhero,5,3,super power,god,saviors
+1630,war,5,3,blood,deaths,weapons
+1630,environmental,5,2,ecosystem,planet,earth
+1630,predictable,5,1,already known,guessable,simple
+1630,time travel,5,3,time loop,time machine,doctor
+1630,futuristic,5,4,Hi tech technologies,super computers,ecosystem
+1631,overrated,5,2,valued too highly.,overrated singer.,got more attention than it deserve
+1631,sci-fi,5,5,short for science fiction.,science related movie,mystery
+1631,drama,5,4,"a play for theater, radio, or television.","n exciting, emotional, or unexpected series of events or set of circumstances",a hostage drama
+1631,environmental,4,4,Environmental means concerned with the protection of the natural world of land,making a city more beautiful,"An example of environmental is a person who lives by reduce, reuse and recycle"
+1631,action,5,5,"the fact or process of doing something, typically to achieve an aim",a thing done,"a movie including violence, extended fighting, physical feats, rescues and frantic chases."
+1631,animation,5,4,Animation is a method in which figures are manipulated to appear as moving images,the state of being full of life or vigor,cartoon
+1631,steampunk,4,2,a genre of science fiction that has a historical setting and typically features steam-powered machinery rather than advanced technology.,Steampunk fashion is a subgenre of the steampunk movement in science fiction,"The word ""steampunk"" is made of the root words ""steam"" and ""punk"""
+1631,cyberpunk,3,2,a genre of science fiction set in a lawless subculture of an oppressive society dominated by computer technology., science fiction dealing with future urban societies dominated by computer technology.,"""combination of lowlife and high tech"""
+1631,war,5,5,"War is an intense armed conflict between states, governments, societies, or paramilitary groups such as mercenaries, insurgents, and militias","Extreme violence,mass killing,destruction",War has a catastrophic effect on the health and well being of nations
+1631,mystery,5,5,something that is difficult or impossible to understand or explain.,"a novel, play, or movie dealing with a puzzling crime, especially a murde", something not understood or beyond understanding
+1637,animation,4,3,kids,fun,disney
+1637,environmental,3,3,planet,nature,water
+1637,hilarious,4,4,fun,dumb,easy
+1637,hallucinatory,3,3,crazy,weird,strange
+1637,time travel,3,3,action,fun,science
+1637,mafia,4,4,blood,violence,italy
+1637,western,3,3,blood,gun,desert
+1637,end of the world,4,4,meteor,explosion,savior
+1638,mafia,5,5,illegal,violence,drugs
+1638,comic book,3,3,funny,entertaining,childish
+1638,surreal,5,5,unique,different,original
+1638,stylized,1,1,stylish,unique,different
+1638,end of the world,5,4,armaggedon,dooms day,last day
+1638,drugs,5,4,substances,illegal,criminal
+1638,martial arts,4,4,fighting,violence,eastern
+1638,stupid,4,4,dumb,idiotic,funny
+1638,unique,5,5,original,different,outstanding
+1638,philosophical,3,2,deep,thinking,state of mind
+1640,war,1,1,Tank,Soldiars,Planes
+1640,unique,1,1,Different,Unexplainable,Odd
+1640,witty,1,1,Jokes,Funny,Smart
+1640,drugs,1,1,Smuggle,Illegal,Fighting
+1641,space,5,5,universe,future,alien
+1641,superhero,5,4,power,crime fighting,protector
+1641,hilarious,5,2,comical,entertainment,laughter
+1641,time travel,5,3,future,experiencing another era,Einstein and Theory of Relativity
+1641,serial killer,5,5,Psychopath,brutality,Solving the crime
+1641,prison,5,2,Inmates,distress,punishment
+1641,environmental,5,2,pollution,planet Earth,responsibility
+1641,documentary,5,5,reality,eye opener,information
+1641,drugs,5,4,addict,illegal activity,undercover law enforcement
+1656,documentary,5,5,informative,experimental,interesting
+1656,environmental,4,3,ecofriendly,anthropocene,message
+1656,satire,4,4,funny,biting,political
+1656,horror,5,5,scary,chilling,haunting
+1656,hilarious,5,3,comedy,silly,daft
+1656,sci-fi,5,4,futuristic,dystopian,space
+1656,musical,5,2,loud,colorful,old
+1656,drugs,5,3,gritty,dramatic,depressing
+1656,quirky,5,4,arthouse,different,unique
+1656,animation,5,4,pixar,cartoon,children
+1655,steampunk,5,4,Pipes,Technology,Alternative Reality
+1655,art house,1,1,Strong Art Style,Lighting,Director
+1655,animation,5,4,Drawings or Renders,Rigging,Software
+1655,robots,4,2,Metal,Not human,Futuristic
+1655,horror,4,1,Scary,Suspance,Tension
+1655,mafia,5,1,Gangsters,American-Italian,60's
+1655,fantasy,3,2,Alternative reality,Dragons,Irrealistic
+1655,christmas,5,3,Snow,Santa,Youth
+1655,western,5,1,Cowboy,America,Boots
+1654,superhero,5,5,justice,force ,resilience 
+1654,unique,2,5,one ,independent ,inteligence 
+1654,pirates,5,5,robery,vilonce ,blood 
+1654,musical,5,5,Calm,fun,hope 
+1654,cyberpunk,4,2,otherside,agaist the society,ugly 
+1654,environmental,2,5,tree,plants ,green 
+1654,martial arts,5,5,karate,mma,jiu-jitsu 
+1654,stupid,5,5,comedy,fun,jonh doo 
+1660,horror,4,3,discomfort,disgusting,fear
+1660,justice,3,3,sword,judge,blind
+1660,steampunk,3,2,brass,riveted,wood
+1660,unique,4,3,rare,fascinating,unusual 
+1660,nonlinear,4,2,time,dots,space
+1660,animation,4,2,generated ,drawn,unreal
+1660,hilarious,5,3,funny,silly,comedy 
+1660,comic book,4,4,paper ,hero,Superman
+1660,prison,5,2,bars,captivity,rape
+1662,robots,5,5,automatically ,work,technology 
+1662,prison,2,5,jailor,jail,police
+1662,philosophical,5,5,thinking ,thought,feel
+1662,fantasy,5,5,good ,sugar,adventure 
+1662,predictable,5,5,future ,not sure ,risk
+1662,animation,5,5,cartoon ,graphics ,creative 
+1662,violence,5,5,blood ,loss,riots
+1662,india,5,5,culture ,history ,proud
+1661,visually appealing,4,3,cool to the eyes,pleasant ,seems realistic
+1661,mafia,5,2,gangster gang,mob,criminals
+1661,stupid,5,3,creepy,crazy,brainless
+1661,great soundtrack,4,3,nice for ears,liked by everyone,good sound
+1661,historical,4,4,mythology,history related,has evidence of past
+1661,sci-fi,4,4,scientific,not real,fantasy
+1661,martial arts,4,2,karate,boxing,kungfu
+1661,animation,5,4,children,drawing,computer skills
+1661,environmental,4,3,nature,trees,pollution
+1666,mystery,5,5,Thriller,"Murder, undisclosed killer",persecution
+1666,unique,5,2,Original,different,superior
+1666,hallucinatory,5,4,discomfort,immersive,not knowing how to differentiate whether it is reality or not
+1666,war,5,4,destruction,no agreement between two entities,many people involved
+1666,animation,5,4,drawing,not acted upon by people,usually fanciful
+1666,disturbing,5,3,uncomfortable,causes nausea,shocking scenes
+1667,stupid,5,4,funny,fool,entertaining
+1667,humorous,5,5,funny,moving,affectionate
+1667,war,4,4,action,movement,crude
+1667,suspense,4,4,agitated,breath,concentration
+1676,environmental,3,4,TREES,NATURE,ANIMALS
+1676,prison,4,4,CELL,CRIMINALS,POLICE
+1676,horror,4,4,GHOST,BUNGLOW,DARKNESS
+1676,adventure,5,4,TOURING,TREKKING,MOUNTAINS
+1676,pirates,3,4,THIEF,ROBBERY,VIOLENCE
+1678,predictable,4,5,easy,determined ,known
+1678,end of the world,4,5,gone,danger,destruction
+1678,satire,3,4,comedy,laid back,outfits
+1677,hallucinatory,5,2,Hallucinations ,Delusion ,Delirious 
+1677,unique,5,4,One of a kind,Special,Eccentric 
+1677,horror,5,5,Fear,Terror,Frightening 
+1677,time travel,5,2,Transtemporal,Going back in time,Going forward in time
+1677,historical,5,2,Factual,Ancient ,Verifiable 
+1677,environmental,5,2,Natural ,Substantial ,Ecological 
+1677,disturbing,5,4,Perturbing,Sinister ,Creepy 
+1677,drugs,5,2,Crime,Addiction ,Illegal
+1677,violence,5,2,Disturbing,Brutality ,Cruelty 
+1677,dystopia,5,5,Unpleasant ,Futuristic ,Imagined 
+1679,superhero,5,5,power,freedoms,peace
+1679,historical,5,5,history,war,collision
+1679,prison,5,5,bandit,cell,guard
+1679,christmas,5,5,Good,Santa Claus,Christmas turkey
+1679,environmental,5,5,Green,nature,Animals
+1679,nonlinear,5,5,Without line,Confusing,Stranger
+1679,dystopia,5,5,Diferent,Bad,Stranger
+1679,sci-fi,5,5,Not true,Magic but not,Future
+1679,time travel,5,4,Future,Car,Time Machine
+1679,western,5,2,Reality,My Life,Guns
+1681,action,5,4,guns,fire,men
+1681,documentary,5,5,learning,truth,info
+1681,religion,5,1,god,scam,power
+1681,surreal,5,3,odd,dali,strange
+1681,western,5,3,guns,horses,music
+1681,culture clash,5,3,odball,stranger,travel
+1680,original,5,5,New,different,real life
+1680,cyberpunk,3,2,Tech criminal,mockery,betrayal
+1680,mockumentary,5,4,mockery,funny,society
+1680,musical,2,1,passion for music,gripping music,original 
+1680,pirates,3,2,thiefs,cunning ,looting
+1680,horror,5,4,scary,death,trauma
+1680,western,5,4,modern,slavery,niggers
+1680,predictable,5,5,forecasting,expecting,future
+1680,war,4,3,chaos,death,government
+1682,cyberpunk,4,2,Robotic,futuristic,neon lights
+1682,mafia,5,3,gangs,crime,family
+1682,western,5,1,cowboys,american,gunslingers
+1682,pirates,5,4,sailing the sea,plundering,Jolly Rodgers 
+1682,historical,5,2,from long ago,dramatized ,factual
+1682,unique,5,5,different,stands out,nothing similar
+1682,comic book,5,4,graphic novels,action,edgy
+1682,witty,5,5,intelligent,complex,funny
+1683,dystopia,4,2,post-apocalyptic ,futuristic ,chimerical 
+1683,animation,5,2,cartoon,anime,manga
+1683,aliens,4,4,extraterrestrial,foreigner,outlander
+1683,hallucinatory,3,1,unreal,mind-blowing,unbelievable
+1683,end of the world,3,1,apocalyptic,day of judgment,armageddon
+1683,fantasy,5,5,imagination,fairy story,magicians
+1683,twists & turns,5,4,plot-twist,variation,turnaround
+1683,historical,5,5,past,war,historic background
+1683,stylized,2,2,sleek,cartoonish,exaggerated
+1687,steampunk,2,-1,fiction,horror,crazy
+1687,western,5,5,culture,lifestyle ,vintage
+1687,world war ii,5,5,war,army,military
+1687,environmental,5,5,earth,world,atmosphere
+1687,quirky,1,-1,doubt,unaware,confusion
+1687,social commentary,5,5,current affairs,history,knowledge
+1687,violence,5,5,blood,hurt,war
+1687,religion,5,5,god,fairy,horror
+1687,atmospheric,5,5,environment,earth,world
+1687,martial arts,5,5,action,fight,health
+1686,robots,5,3,sci-fi,future,tech
+1686,horror,5,4,guts,scare,fright
+1686,martial arts,4,1,japan,fight,defense
+1686,historical,3,5,epic,creativity,journey
+1686,boring,5,2,dull,tedious,sleepy
+1686,twist ending,2,5,surprise,plot twist,turnaround
+1686,unique,5,4,beautiful,different,sentimental
+1686,sci-fi,5,4,future,dystopia,robots
+1686,comic book,3,2,heroes,champion,hq
+1686,insanity,3,4,madness,crazy,non sense
+1689,adventure,4,3,exciting,travel,explore
+1689,superhero,5,3,fight,win,villain
+1689,art house,3,3,appreciate,moments,grasp
+1689,suspense,4,4,dark,unexpected,disturbing
+1689,futuristic,4,4,future,not available now,gadgets
+1688,christmas,5,2,Turkey,Presents,Family
+1688,prison,5,3,Incarceration,guards,slopping out
+1688,comedy,5,3,Romantic,predictable,funny
+1688,end of the world,5,1,Boring,sensationalist,Corny
+1688,atmospheric,4,4,Pauses,romantic,engaging
+1688,environmental,5,1,Planet,weather,governments
+1688,twist ending,5,5,Suspense,Shock,Surprise
+1688,self discovery,4,2,Youth,sexuality,not conforming
+1688,musical,5,1,Big songs,dancing,costumes
